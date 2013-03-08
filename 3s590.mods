@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Futūḥ Ifrīqiyah min madīnat al-Qirwān ilá Zāb bi-bilād Ṭānah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary">
+      <title>فتوح افريقية من مدينة القروان الى زاب ببلاد طانة</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - Africa, North - 18th century</genre>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <genre>Waqf - Books</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1728</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>109 leaves : paper ; 176 × 135 (115 × 92) mm. bound to 181 × 142 mm.</extent>
+   </physicalDescription>
+   <abstract>History of the conquest of North Africa from Qayrawān to Zāb</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from rubric (fol. 1b)</note>
+   <note type="physicalDetails">16 to 17 long lines per page. Written in Maghribi script, in brown ink with some use of red and occasional green; with catchwords on the verso of each leaf, and
+      on the recto of each leaf from fol. 7a. European paper. Modern foliation using Western numerals. There is a ḥabūs mark (fol. 109b). Good condition with water staining and some minor insect
+      damage. Some wear on final leaves</note>
+   <note type="origin">Copied by ʻAlī ibn Abī [Mu]ʻizz al-Rajrājī on 7 Dhū al-Ḥijjah 1140 (colophon, fol. 109b)</note>
+   <note type="bindingInfo">Modern Western type binding of pasteboards covered with paper</note>
+   <note type="acquisition">Purchase; Sam Fogg; 2006; AM2006-93</note>
+   <note type="incipit" script="Arab"> قال وسميت القروان قروان … عقبة ابن عامر رضي الله عنه نزل بافريقية</note>
+   <note type="explicit" script="Arab"> قال الراوى لهذا الحديث هذا ما وجدنا في السفر١ من فتوح افريقية من بلاد المهدية الى بلاد زاب وفي السفر الثانيمن بلاد زاب الى اخر المغرب … وكان النصر للمسلمين
+      من فضل الله وبركته … وصلى الله على نبينا محمد واله وصحبه وسلم تسليما كثيرا كثير</note>
+   <subject authority="lcsh">
+      <geographic>Africa, North</geographic>
+      <topic>History</topic>
+      <temporal>647-1517</temporal>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <geographic>Africa, North</geographic>
+      <topic>History</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh" altRepGroup="2">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">ʻUqbah ibn Nāfiʻ</namePart>
+         <namePart type="date">d. 683</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh" altRepGroup="2">
+      <name type="personal" script="Arab" lang="ara">
+         <namePart type="given">عقبة بن نافع</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Third Series no. 590</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3s590.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4634480</recordOrigin>
+   </recordInfo>
+</mods>

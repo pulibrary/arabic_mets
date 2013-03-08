@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Qiṣaṣ al-Qurʼān al-ʻaẓīm</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب قصص القرآن العظيم</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Būshanjī</namePart>
+      <namePart type="given">al-Hayṣam ibn Muḥammad</namePart>
+      <namePart type="date">11th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">بوشنجي</namePart>
+      <namePart type="given">الهيصم بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1704</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>314 leaves : paper ; 297 × 203 (229 × 136) mm. bound to 301 × 223 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise explaining the stories of the Koran and events in the life of the Prophet Muḥammad. This ms. seems to contain the first part of this book (see note on the title)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a). Part of the rest of the title is obliterated, reading : "wa-huwa […] min kitābihi raḥimahu Allāh taʻālā" (see also colophon, fol.
+      343b: "tamma hadh[…] min hādhā al-kitāb")</note>
+   <note>In the Persian translation of this work (see GAL, SI, 592), the author's name is Abū al-Ḥasan ibn Hayṣam. The name Ibn Hayṣam is also written on two modern labels on our ms. (on
+      the pastedown of the upper and lower cover respectively). For the date 400 H./1009 associated to the author, see fol. 213b</note>
+   <note type="physicalDetails">29 lines per page, verses of poetry in two columns. Written in thick medium large naskh in black ink with use of red (R. Mach: Yemenite hand), on European glazed
+      paper (frame-ruled, 7 mm.). The text is framed in two red lines throughout. A few notes in the margin. Ownership statement on fol. 1a. Stamp on the lower cover. Label on pastedown of the
+      upper and of the lower cover mentioning the title in Arabic, the date of the copy in Western numerals and the inscription "ELS no. 49". Foliation in pencil using Western numerals</note>
+   <note type="origin">Copied by […] ibn ʻAlī al-Zankalūnī on Friday 16 Rajab 1116 (colophon, fol. 343b)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Upper and lower covers, fore-edge flap and envelope flap made of brown leather over paper pasteboards. The lower and upper covers are similarly blind-tooled with a
+      central mandorla with two pendants on the vertical axis and an outer frame with fillets and a running pattern of flower stamps. A vertical fillet connects the central pattern to the frame.
+      The envelope flap has a similar outer frame with a roundel at its point</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الحمد لله الذي خلق الخلق اظهارا لقدرته وبسط عليهم الرزق اسباغا لنعمته … اما بعد فقد كنت لقنت بعض الاصحاب موجزا من ذكر قصص القران</note>
+   <note type="explicit" script="Arab"> رجالا من اعيان قريش منهم ابو سفين بن حرب ومحذمة بن نوفل و عمرو بن العاص وغيرهم تم</note>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Qiṣaṣ al-anbiyāʼ</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prophets</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Koran stories</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>History of Koranic events</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <genre>Biography</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4391</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 592/3</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 49Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/49y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4805381</recordOrigin>
+   </recordInfo>
+</mods>

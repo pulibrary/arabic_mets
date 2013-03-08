@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Zād al-ashrāf fī wafq al-qāf</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>زاد الاشراف في وفق القاف</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart>Khaṭṭāṭ</namePart>
+      <namePart type="given">Ibrāhīm ibn Aḥmad</namePart>
+      <namePart type="date">18th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated>[18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>10 leaves : paper, ill. ; 209 × 150 (150 × 88) mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise in five chapters (faṣl) on the magical properties of the letter qāf and its use in charms, with figures</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from beginning of text (fol. 1b, l. 14)</note>
+   <note type="physicalDetails">27 lines per page. Written in medium small naskh in black ink with use of red. European glazed paper with watermark ("JL Gran Masso"), frame-ruled. Foliation in
+      pencil using Western numerals</note>
+   <note>Collation: Paper ; fol. 10 ; 1¹⁰ ; catchword on the verso of each leaf</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1904, from the books of Amīn Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Unbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … الحمد لله الذي اكرمنا باسراره ونلا قلوبنا بانواره والصلاة والسلام علي سيدنا محمد الذي تنورت الاكوان بظهوره … اما بعد فيقول الفقير الذليل … هذه
+      رسالة لطيفة تتعلق بالوفق الميني(؟) اذكر فيه الفوائد الواصلة الينا من المشايخ العظام</note>
+   <note type="explicit" script="Arab"> ولبستم وفقي وعاونتم ضعفي في كل ما اريد الوحا ٢ العجل ٢ الساعة ٢ بارك الله فيكم وعليكم وصلى الله علي سيدنا محمد وعلي اله وصحبه وسلم تسليما كثيرا والحمد
+      لله رب العالمين امين</note>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Amulets (Islam)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 944</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, GII, 294 (4/2)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 335L</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/335l.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4730377</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="tur" altRepGroup="1" supplied="yes">
+      <title>Vaka-yi Kerbela</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="tur" altRepGroup="1" supplied="yes">
+      <title>وقعة كربلاء</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="tur" altRepGroup="2">
+      <namePart type="given">Edhem</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="tur" altRepGroup="2">
+      <namePart type="given">ادهم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Turkish - 17th century</genre>
+   <genre>Illuminated manuscripts - Islamic countries - 17th century</genre>
+   <genre>Headpieces (layout features) - Islamic countries - 17th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1603</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ota</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 219, i leaves : paper ; 244 × 160 (174 × 102) mm. bound to 245 × 165 mm.</extent>
+   </physicalDescription>
+   
+   <abstract>A history of the battle of Karbala and the martyrdom of Imam Ḥusayn. The text ends on fol. 215b, and is followed (on ff. 216a-218b) by an incomplete text entitled "Mersiye", consisting
+      of a mersiye (a dirge in memory of Haṣan and Ḥusayn), and a commentary</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by the cataloger</note>
+   <note type="physicalDetails">18 lines per page. Written in small nastaʻlīq in black ink with use of red for rubrication. Text is within a frame outlined with four lines, in yellow, green,
+      red and blue, with verses separated from the main text in sections ruled in red ink. Fol. 1b has an illuminated head piece executed in gold leaf with blue, orange and black watercolors,
+      and the text frame is in gold leaf with one red and one blue line around it. Catchwords on the verso of each leaf. Foliation in Arabic numerals in black ink starts on fol. 2. Glazed dark
+      cream paper with visible laid lines</note>
+   <note type="provenance">Statement of gift from Mehmet Efendi to Mehmet Edip, dated 1146 (1733-34), and accompanied by a seal, on fol. 1a</note>
+   <note type="bindingInfo">Green leather with envelope flap. Gold tooled border design on covers and the envelope flap consisting of multiple gold rolls and fillets, with small rosetta stamps
+      forming corner pieces. Gold stamped 'branch with flowers' motif on upper and lower covers. Gold tooled panel design on fore edge flap, made with fillets and rosetta stamps. Endleaves and
+      lining to envelope flap in yellow embossed glazed paper. Lining to the fore edge flap in green leather</note>
+   <note type="incipit" script="Arab"> رب شرح لي صدري ويسر لي امري واحل عقدة من لساني ويفقهو اقوالي</note>
+   <note type="explicit" script="Arab">اجرلر بو له لر وجمله ثوابلر ندن بو مصيبت نامه مؤلفنه تصدق قلوب بو ثوابي دخي موجب مزيد حسنات بله لر</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="tur">
+         <namePart type="given">Ḥusayn ibn ʻAlī</namePart>
+         <namePart type="date">d. 680</namePart>
+      </name>
+      <topic>Death and burial</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Karbalāʾ, Battle of, Karbalāʾ, Iraq, 680</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shiites</topic>
+      <topic>History</topic>
+      <temporal>To 1500</temporal>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>History</topic>
+      <temporal>To 1500</temporal>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Turkish</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Özege, M. S. Eski harflerle, 22472</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 1718</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns1718.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5140367</recordOrigin>
+   </recordInfo>
+</mods>

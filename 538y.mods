@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <nonSort>al-</nonSort>
+      <title>Ithnā ʻasharīyah al-ṣawmīyah ; Ḥall laṭīf li-ʻibārah muʻḍilah fī Qawāʻid al-aḥkām … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">ʻĀmilī</namePart>
+      <namePart type="given">Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+      <namePart type="date">1547-1621</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">عاملي</namePart>
+      <namePart type="given">بهاء الدين محمد بن حسين</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - Iran - Iṣfahān</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Iṣfahān</placeTerm>
+      </place>
+      <dateCreated>[16--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1600</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1699</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>73 leaves : paper ; 190 × 123 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of Shiʻite texts</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Dark cream glazed paper with laid lines visible. Foliation in pencil using Western numerals</note>
+   <note type="origin">According to the colophons, text 1 was copied in Iṣfahān in Rajab 1022 (fol. 29a), and text 3 in 1022 (fol. 64a)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="contents">1. 1b-29a: al-Ithnā ʻasharīyah al-ṣawmīyah / Bahāʼ al-Dīn Muḥammad ibn Ḥusayn al-ʻĀmilī</note>
+   <note type="contents">2. 29b-32b: [Blank]</note>
+   <note type="contents">3. 33a: [Note]</note>
+   <note type="contents">4. 33b-38b: Ḥall laṭīf li-ʻibārah muʻḍilah fī Qawāʻid al-aḥkām / Bahāʼ al-Dīn Muḥammad ibn Ḥusayn al-ʻĀmilī</note>
+   <note type="contents">5. 39a-40b: [Blank]</note>
+   <note type="contents">6. 41a-64a: Risālah fī tisʻ masāʼil mimmā yataʻallaqu bi-al-ṣalāh / Ḥusayn ibn ʻAbd al-Ṣamad al-Ḥārithī al-ʻĀmilī</note>
+   <note type="contents">7. 65a: [Bibliographical notes on several Shaykhs]</note>
+   <note type="contents">8. 65b-68b: al-Wajīzah / Bahāʼ al-Dīn Muḥammad ibn Ḥusayn al-ʻĀmilī</note>
+   <note type="contents">9. 69b-73a: [Answers to three questions on al-Bayḍawī's and al-Ṭabarsī's commentaries of some Qurʼanic verses]</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>Hermeneutics</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fasts and feasts</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Rituals</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <topic>Interpretation and construction</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prayer</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ramadan</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shīʻah</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 822, 1566, 1707, 1709</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ḥārithī</namePart>
+         <namePart type="given">Ḥusayn ibn ʻAbd al-Ṣamad</namePart>
+         <namePart type="date">1512-1576</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī tisʻ masāʼil mimmā yataʻallaqu bi-al-ṣalāh</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">ʻĀmilī</namePart>
+         <namePart type="given">Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+         <namePart type="date">1547-1621</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥall laṭīf li-ʻibārah muʻḍilah fī Qawāʻid al-aḥkām</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">ʻĀmilī</namePart>
+         <namePart type="given">Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+         <namePart type="date">1547-1621</namePart>
+      </name>
+      <titleInfo>
+         <title>Wajīzah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 538Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/538y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4779882</recordOrigin>
+   </recordInfo>
+</mods>

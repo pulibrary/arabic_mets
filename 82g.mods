@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1">
+      <title>ʻAjāʾib al-makhlūqāt wa-gharāʾib al-mawjūdāt</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1">
+      <title>عجايب المخلوقات وغرايب الموجودات</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="family">Qazwīnī</namePart>
+      <namePart type="given">Zakarīyā ibn Muḥammad</namePart>
+      <namePart type="date">1208 or 9-1283 or 4</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="family">قزويني</namePart>
+      <namePart type="given">زكريا بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Persian - 18th century</genre>
+   <genre>Illuminated manuscripts - Islamic countries - 18th century</genre>
+   <genre>Miniatures (Illuminations) - Islamic countries - 18th century</genre>
+   <genre>Encyclopedias - Islamic empire - 13th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[India?]</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1799</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>244 leaves: paper, col. ill. ; 340 × 240 (268 × 150) mm.</extent>
+   </physicalDescription>
+   <abstract>Illustrated copy of a Persian version of Qazwīnī's Book of marvels (version (a) in Storey's description, Persian Literature (1927-), vol. II, 1, p. 125). Table of contents in the
+      preamble (fol. 3a-5b). This copy is illustrated with 180 miniatures (most of them small) and 11 diagrams. Several elements show that this copy is not of the highest quality (text crossed
+      out, ʻunwān left blank or with title written in a rough manner, etc.). In addition, some miniatures are defective (see illustration of the Sun emerging behind the constellation of the
+      Lion, fol. 16b)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from fol. 3a</note>
+   <note type="physicalDetails">Physical description: 20 lines to the page ; written in nastaʻlīq, in black ink with use of red. Cream paper, glossy, with laid lines and fiber visible. Margins
+      of most leaves repaired. The text is framed within a medium large gold line outlined in black, with a blue outline on the outer edge (faded on several leaves). The miniatures are framed
+      in one medium large gold line outline in black ; some miniatures go over the text frame (see e.g. fol. 9b, 87b, 193a, 236b). One small miniature on the margin (the deer on fol. 237b). Occasional
+      lines of poetry and annotations written by another hand on the margins (see fol. 197b, 227b-228a). Dampness damage (stains, ink transfer from one page to the next), with loss of text. Modern
+      foliation in pencil (blank after fol. 116, 179, 229)</note>
+   <note type="physicalDetails">Decoration: Illuminated title page executed in opaque watercolors, ink, and gilt (fol. 1a); margins of fol. 1b-2a decorated with flowers in gold. The same floral motif appears on the
+      sides of the colophon (fol. 240a)</note>
+   <note type="physicalDetails">Decoration: Contains 165 miniatures in opaque watercolors and ink, representing planets (fol. 14b-18b), constellations such as Cassiopea (fol. 21b), inhabitants of exotic and fabulous
+      islands, such as the inhabitants of Sumatra (fol. 56b) and of Wāqwāq (fol. 56b), fabulous animals, and monsters (see fol. 9b, 69b, 189b), Archangels (fol. 32b-34a), and various plants
+      (fol. 107b on) and animals (fol. 196b on). Most miniatures are executed on a blue or gold sky, with Chinese clouds, with mountain or rocks behind which animals or human figures appear ;
+      streams and trees are other common motifs</note>
+   <note type="physicalDetails">Decoration: Contains diagrams in gold and red</note>
+   <note type="origin">The copy (or the text?) is dated Ṣafar 895 [1489] or 865 [1460] and signed ʻAbd Allāh son of ʻAlī Bey Damāvandī in the colophon (fol. 240a). According
+      to Moghadam, illustrations and binding probably from 18th century India</note>
+   <note type="provenance">Ownership statement after the colophon, in the name of Sayyid Ibrāhīm Ḥusayn ibn al-Sayyid al-Muẓaffar(?), with illegible seal. The same name appears in an ownership
+      statement on fol. 240b, along with several others, some obliterated, one dated Rabīʻ al-Awwal 1238 [Nov.-Dec. 1822]. Small turquoise seal on the upper outer corner of the same leaf. Stamp
+      with the inscription: "Douane centrale française Paris" on a label pasted on fol. 1a</note>
+   <note type="provenance">Several ownership statements, the oldest bearing the date 1168 H</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="bindingInfo">Upper and lower covers are now detached and stored in a separate sleeve. Brown leather, with central panel with a deep gilt stamped central oval with double pendants,
+      all outlined in gold with radiating flecks. Similarly tooled corner-pieces. The border consists of deep sunk gilt stamped cartouches, rosaces and corners ; gilt painting between stamps.
+      Doublure : Red leather stamped and tooled in gilt, with inscriptions in cartouches reading: "Ḥubb al-fīrmān(?)" and "qadā tū āmān(?)" on one cover, "Muqarrir al-khāqān(?)" and
+      a damaged and illegible inscription, probably starting with "Muḥammad"on the other</note>
+   <note type="incipit" script="Arab"> العظمة لك والبراه لجلالك اللهم يا قايم الذات ومفيض الخيرات واجب الوجود وواهب العقول … اما بعد همى كويد اصغر العباد زكرياء بن محمد بن محمود الكمونى القزوينى
+      تولاه الله بفضله كه چون بحكم الاهى مفرقت اهل ووطن اتفاق افتاد</note>
+   <note type="explicit" script="Arab"> ابو ريحان كويد كه بنده التماس كردم تا انرا حاضر آوردند ومن آن را ديدم وتعجب كردم تمت الكتاب بعون ملك الوهاب بتاريخ شهر صفر ختم بالخير والظفر سنه 895 (او
+      865) خاك پاى اهل ايمان عبد الله ولد علىبيك دماوندى م م م</note>
+   <subject authority="lcsh">
+      <topic>Geography, Arab</topic>
+      <topic>History</topic>
+      <temporal>13th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cosmography</topic>
+      <topic>History</topic>
+      <geographic>Islamic empire</geographic>
+      <temporal>13th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Zoology</topic>
+      <topic>Pre-Linnean works</topic>
+      <geographic>Islamic empire</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Science, Medieval</topic>
+      <geographic>Islamic empire</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Monsters in literature</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Planets</topic>
+      <genre>Pictorial works</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Constellations</topic>
+      <genre>Pictorial works</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Monsters</topic>
+      <genre>Pictorial works</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Animals</topic>
+      <genre>Pictorial works</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plants</topic>
+      <genre>Pictorial works</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Moghadam, M. et al. Descriptive catalog of the Garrett coll. of Persian, Turkish and Indic manuscripts … (1939), 65</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 82G</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/82g.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5576501</recordOrigin>
+   </recordInfo>
+</mods>

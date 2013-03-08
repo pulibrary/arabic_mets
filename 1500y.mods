@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1">
+      <title>Dīvān-i Shāhidī</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1">
+      <title>ديوان شاهدى</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="given">Şahidî İbrahim Dede</namePart>
+      <namePart type="date">1470-1550</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="given">شاهدي ابراهيم دده</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Turkish</genre>
+   <genre>Manuscripts, Persian - 16th century</genre>
+   <genre>Headpieces (layout features) - Islamic Empire - 16th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 16th century</genre>
+   <originInfo>
+      <dateOther>[1526-16--?]</dateOther>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred" point="start">1526</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1699</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ota</languageTerm>
+   </language><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>75 leaves : paper ; 178 × 117 (100-125 × 56-70) mm. bound to 178 × 120 mm.</extent>
+   </physicalDescription>
+   
+   <abstract>Şahidî İbrahim's Persian divan, together with his Tuhfe-yi Şahidî, a Persian-Turkish dictionary in verse</abstract>
+   <note>Ms. composite codex</note>   
+   <note type="titleSrc">Title from fol. 1b</note>
+   <note type="contents">1. Fol. 1b-51b: Dīvān-i Shāhidī</note>
+   <note type="contents">2. Fol. 52a-74a: Tuhfe-yi Şahidî</note>
+   <note type="origin">Text 1 is dated last 10 days of Ramaḍan 932 (1526) -- colophon (fol. 52b)</note>
+   <note type="physicalDetails">Text 1 is written diagonally in two columns in small nastaʻlīq in black ink, with 7 lines per page. The text is is inside a gold leaf frame outlined in black
+      ink. It has an illuminated head piece (ʻunwān) on fol. 1b, beautifully executed in gold leaf with blue, orange, black and white watercolors. Text 2 is written in two columns in very small
+      naskh in black ink with use of red for rubrication and with 17 lines per page. The text is inside a frame outlined in red ink, except on ff. 52b-53a, where the frame is in gold leaf outlined
+      in black ink. Catchwords on the verso of each leaf. Glazed paper with visible chain lines, different for the two texts, with several olive colored leaves in text 1. Text 2 has a table of
+      contents on fol. 52a, and has some marginal annotations throughout</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="provenance">Originally acquired by Robert Garrett from Abraham Shalom Yahuda ; 1942</note>
+   <note type="bindingInfo">Olive cloth with embossed floral pattern and light green paper around borders on covers. Brown leather on spine and cover edges. Pastedowns in marbled paper</note>
+   <subject authority="lcsh">
+      <topic>Persian poetry</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Persian language</topic>
+      <genre>Dictionaries</genre>
+      <topic>Turkish</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Turkish</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1500Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1500y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5148554</recordOrigin>
+   </recordInfo>
+</mods>

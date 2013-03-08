@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <nonSort>al-</nonSort>
+      <title>Mujallad al-awwal min Kitāb Daqāʾiq al-ḥaqāʾiq</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>المجلد الاول من كتاب دقائق الحقائق</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Āmidī</namePart>
+      <namePart type="given">ʻAlī ibn Abī ʻAlī</namePart>
+      <namePart type="date">1156 or 7-1233</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">آمدي</namePart>
+      <namePart type="given">علي بن ابي علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="given">Maḥmūd al-Ustādār</namePart>
+      <namePart type="date">d. 1396 or 7</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">fmo</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart>محمود الاستادار</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <genre>Waqf - Books</genre>
+   <genre>Bookbinding, Islamic</genre>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <originInfo>
+      <dateCreated>[between 12--? and 1395]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1200</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1395</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>iii, 240, iii leaves: paper ; 210 × 140 (170 × 100) mm. bound to 220 × 150 mm.</extent>
+   </physicalDescription>
+   <abstract>First volume of a set of three (see waqf statement on fol. 1a) of a comprehensive treatise on philosophy. This volume comprises the part on logic, up to the end of Maqālah 5: Fī
+      ʻilm al-burhān (22 faṣl, starting fol. 231b), Faṣl 4: Fī al-burhān (starts fol. 236b). Apparently unique. See Ḥasan Shāfiʻī, al-Āmidī wa-ārāʾuhu al-kalāmīyah (1998), p. 75-78</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">Physical description: 23 lines per page. Written in medium small naskh in black ink (faded to brown). The last letters of some words at the end of a line are written
+      on the margin, after a blank space. Cream paper, hardly translucid, with thin laid lines visible ; ruled. Fol. 153-154 inverted. Impression of a circular stamp (200 mm. ; apparently same
+      faded ink) on fol.1b. Title on tail of text-block (inverted). Worm-eaten ; fragile</note>
+   <note>Collation: Paper, fol. 241 ; 1¹⁰ (-1 before fol. 1) 2-24¹⁰ 25²</note>
+   <note>Waqf statement on fol. 1a, dated 25 or 15 …(?) -97 H.(?), for the Khizānah of the Madrasah he built in Cairo ("madrasatihi allatī anshāhā bi-kh[end of line] al-muwāzinīn bi-al-shāriʻ
+      al-aʻẓam bi-al-Qāhirah al-maḥrūsah") by al-Muqirr al-Ashraf al-ʻālī al-Jamālī Maḥmūd ustādār al-ʻālīyah al-malikī al-ẓāhir[ī] [end of line]"), [most probably Jamāl al-Dīn
+      Maḥmūd al-Ustādār, d. 799/1396 or 7 ; if this is the case the date should read 797/1394 or 5]. Mention "waqf", some with a name, on the margins of several pages (see fol. 1a, 17b-18a)</note>
+   <note type="origin">The copy is not dated, but marginal annotations throughout mention that this copy was read in front of the author (d. 631/1233). See the mention "balaghtu al-qirāʻah ʻalá al-muṣannif"
+      on the margin of fol. 195b, 198a, etc.</note>
+   <note>Rare Book Treatment Report enclosed with the ms. Collections Conservation Unit: 7/25/94</note>
+   <note type="provenance">Waqf probably from Jamāl al-Dīn Maḥmūd al-Ustādār, d. 799/1396 or 7. According to Ibn Ḥajar al-ʻAsqalānī (d. 1449), Maḥmūd al-Ustādār endowed to the madrasah
+      he built in Cairo the books of Ibn al-Jamāʻah he bought after his death (al-Durar al-kāminah, ed. Cairo, 1349 H., vol. 2, p. 329). Acquired from Murād Bey al-Bārūdī, Beirut, 1925</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards for upper and lower covers. The covers have a similar blind tooled (probably originally with some gold-tooling) panel with a large
+      central roundel filled with a knot-work pattern and outlined by two fillets with square pendants on the vertical axis, with a cartouche filled with a geometrical motif on the upper and
+      lower side of the central panel. The large outer border is partially covered by modern repair, with only a running pattern visible. Modern paper pastedown and endpapers. Mended</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> قال السيد الاجل الامام العالم الفاضل سيف الدين ركن الملة حجة الاسلام ابو الحسن على بن ابى على بن محمد الامدى ادام الله توفيقه نحمد الله على نعمايه واسباغ
+      عطايه حمدا يليق بجلاله ويستحقّه بكماله ونساله الهداية المراضية والعصمة عن مناه(؟)يه والصلاة على محمد سيد الاولين والاخرين وعلى اله واصحابه اعلام الدين وبعد فاثر(؟) لمّا كثر شعف(؟) ابنآ
+      زماننا وعلماء اواننا بالنظر فى علوم الاوّلين والمنقول عن الحكما المتقدّمين بحيث صدفهم(؟) ذلك عن النظر فى الامور الشرعية والقضايا الدّينيّة وربّما حمل حبّ ذلك بعضهم على الاكبار من اظهر الاستهتار
+      بترك المامورات وارتكاب المنهيات … [2أ] … فسالني من تعينت ان اجابته … جمع كتاب حاو لدقايق الحقايق من العلوم الثلثة وهى المنطقية والطبيعية والالهية كاشف لاغوارها مبين لعوارها … فى
+      العلم الاول وهوالمنطق ويشتمل على مقدمتين وتسع مقالات المقدمة الاول فى بيان حصر العلوم ولزوم تقديم النظر فى المنطق منها نقول طلب التحصيل لما ليس بحاصل ومعرفة ما ليس بمعروف امّا ما وجوده
+      منوط</note>
+   <note type="explicit" script="Arab"> وذلك كمآ فى الاستقرار والتجربة فانهما يوصلان الى اليقين الدّايم [239ب] الكلّي فيماله سبب وان لم يكن السبب فيهما معلومًا عينه او نوعه لما اسلفناه ه نجز
+      الجزو الاول والحمد لله رب العالمين وسلامه على رسله احمد يتلوه فى الجزو الثانى الفصل الخامس فى تعريف الاوليات التى لا سبب لها وكيفية كون الاخصّ علة للاعمّ وحسبنا الله ونعم الوكيل</note>
+   <subject authority="lcsh">
+      <topic>Logic, Medieval</topic>
+      <geographic>Islamic empire</geographic>
+      <temporal>12th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Logic, Medieval</topic>
+      <geographic>Islamic empire</geographic>
+      <temporal>13th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <temporal>12th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <temporal>13th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <temporal>12th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <temporal>13th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 828</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Shāfiʻī, Ḥasan. al-Āmidī wa-ārāʾuhu al-kalāmīyah (1998), p. 75-78</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 42B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/42b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5303570</recordOrigin>
+   </recordInfo>
+</mods>

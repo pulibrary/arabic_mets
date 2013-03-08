@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Athmān al-Qurʼān. Kitāb fī al-maqṣūr wa-al-mamdūd … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Ibn al-Shaṭṭī</namePart>
+      <namePart type="given">Shams al-Dīn</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ابن الشطي</namePart>
+      <namePart type="given">شمس الدين</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Autographs (manuscripts) - Islamic Empire - 14th century</genre>
+   <originInfo>
+      <dateCreated>[1391 or 1392?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1391</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="inferred">1392</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>38 leaves : paper ; 185 × 136 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts in different scripts on the Arabic language, questions of inheritance, poetry, the divisions of the Qurʼān</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">The number of lines per page varies. Fol. 17a-31b are from the same hand: 15 lines per page, written in a very casual large script in black ink with use of red
+      (autograph). Fol. 32a-38a are from the same hand: 19 lines per page, written in small naskh in black ink with use of red. Dark cream paper with laid and chain(?) lines visible ; frame-ruled.
+      Fol. 12-16 are narrower than the rest of the leaves (182 × 125 mm.). Fol. 5-6 (blank) and 10: later paper. Foliation in pencil using Western numerals (with a fol. 18bis, explaining the
+      discrepancy with Mach's catalog)</note>
+   <note type="origin">Two of the texts are autographs written in 794 H. (see colophons fol. 21b, 30a)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Unbound</note>
+   <note type="contents">1. fol. 1a-9b: Athmān al-Qurʼān / Shams al-Dīn ibn al-Shaṭṭī</note>
+   <note type="contents">2. fol. 10a: [Appendix by a later hand]</note>
+   <note type="contents">3. fol. 11a-12a: [Several short texts]</note>
+   <note type="contents">4. fol. 12b-16a: Kitāb fī al-maqṣūr wa-al-mamdūd / Muḥammad Ibn Durayd</note>
+   <note type="contents">5. fol. 17a-21b: Kitāb al-īdāḥ wa-al-irshād fī ḥall taṣwīr mā yushabbah li-nasab al-nāqah fī bayt Bānat Suʼād / Yūsuf ibn Khālid al-Bisāṭī</note>
+   <note type="contents">6. fol. 22a-30a: Kitāb al-suruj al-muḍīʼah sharḥ al-Qaṣīdah al-falakīyah fī al-alghāz al-farḍīyah / Yūsuf ibn Khālid al-Bisāṭī</note>
+   <note type="contents">7. fol. 30b-31b: al-Qawāʼid al-farḍīyah / Yūsuf ibn Khālid al-Bisāṭī</note>
+   <note type="contents">8. fol. 32a-34b: Kitāb ikhtiyār taḍmīkh al-taḍmīn / Khalīl ibn Aybak al-Ṣafadī</note>
+   <note type="contents">9. fol. 35b-38a: [Khalq al-insān] / Muḥammad ibn Ḥabīb</note>
+   <note type="contents">10. fol. 38b: [Excerpt from a poem]</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>   
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Kaʻb ibn Zuhayr</namePart>
+      </name>
+      <titleInfo>
+         <title>Bānat Suʻād</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>Study and teaching</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Inheritance and succession (Islamic law)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Lexicography</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <temporal>10th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 134, 1638, 1639, 3783, 3925, 4024, 4047</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qaḥṭānī</namePart>
+         <namePart type="given">Yūsuf ibn Khālid</namePart>
+         <namePart type="date">d. 1426</namePart>
+      </name>
+      <titleInfo>
+         <title>Qawāʻid al-farḍīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qaḥṭānī</namePart>
+         <namePart type="given">Yūsuf ibn Khālid</namePart>
+         <namePart type="date">d. 1426</namePart>
+      </name>
+      <titleInfo>
+         <title>Suruj al-muḍīʼah sharḥ al-Qaṣīdah al-falakīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qaḥṭānī</namePart>
+         <namePart type="given">Yūsuf ibn Khālid</namePart>
+         <namePart type="date">d. 1426</namePart>
+      </name>
+      <titleInfo>
+         <title>īḍāḥ wa-al-irshād fī ḥall taṣwīr mā yushabbah li-nasab al-nāqah fī bayt Bānat Suʻād</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣafadī</namePart>
+         <namePart type="given">Khalīl ibn Aybak</namePart>
+         <namePart type="date">ca. 1297-1363</namePart>
+      </name>
+      <titleInfo>
+         <title>Ikhtiyār taḍmīkh al-taḍmīn</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn Durayd</namePart>
+         <namePart type="given">Muḥammad ibn al-Ḥasan</namePart>
+         <namePart type="date">837 or 8-933</namePart>
+      </name>
+      <titleInfo>
+         <title>Maqṣūrah al-ṣughrá</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Muḥammad ibn Ḥabīb</namePart>
+         <namePart type="date">d. 860</namePart>
+      </name>
+      <titleInfo>
+         <title>Khalq al-insān</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 440Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/440y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4750123</recordOrigin>
+   </recordInfo>
+</mods>

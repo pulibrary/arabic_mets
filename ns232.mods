@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Shirʻat al-tasmiyah fī zamān al-ghaybah … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Dāmād</namePart>
+      <namePart type="given">Muḥammad Bāqir ibn Muḥammad</namePart>
+      <namePart type="date">d. 1631?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">داماد</namePart>
+      <namePart type="given">محمد باقر بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <!-- <dateCreated>1611-1617]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1611</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1617</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>149 leaves : paper ; 192 × 128 (125 × 72) mm. bound to 193 × 132 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts by Mīr Dāmād</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">15 lines per page. Written in medium small naskh in black ink. Dark cream paper with laid lines visible. Interlinear and marginal notes. Seal on fol. 4a, 147a.
+      Foliation in pencil using Western numerals (counting the two first fly leaves as fol. 1 and 2). This record is in accordance with this foliation</note>
+   <note type="origin">According to the colophons, this is an autograph, dated 1025 (fol. 73b) and 1020 (fol. 77b). The dates appearing in the colophons are however more likely the date of completion of the
+      texts (see note on the author on fol. 78a, which seems to be by the same hand as the rest of the text). The eulogy on some marginal notes on the ʻUyūn al-masāʼil ("minhu dāma ẓilluh")
+      indicates that the author was still living at the time of copy</note>
+   <note type="contents">1. fol. 1a-2a: Fly leaves with modern inscriptions</note>
+   <note type="contents">2. fol. 3a-4a: [Inscriptions]</note>
+   <note type="contents">3. fol. 4a-73b: Shirʻat al-tasmiyah fī zamān al-ghaybah / Muḥammad Bāqir Dāmād</note>
+   <note type="contents">4. fol. 74b-77b: [Faḍl sūrat al-Tawḥīd] / Muḥammad Bāqir Dāmād</note>
+   <note type="contents">5. fol. 78a-147a: ʻUyūn al-masāʼil / Muḥammad Bāqir Dāmād</note>
+   <note type="contents">6. fol. 147b-151b: [Several short texts and excerpts]</note>
+   <note type="bindingInfo">Light cream paper pasted on red leather over paper pasteboards for upper and lower covers. Green dyed paper pastedowns</note>
+   <subject authority="lcsh">
+      <topic>Shīʻah</topic>
+      <topic>Doctrines</topic>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith (Shiites)</topic>
+      <genre>Commentaries</genre>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Imams (Shiites)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shiites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 1346, 1372, 1573</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>ʻUyūn al-masāʼil</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Faḍl Sūrat al-Tawḥīd</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 232</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns232.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4794865</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" usage="primary" supplied="yes">
+      <title>Work on botany in Arabic</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic</genre>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>107 leaves : paper, ill. ; 205 × 151 (155 × 90) mm. bound to 205 × 160 mm.</extent>
+   </physicalDescription>
+   <abstract>Botanical treatise arranged in alphabetical order. Most plants are illustrated in vivid colors. Incomplete at end. On the left margin of fol. 104b, recipe entitled Maʻjūn Sulṭān
+      Yāzīd Khān</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Physical description: 21 lines per page. Written in medium small naskh with elements of nastaʻlīq in black ink with use of red for headings and entries. Marginal
+      annotations apparently by the same hand as the main text. Fol. 1 defective, with beginning of text and impressions of seals lost; wear and damage on a few leaves, with loss of text. Modern
+      foliation in pencil (blank after fol. 6; after fol. 28; after fol. 97)</note>
+   <note type="physicalDetails">Chiefly quaternions ; catchword on the verso of each leaf</note>
+   <note type="physicalDetails">Decoration: Plants illustrated in water color</note>
+   <note type="provenance">Two ownership statements on fol. 1a, in the name of Muḥammad Amīn al-Mawṣilī Yāsīn Afandi Zādah (Yasin Efendi Zade), 1181 H. ; and of Muḥammad Yāsīn(?) ibn
+      Muḥammad Amīn, 1221 H. Ex libris of Robert Garrett on the pastedown of the upper cover</note>
+   <note type="bindingInfo">Burgundy leather binding, with blind tooling</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">آاكثار اسم بربرى هو المسمى بالتلقوطه ياكلون اصله بالوادى مطبوخا</note>
+   <subject authority="lcsh">
+      <topic>Botany</topic>
+      <topic>History</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Botany</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Recipes</topic>
+      <topic>History</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1064</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 583H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/583h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5576400</recordOrigin>
+   </recordInfo>
+</mods>

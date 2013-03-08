@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Jadwal al-ẓill al-awwal al-mankūs al-sittīnī min Zīj Lughbīk</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>جدول الظل الاول المنكوس الستيني من زيج لغبيك</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="given">Ulugh Beg</namePart>
+      <namePart type="date">1394-1449</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>30 leaves : paper ; 225 × 165 (203 × 15) mm. bound to 225 × 176 mm.</extent>
+   </physicalDescription>
+   <abstract>Part of the astronomical tables of Ulugh Bey in Arabic, comprising the table of the First Shadow (al-ẓill al-awwal) and the table of the Sine (al-jayb), with instructions on how
+      to use the second one</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">Written in black and red ink in a casual script bent to the right. The tables are drawn in red ink. Glazed European paper. The paper of the second part (from fol.
+      12 on) is smoother than that of the first part. Instructions by the copyist on how to read the tables on fol. 7a and 11a</note>
+   <note>Collation: Paper, fol. 30 ; 1⁸ (+4, ff. 1-2, 11-12) 2⁶ 3⁸ 4⁴</note>
+   <note>There is no colophon</note>
+   <note type="contents">1. ff. 1a-12a : Jadwal al-ẓill al-awwal al-mankūs al-sittīnī</note>
+   <note type="contents">2. ff. 13a-30a : Jadwal al-jayb</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1904, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers and envelope flap have paper with red motifs on a beige background pasted on leather over paper pasteboards. Paper pastedowns. Disbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> منكوس ستيني جدول الظل الاول […] يسمي(؟) الظل المعكوس من زيج الغ بيك السمرقمدي بِحَذْف التفاصل وزيادة العدد المنا[--]س</note>
+   <note type="explicit" script="Arab"> ثم جمعنا الحاصلين فكان المبلغ […] لط ح لطه فقِسْ علي ذلك تصِب ان شا الله تعالي</note>
+   <subject authority="lcsh">
+      <topic>Astronomy, Arab</topic>
+      <genre>Tables</genre>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 981</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, GII, 213/1</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SII, 298/3.1</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 137L</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/137l.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4707586</recordOrigin>
+   </recordInfo>
+</mods>

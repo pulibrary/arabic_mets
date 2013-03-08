@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Sharḥ al-Faṣīḥ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب شرح الفصيح</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart>Ibn Khālawayh</namePart>
+      <namePart type="given">Ḥusayn ibn Aḥmad</namePart>
+      <namePart type="date">d. 980 or 81</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart>ابن خالويه</namePart>
+      <namePart type="given">حسين بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <originInfo>
+      <dateCreated>[12--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1200</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1299</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 93, i leaves : paper ; 215 × 158 (165 × 130) mm. bound to 215 × 176 mm.</extent>
+   </physicalDescription>
+   <abstract>Commentary on al-Faṣīḥ, a work on lexicography by Aḥmad ibn Yaḥyá Thaʻlab (d. 291/904)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">18 lines per page. Written in Maghribi script in black ink (faded to brown). Light cream glazed paper with laid lines visible. The leaves have been repaired. Several
+      inscriptions on fol. 93b. Foliation in pencil using Western numerals. Worm-eaten</note>
+   <note type="origin">R. Mach dates the copy from the 7th cent. H</note>
+   <note type="provenance">Ownership statement on the doublure of the upper cover. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Spine, edges and fore-edge flap repaired. Upper and lower covers and envelope flap made of brown leather over paper pasteboards. Upper and lower covers are similarly
+      blind tooled with a roundel with two pendants on the vertical axis and a rich outerframe of several fillets and running patterns with decorated inner corners. Blind tooled frame on the
+      envelope flap. Embossed leather doublure extent on upper and lower covers</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … تفسير ما جاء من كتاب الفصيح من غريب وغير ذلك مما يحتاج الى شرحه … عن ابى عبدالله بن خالويه فاول ذلك قوله نمى الملل</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Thaʻlab</namePart>
+         <namePart type="given">Aḥmad ibn Yaḥyá</namePart>
+         <namePart type="date">815-904</namePart>
+      </name>
+      <titleInfo>
+         <title>Faṣīḥ</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Lexicography</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic philology</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 3750</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Sezgin, F. GAS, VIII, p. 179/3</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4025Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4025y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4788312</recordOrigin>
+   </recordInfo>
+</mods>

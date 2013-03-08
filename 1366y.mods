@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Tuḥfat dhawī al-albāb fī maḥāsin al-adab … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">ʻAlāʼī</namePart>
+      <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+      <namePart type="date">1452-1512 or 13</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">علائي</namePart>
+      <namePart type="given">محمد بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Manuscripts, Arabic - Egypt - Cairo - 15th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Cairo</placeTerm>
+      </place>
+      <!--<dateCreated>[1485-1487]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1485</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1487</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>73 leaves : paper ; 181 × 134 (119 × 80 and 168 × 128) mm.</extent>
+   </physicalDescription>
+   <abstract>Abridgment of Ibn ʻAbd al-Barr's Jamīʻ bayān al-ʻilm wa-faḍlih, on the virtues of science. The ms. contains also selections from two other texts</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">19 lines per page (text 1). From fol. 59 on: 33 to 37 lines. Written in small naskh in black ink with use of red. Marginal notes. Collation statement at the end
+      of each quire (see fol. 20b, 30b, 58a). The quires are numbered in red ink, using Arabic numerals (see fol. 11a, 21a, 31a, 41a, 51a). There are no catchwords. Fol. 1a-2a: inscriptions and
+      ownership statements. Fol. 2a and 72b: seals. Fol. 2 is pasted on the next unnumbered fol. (inscriptions visible). Foliation in pencil using Western numerals. Worm-eaten</note>
+   <note type="origin">Text 1 copied on 11 Muḥarram 890 in the Madrasah al-Daylamīyah in Cairo (fol. 58a). Text 3 copied on 11 Ramaḍān 892 (fol. 69b)</note>
+   <note type="contents">1. fol. 1b-57a: Tuḥfat dhawī al-albāb fī maḥāsin al-adab / Muḥammad ibn Aḥmad al-ʻAlāʼī</note>
+   <note type="contents">2. fol. 58b-59a: Faṣl fī nahr al-Nīl wa-muntahāh [apparently an abstract from al-Qawl al-mufīd fī al-Nīl al-saʻīd by Muḥammad ibn Aḥmad al-Maḥallī, d. 864/1459]</note>
+   <note type="contents">3. fol. 60b-69b: Intiqāʼ Zahr al-rabīʻ / Muḥammad ibn Aḥmad al-ʻAlāʼī</note>
+   <note type="contents">4. fol. 70a-72b: [Several short texts]</note>
+   <note type="bindingInfo">Upper and lower covers and envelope flap made of brown leather over paper pasteboard. Marbled paper (almost completely faded) pasted on both covers and envelope flap.
+      Yellow paper pastedowns</note>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Texts</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic religious education</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic wit and humor</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Quotations, Arabic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Nile River</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Egypt</geographic>
+      <topic>Description and travel</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 16, 4274, 4440</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">ʻAlāʼī</namePart>
+         <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+         <namePart type="date">1452-1512 or 13</namePart>
+      </name>
+      <titleInfo>
+         <title>Intiqāʼ Zahr al-rabīʻ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Maḥallī</namePart>
+         <namePart type="given">Jalāl al-Dīn Muḥammad ibn Aḥmad</namePart>
+         <namePart type="date">1389-1459</namePart>
+      </name>
+      <titleInfo>
+         <title>Qawl al-mufīd fī al-Nīl al-saʻīd. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1366Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1366y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4779293</recordOrigin>
+   </recordInfo>
+</mods>

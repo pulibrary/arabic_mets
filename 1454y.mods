@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1">
+      <title>Murāsalāt</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1">
+      <title>مراسلات</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="given">ʻAbd al-Razzāq Kamāl al-Dīn ibn Isḥāq al-Samarqandī</namePart>
+      <namePart type="date">1413-1482</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="given">عبد الرزاق كمال الدين بن اسحاق السمرقندي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="3">
+      <namePart type="family">Muḥtasham</namePart>
+      <namePart type="given">ʻAlī ibn Aḥmad</namePart>
+      <namePart type="date">1499 or 500-1587 or 8</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="3">
+      <namePart type="family">محتشم</namePart>
+      <namePart type="given">علي بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="4">
+      <namePart type="family">Kāzarūnī</namePart>
+      <namePart type="given">Abū al-Qāsim ibn Abī Ḥāmid</namePart>
+      <namePart type="date">16th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="4">
+      <namePart type="family">كازروني</namePart>
+      <namePart type="given">ابو القاسم بن ابي حامد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Persian - 18th century</genre>
+   <originInfo>
+      <dateCreated>[between 17--? and 18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 418 leaves : paper ; 235 × 130 (155 × 80) mm. bound to 235 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Anthology of letters and short texts, concerning historical events and important figures related to Iran, and Khurasān in particular. The text starts with short notes mentioning
+      events in the history of Iran from 992 to 1006 H. (fol. 1a-b), followed by copies of letters, and other short texts attributed to several important figures. The text also contains what
+      appears to be letter models or samples, some attributed to Mīr Rūḥ Allāh (fol. 30a), and a Fatḥnāmah-i Khurāsān (fol. 5b). On fol. 402b, beginning of a text by ʻAbd al-Razzāq ibn
+      Isḥāq al-Samarqandī (d. 887/1482; the author's name appears on fol. 403a), incomplete at end. On fol. 413a-418b are several short texts written by another hand, including two Fatḥnāmah
+      and a letter</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from tail of text block</note>
+   <note type="physicalDetails">Physical description: 23 lines per page. Written in medium small nastaʻlīq in black ink with use of red. Dark cream laid paper; glossy</note>
+   <note type="provenance">Ownership statement in the name of Muḥammad Taqī ibn al-marḥūm ʻUmar Āghā, Baghdad, '33 H., with two impressions of a seal on fol. 2a. Acquired from Abraham Shalom
+      Yahuda, 1942</note>
+   <note type="bindingInfo">Bound in dark red leather, with flap. The covers and flap have an outer frame consisting of a guilloche outlined by fillets in gold (faded on the covers). Brown leather
+      doublure with a frame consisting of a single fillet</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">992 در ين سال نواب سلطان حمزه ميرزا در قزوين قشلاق فرمودند … [2أ] صورة رقعة بخط مرحوم ميرزاكانى كه به ولد شهريارى كاشى نوشته دو كلمه
+      كه حضرت</note>
+   <note type="incipit" script="Arab">بسم … فتح صحايف انشا وابداع وشرح لطايف املا واختراع حمد وثناى بنشى بر كمال كه بر قلم زرين مثال … [403أ] … وبعد چنين كويد فقير
+      حقير طالب مكارم اخلاق عبد الرزاق بن اسحق السمرقندى باب الله عليهما كه چون حكمت كامله الهى ورحمت شامله نا متناهى اقتضا فرمود</note>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1454Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1454y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5528316</recordOrigin>
+   </recordInfo>
+</mods>

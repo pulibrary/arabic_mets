@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Taʼsīs al-ṣiḥḥah bi-sharḥ al-Lamḥah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب تأسيس الصحة بشرح اللمحة</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">ʻAyntābī</namePart>
+      <namePart type="given">Maḥmūd ibn Aḥmad</namePart>
+      <namePart type="date">1409-1496</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">عينتابي</namePart>
+      <namePart type="given">محمود بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="family">Qūṣūnī</namePart>
+      <namePart type="given">Madyan ibn ʻAbd al-Raḥmān</namePart>
+      <namePart type="date">17th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">ctb</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart type="family">قوصوني</namePart>
+      <namePart type="given">مدين بن عبد الرحمن</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">ctb</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Manuscripts, Arabic - Egypt - Cairo - 15th century</genre>
+   <genre>Illuminated title pages - Islamic Empire - 15th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 15th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Cairo</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1465</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 294, ii leaves: paper ; 270 × 175 (192 × 135) mm. bound to 268 × 180 mm.</extent>
+   </physicalDescription>
+   <abstract>Elegant copy of a commentary on al-Lamḥah al-ʻAfīfīyah fī al-ṭibb, a work on medicine by Abū Saʻd ibn Abī Surūr al-Sāwī al-Isrāʼīlī ibn Amīr al-Dawlah, also known as
+      al-ʻAfīf ibn Abī Saʻīd al-Sāwī (see Kashf al-ẓunūn, ed. Fluegel, vol. 5, p. 329 and M. Meyerhof, Mediaeval Jewish Physicians, in Isis, 28 (1938), p. 458). The text is followed by
+      a reading statement written by Abū al-Ṣalāḥ Madyan ibn ʻAbd al-Raḥman [al-Qūṣūnī], physician (ṭabīb) in the Dār al-Shifāʼ in Miṣr, dated beginning of Rabīʻ al-Awwal 1020
+      [May 1611] to 26 Dhū al-Ḥijjah 1025 [Jan. 4, 1617]. The seal on fol. 292b is apparently related to this statement</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">Physical description: 27 lines per page. Written in elegant medium large naskh in black ink, with use of red and green ink. The text is framed within a gold and
+      black border on fol. 1b-2a. Thick light cream paper with laid lines and pulp visible. The paper is frame-ruled. Fol. (i) is a latter addition on glazed European paper with watermark ("Tre
+      Lune"). Marginal annotations. Collation statement stating that the text has been collated with a copy dated 881 H. [1476 or 77] (fol. 292b, lower margin). Kabīkaj on fol. (i)a. Excerpt
+      attributed to Avicenna on a small piece of paper placed between fol. 63 and 64</note>
+   <note type="physicalDetails">Decoration: Illuminated title page (ʻunwān) in blue, gold, and some red on fol. 1a. A cartouche on the upper part of the page bears the title written in blue(?)
+      on a gold ground and a rinceau in blue. To the left of this cartouche is a small medallion in gold and red. The cartouche and medallion are outlined in blue. The rest of the page has a
+      central large twelve petal roundel executed in blue and gold, and bearing the name of the author in gold. Above and underneath the roundel, is an inscription in gold outlined in black mentioning
+      the name of the patron. The edges of the text block and the upper margin of fol. 1b are decorated with a floral motif in gold</note>
+   <note type="physicalDetails">Collation: Paper, fol. i, 294, i ; i (free endpaper) + i (European glazed paper) + 1¹⁰ (-1, before fol. 1) 2-29¹⁰ 30 (5 leaves) + i (European glazed paper) +i
+      (free endpaper) ; catchword on the verso of each leaf ; the quires are numbered using Arabic numerals</note>
+   <note type="origin">Copy completed on 18 Rabīʻ al-Ākhar 870 [Dec. 8, 1465] by Abū al-Wafā Muḥammad ibn Ismāʻīl (fol. 292b)</note>
+   <note>Patronage: Copied for Shams al-Dīn al-Qūṣūnī, physician in Cairo (Miṣr) (illuminated title page, fol. 1a)</note>
+   <note type="provenance">Three ownership statements on fol. (ii)a, one dated 1152 H. [1739 or 40], another with a seal with the inscription "Muṣṭafá Shawkat". Small circular seal with floral
+      motif and mention "Madyan". on fol. 292b. Inscription "S26" in Roman script, in black ink on the pastedown of the upper cover. Acquired by Robert Garrett from Brill, 1900</note>
+   <note type="bindingInfo">Dark brown leather on paper pasteboards for upper and lower covers, fore-edge flap and envelope flap (the last two disbound). Both covers have a central floral gilt
+      pattern and a border consisting of gilt fillets and a Greek key pattern, with a floral motif in each inner corner. Similar border on the envelope flap. Paper pastedown and free endpaper.
+      Similar to Islamic Manuscripts, Garrett no. 608H</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الحمد لله الذي شرح فى ادنى من لمحة مشكلات الادوا والاسقام وعافى بلطفه … وبعد فلما كان علم الابدان … قال فصل في امراض الراس اي هذا فصل يذكر فيه امراض
+      الراس واسبابها وعلاماتها ولنقدم على ذلك تشريح الراس كما وعدنا ليكون عونا على استنباط المسايل واستحضارها</note>
+   <note type="explicit" script="Arab"> وخليت في البيت هربت البواقى قيل ان اخد جردون وخُصي او قطع دنبه وخلى فى البيت قتل البواقى من الفار والله تعالى اعلم واحكم وهو ولي العصمة والتوفيق</note>
+   <subject authority="lcsh" altRepGroup="4">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Ibn Amīn al-Dawlah</namePart>
+         <namePart type="given">al-ʻAfīf</namePart>
+         <namePart type="date">15th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Lamḥah al-ʻAfīfīyah fī al-ṭibb</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+      <geographic>Egypt</geographic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1110</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 898/34b ; SII, 93 (22/3)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Kashf al-ẓunūn, ed. Fluegel, V, 329</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 570H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/570h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5081950</recordOrigin>
+   </recordInfo>
+</mods>

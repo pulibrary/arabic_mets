@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <nonSort>al-</nonSort>
+      <title>Maʻūnah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>المعونة</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Fīrūzābādī al-Shīrāzī</namePart>
+      <namePart type="given">Abū Isḥāq Ibrāhīm ibn ʻAlī ibn Yūsuf</namePart>
+      <namePart type="date">ca. 1003-1083</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">فيروزابادي الشيرازي</namePart>
+      <namePart type="given">ابو اسحاق ابراهيم بن علي بن يوسف</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 11th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1092</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>20 leaves : paper ; 220 × 144 (157 × 117) mm. bound to 220 × 144 mm.</extent>
+   </physicalDescription>
+   <abstract>Summary of the Mulakhkhaṣ fī al-jadal by the author, on dialectics for jurists</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from colophon (fol. 20a)</note>
+   <note type="physicalDetails">21 lines per page. Written in small naskh, using black ink. Thick paper with horizontal chain lines visible. On fol. 1a, title, name of the author and prayer in
+      praise of God in another hand. On fol. 20a, poem in Persian added by another hand in the left margin. On fol. 20b, several short texts unrelated with the main text by another hand. Modern
+      foliation in pencil using Western numerals</note>
+   <note>Collation: Paper, fol. 20 ; 1-2¹⁰</note>
+   <note type="origin">Copied during Jumādá al-Ākhirah 485 by al-Ḥasan ibn Yaḥyá ibn ʻUbayd Allāh al-Kirmānī al-Jīraftī</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Modern binding made of red and black marbled paper over pasteboards</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم… رب يسر ولا تعسر قال الشيخ الامام ابو اسحاق ابرهيم … الحمد لله حق حمده … بيته لما رايت حاجة من يتفقه ماسة الى معرفة ما يعترض به</note>
+   <note type="explicit" script="Arab"> ان تكون احداهما توافق دليلا اخر من الاصل او معقول من الاصل فهي اولي لانها اقوي</note>
+   <subject authority="lcsh">
+      <topic>Logic, Medieval</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Logic</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <topic>Interpretation and construction</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Arabic coll., 867</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C., GAL, I, 388/IV</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 447H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/447h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4695576</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Sharḥ al-Urjūzah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>شرح الارجوزة</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">Averroës</namePart>
+      <namePart type="date">1126-1198</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="given">ابن رشد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Manuscripts, Arabic - Spain - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1480</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>135 leaves : paper ; 284 × 207 (206 × 147) mm.</extent>
+   </physicalDescription>
+   <abstract>Defective copy of a commentary on a poem on medicine by Ibn Sīnā. This copy contains marginal and interlinear notes and glosses in Latin and Spanish, a statement in Spanish authorizing
+      a Christian physician named Miguel Xeb of Játiva to examine the manuscript, signed by the Archbishop Martín de Ayala of Valencia, dated March 25, 1566 (fol. 107b) and a statement in Spanish
+      by Hieronymo de Mur, s.j., to the effect that he examined the ms. by order of Gregorio Miranda, apostolic inquisitor in the kingdom of Valencia. This statement is confirmed by Nicolás
+      Verdun, notary for the Inquisition (fol. 135b). For more details, see Skemer, D. An Arabic book before the Spanish Inquisition</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from colophon (fol. 135a)</note>
+   <note type="physicalDetails">Physical description: 18 to 23 lines per page. Written in Maghribī script. Each entry begins with Avicenna's verses in larger script, followed by the commentary.
+      Thick light cream paper ; glossy. Fol. 1 is a later replacement. The verses of the Urjūzah are numbered in Western numerals on the margin (starts over at the beginning of each section).
+      Corrections on the margins by the same hand as the main text and by later hands (see eight lines of missing text provided on the lower margin of fol. 46b-47a by a later hand). Slight loss
+      of Arabic annotations due to the trimming of the leaves. Marginal and interlinear annotations in Latin. Some leaves are missing (fol. 9-11; 40; 55-67; 69-82 ; see also catchwords)</note>
+   <note type="origin">According to colophon, copied by Muḥammad ibn ʻAlī ibn Shihāb al-Ruʻaynī for himself, middle decade of Rabīʻ al-Ākhar 885 H. [1480] (fol. 135a)</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, most probably from the collection of Amīn ibn Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Modern library binding</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم الله قال الشيخ الفقيه الاجل ابو الوليد محمد بن احمد ابن رشد رحمه الله تعالى ونفعنا به آمين بعد حمد الله تعالى المنعم بحياة النفوس وحجة الاجسام والاشباح
+      من الادواء المعضلة</note>
+   <subject authority="lcsh" altRepGroup="3">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title>Urjūzah fī al-ṭibb</title>
+      </titleInfo>
+      <topic>Criticism, Textual</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Inquisition</topic>
+      <geographic>Spain</geographic>
+      <geographic>Valencia (Kingdom)</geographic>
+      <topic>History</topic>
+      <temporal>16th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Valencia (Kingdom)</topic>
+      <topic>Intellectual life</topic>
+      <topic>History</topic>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1094</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Houtsma, M. Th. Catalogue d'une collection, 562</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Skemer, Don. An Arabic book before the Spanish Inquisition, in Princeton University Library Chronicle, LXIV, no. 1 (Autumn 2002), 107-120</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara" nameTitleGroup="1" altRepGroup="4">
+         <namePart>Avicenna, 980-1037</namePart>
+      </name>
+      <titleInfo nameTitleGroup="1" altRepGroup="5" script="Latn">
+         <title>Urjūzah fī al-ṭibb</title>
+      </titleInfo>
+      <name type="personal" script="Arab" lang="ara" nameTitleGroup="2" altRepGroup="4">
+         <namePart>ابن سينا</namePart>
+      </name>
+      <titleInfo nameTitleGroup="2" altRepGroup="5" script="Arab">
+         <title>ارجوزة في الطب</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 562H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/562h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5518157</recordOrigin>
+   </recordInfo>
+</mods>

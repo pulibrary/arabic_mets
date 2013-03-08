@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <nonSort>al-</nonSort>
+      <title>Shifāʾ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>الشفاء</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">ʻIyāḍ ibn Mūsá</namePart>
+      <namePart type="date">1083-1149</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="given">عياض بن موسى</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Illuminated title pages - Islamic empire - 15th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 15th century</genre>
+   <originInfo>
+      <dateCreated>[14--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1400</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1499</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>iii, 225, i leaves : paper ; 314 × 215 (216 × 150 and 267 × 180) mm. bound to 314 × 215 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on the devotional obligations of the Muslims towards the Prophet, followed by an ijāzah (text 1). The volume contains also a collection of forty ḥadīth (text 2)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 2a)</note>
+   <note type="physicalDetails">21 long lines per page (text 1) and 35 long lines per page (text 2). Text 1 is written in very clear large naskh and text 2 in medium small naskh, using black
+      ink with red for headings and punctuation. Illuminated title page in gold and blue. Light cream paper with horizontal laid lines visible. Frame-ruled (101 mm.). Fol. 21 is a later replacement
+      on glazed European paper. Collations notes (collation statement on some fol., see fol. 36a) and other annotations in the margins. Ownership statements on fol. 2a (one dated [1]234 H. [1818-19]).
+      Table of contents by a later hand on fol. (i) and 1. Foliation in black ink using Arabic numerals (starting with 1 on fol. 2). Foliation in pencil using Western numerals (counting fol.
+      (ii) as fol. 1)</note>
+   <note>On fol. 224b : Ijāzah by ʻUthmān ibn Muḥammad al-Daymī(?) for Abū ʻAbd Allāh Muḥammad ibn Nūr al-Dīn ʻAlī ibn Majd al-Dīn Ismāʻīl ibn ʻUthmān al-Dimyāṭī al-Maḥallī
+      al-Mālikī, dated Thursday 23 Jumādá al-Ulá 884 [August 1479]</note>
+   <note type="origin">Text 2, which seems to be by the same hand as text 1, was copied by Muḥammad al-Qādirī(?) Imām al-Umawī al-Ḥanafī bi-al-madrasah al-Umawīyah(?) (colophon, fol. 226b)</note>
+   <note type="physicalDetails">Collation: Paper ; fol. 225 ; a (endpaper) + ii (later European paper with watermark) + 225 + i (later European paper, with another watermark) + b (endpaper)</note>
+   <note type="contents">1. fol. (i)b-1b : [Table of contents]</note>
+   <note type="contents">2. fol. 2a-224a : al-Shifāʾ bi-taʻrīf ḥuqūq al-musṭafá / ʻIyāḍ ibn Mūsá</note>
+   <note type="contents">3. fol. 224b : [Ijāzah]</note>
+   <note type="contents">4. fol. 225b-226b : [Collection of forty ḥadīth]</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Upper and lower covers, fore-edge flap and envelope flap made of brown leather over paper pasteboard, with gold painted decoration. Blue paper pastedown, except on
+      the doublure of the fore-edge flap which has a gold painted decoration. This binding presents similarities with the binding of Princeton, Islamic Manuscripts, Garrett no. 50L</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">Incipit (text 1, fol. 2b): بسم … وصلى الله … قال الفقيه القاضى الامام ابو الفضل … الحمد لله المنفرد باسمه الاسما المختص بالملك الاعز الاحمى … اما
+      بعد اشرق الله قلبي وقلبك بانوار اليقين ولطف لي ولك بما لطف به لاولياءه المتقين</note>
+   <note type="explicit" script="Arab">Explicit (text 1, fol. 224a): ولا يرد دعوة القاصدين ولا يصلح عمل المفسدين وهو حسبنا ونعم الوكيل وصلواته على نبينا محمد خاتم النبيين وسلّم تسليماً كثيراً
+      الى يوم الدين</note>
+   <note type="incipit" script="Arab">Incipit (text 2, fol. 225b): الحمد لله … والصلى الله على … وبعد فهذه حوادث خرجها بعض العلما الاعلام فى اسطناع المعروف للمسلم نفع الله بها الحديث الاول
+      عن انيس رضى الله عنه ان النبي صلى الله عليه وسلم قال الخلقُ كلُهُم عيالُ الله فاحبُّ خلقِه اليه انفعُهم لعياله</note>
+   <note type="explicit" script="Arab">Explicit (text 2, fol. 226b): الحديث الاربعون عن ابن عمر رضى الله عنهما قال قيل يا رسول الله اي العمل احب اليك قال انفع الناس للناس</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Muḥammad, Prophet, d. 632</namePart>
+      </name>
+      <genre>Biography</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Muḥammad, Prophet, d. 632</namePart>
+      </name>
+      <topic>Devotional literature</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Texts</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Religious life</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4501</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 369 (5/1)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 630 (5/1)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 382Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/382y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4726410</recordOrigin>
+   </recordInfo>
+</mods>

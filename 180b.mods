@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb khulāṣat al-taʻbīr</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب خلاصة التعبير</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="given">Avicenna</namePart>
+      <namePart type="date">980-1037</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1486</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="inferred">1487</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>96 leaves : paper ; 127 × 90 (78 × 50) mm. bound to 132 × 98 mm.</extent>
+   </physicalDescription>
+   <abstract>Defective copy of a treatise on the interpretation of dreams attributed to Avicenna</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 2a)</note>
+   <note type="physicalDetails">15 lines per page. Written in black ink with use of red for headings. Dark cream paper with laid lines visible. Short text in Persian on fol. 92b. Fāʾidah in
+      Arabic on fol. 94b. Inscriptions in Persian and Arabic on fol. 1a-b and 91b. Inscription on fol. 96b. Ownership statements and seals on fol. 2a and 91a. Three first leaves defective. Leaves
+      missing between fol. 9 and 10, between fol. 67 and 68, and between fol. 76 and 77</note>
+   <note type="origin">Copied in 892 by Isḥāq ibn Muslim al-Ṭālibī (colophon, fol. 91a)</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1925, from the books of Murād Bey Bārūdī (Beirut)</note>
+   <note type="bindingInfo">Upper and lower covers and envelope flap made of red leather over paper pasteboard. The covers are similarly tooled with a central gold-painted mandorla linked to
+      the outer frame by a vertical blind-tooled fillet. The envelope flap has a blind tooled outer frame similar to that on the covers</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … وبه الثقة وعليه التوكل قال … ابو علي بن عبد الله بن سينا … الغريزات الاودية التي استمدت الأمواه من العيون</note>
+   <note type="explicit" script="Arab"> بيكون عونا لمن يريد استخراج الرويا الغريبة الحقيقة بتوسطها واد قد وفينا بما وعدنا</note>
+   <subject authority="lcsh">
+      <topic>Dream interpretation</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic occultism</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 930</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 180B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/180b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4730229</recordOrigin>
+   </recordInfo>
+</mods>

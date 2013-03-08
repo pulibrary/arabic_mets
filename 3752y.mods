@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Kitāb Fiqh al-lughah wa-sirr al-ʻarabīyah. Kitāb Niẓām al-gharīb fī al-lughah … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Thaʻālibī</namePart>
+      <namePart type="given">ʻAbd al-Malik ibn Muḥammad</namePart>
+      <namePart type="date">961 or 2-1037 or 8</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ثعالبي</namePart>
+      <namePart type="given">عبد الملك بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1373</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>177, i leaves : paper ; 245 × 169 (185 × 123) mm. bound to 245 × 169 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of four texts on lexicology, written by the same hand</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">21 lines per page. Written in medium large naskh in black ink with use of red for headings, re-inking, vocalization, punctuation, and some notes. Thick dark cream
+      glazed paper with no chain or laid lines visible. Marginal notes. Foliation in black ink using Arabic numerals (starts over at the beginning of each text). Foliation in pencil using Western
+      numerals. Inscription on the pastedown of the upper cover. Label on the spine with title in Arabic</note>
+   <note type="origin">The only date appearing in the copy is in the colophon of text 4, where it is stated that this was copied on Friday 23 Ramaḍān 774 (colophon, fol. 175b)</note>
+   <note type="physicalDetails">Collation: Paper, fol. 177 + i (endpaper) ; 1-21⁸ 22⁸ (+2, fol. 176-177) ; the quires are numbered using Arabic ordinals in the form "thālithah" ; catchword on
+      the verso of each leaf</note>
+   <note type="provenance">Ownership statements on fol. 1a, 90a, 91a, 103a, 165a, 166a, 177b. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Stiffened dark brown leather (very damaged). Paper pastedowns (blue on the upper cover, white on the lower cover)</note>
+   <note type="contents">1. fol. 1b-90a: Kitāb Fiqh al-lughah wa-sirr al-ʻarabīyah / ʻAbd al-Malik ibn Muḥammad al-Thaʻālibī</note>
+   <note type="contents">2. fol. 91a-165a: Kitāb Niẓām al-gharīb fī al-lughah / ʻĪsá ibn Ibrāhīm al-Rabāʻī</note>
+   <note type="contents">3. fol. 166b-173b: Kitāb al-muthallath / Muḥammad ibn al-Mustanīr Quṭrub</note>
+   <note type="contents">4. fol. 173b-177b: Kitāb al-muthallath / Abū Isḥāq ibn al-Sarī Zajjāj (al-Zajjājī)</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Lexicology</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 3759, 3760, 3778, 3784</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Rabaʻī</namePart>
+         <namePart type="given">ʻĪsá ibn Ibrāhīm</namePart>
+         <namePart type="date">d. 1087 or 8</namePart>
+      </name>
+      <titleInfo>
+         <title>Niẓām al-gharīb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Thaʻālibī</namePart>
+         <namePart type="given">ʻAbd al-Malik ibn Muḥammad</namePart>
+         <namePart type="date">961 or 2-1037 or 8</namePart>
+      </name>
+      <titleInfo>
+         <title>Fiqh al-lughah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Zajjāj</namePart>
+         <namePart type="given">Abū Isḥāq Ibrāhīm ibn al-Sarī</namePart>
+         <namePart type="date">d. 923</namePart>
+      </name>
+      <titleInfo>
+         <title>Kitāb al-muthallath</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Quṭrub</namePart>
+         <namePart type="given">Muḥammad ibn al-Mustanīr</namePart>
+         <namePart type="date">d. 821 or 2</namePart>
+      </name>
+      <titleInfo>
+         <title>Kitāb al-muthallath</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 3752Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3752y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4746681</recordOrigin>
+   </recordInfo>
+</mods>

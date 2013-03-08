@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Marātiʻ al-ghizlān fī waṣf al-ghilmān al-ḥisān</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب مراتع الغزلان في وصف الغلمان الحسان</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Nawājī</namePart>
+      <namePart type="given">Muḥammad ibn Ḥasan</namePart>
+      <namePart type="date">1386-1455</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">نواجي</namePart>
+      <namePart type="given">محمد بن حسن</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1484</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 188, i leaves: paper ; 180 × 135 (117 × 90) mm.</extent>
+   </physicalDescription>
+   <abstract>A collection of poems describing handsome youths</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">17 lines per page. Written in medium small naskh in black ink with use of red. Light cream paper with chain and laid lines visible (frame-ruled). On fol. 188a-b:
+      Verses of poetry. Foliation in red ink using Arabic numerals. Several inscriptions, including ownership statements on fol. 1a. Mildewed</note>
+   <note type="origin">Copy completed on Yawm al-thulathā 28 Jumādá al-Awwal 889 (colophon, fol. 187b)</note>
+   <note type="provenance">Several ownership statements on fol. 1a, one signed Āl Biṭrīq al-Ḥusaynī Sibṭ ---?. Ownership statement signed Ibrāhīm Ḥasūn (?) dated 1138 H. on the margin
+      of fol. 1b. Acquired by Robert Garrett from Brill, Leyden, 1904</note>
+   <note type="bindingInfo">Dark brown leather over paper pasteboards for upper and lower cover, fore-edge flap and envelope-flap. Both covers have an elaborate blind-tooled panel, with a central
+      mandorla with two pendants on the vertical axis. Vertical fillets link the central mandorla to an outer frame made of fillets, with a s-shape running pattern and a small floral stamp in
+      the corners. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> قال العبد الفقير … محمد بن حسن بن علي النواجى الشافعى … اما بعد حمد الله الذي خلق الانسان فى احسن تقويم … فقد سالني بعض الاخوان ان اجمع له نبذة فى
+      الحسان من الغلمان</note>
+   <note type="explicit" script="Arab"> لو لم تكن روضة للحسن او فلكا ما كان جمع فيك الغصن والقمر لكان هذا ابلغ فى المعنا وحسبنا الله ونعم الوكيل</note>
+   <subject authority="lcsh">
+      <topic>Love poetry, Arabic</topic>
+      <temporal>14th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Love poetry, Arabic</topic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Homoeroticism</topic>
+      <geographic>Islamic empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Erotic literature, Arabic</topic>
+      <temporal>14th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Erotic literature, Arabic</topic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 101</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 14L</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/14l.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5141848</recordOrigin>
+   </recordInfo>
+</mods>

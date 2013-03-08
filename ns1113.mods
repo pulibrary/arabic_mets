@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <title>Wasāʼil al-taḥqīq wa-rasāʼil al-tawfīq. Taḥqīq al-maqṣūd min maʻná "Yā man huwa maʻbūd fī ṣūrat kull maʻbūd" … etc.</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" supplied="yes">
+      <title>وسائل التحقيق ورسائل التوفيق. تحقيق المقصود من معنى "يا من هو معبود في صورة كل معبود"</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Nābulusī</namePart>
+      <namePart type="given">ʻAbd al-Ghanī ibn Ismāʻīl</namePart>
+      <namePart type="date">1641-1731</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">نابلسي</namePart>
+      <namePart type="given">عبد الغني بن اسماعيل</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="family">Kuzbarī</namePart>
+      <namePart type="given">ʻAbd al-Raḥmān ibn Muḥammad</namePart>
+      <namePart type="date">1770 or 71-1845 or 6</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">fmo</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart type="family">كزبري</namePart>
+      <namePart type="given">عبد الرحمن بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Syria]</placeTerm>
+      </place>
+      <dateCreated>[1748-1749]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1748</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1749</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>178 leaves : paper ; 193 × 144 (152 × 88) mm. bound to 208 × 150 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of ten treatises by ʻAbd al-Ghanī al-Nābulusī</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger, from the titles of Texts 1 and 2</note>
+   <note type="physicalDetails">Physical description: 25 lines per page. Written in small naskh (professional hand) in black ink with use of red. The text is framed within two red lines (faded
+      to yellow on some leaves). European paper with watermark. Foliation in pencil using Western numerals (omits the first fol.; faulty). Leaves wanting between fol. 13 and 14. Inscription on
+      the pastedown of the upper cover.</note>
+   <note type="physicalDetails">Collation: Paper, fol. 178 ; 1¹⁰ (+1 at beginning of quire) 2¹⁰ (-4, two central bifol.) 3-17¹⁰ 18¹⁰ (+1, end of quire) ; catchword on the verso of each leaf ; the quires are numbered
+      in red ink using Arabic numerals in the form "K 1" (see fol. 1a)</note>
+   <note type="origin">Copied between 1 Muḥarram 1162 [Dec. 22, 1748] and 3 Ṣafar 1162 [Jan. 23, 1749] by al-ḥājj ʻUmar ibn ʻAbd Allāh (colophons, fol. 122a, 137a, 150a, 176a). The content and
+      the name of a former owner seem to indicate a Syrian origin (al-Shām)</note>
+   <note type="contents">1. fol. 1a-101a : Wasāʼil al-taḥqīq wa-rasāʼil al-tawfīq / ʻAbd al-Ghanī [al-Nābulusī]. -- Mach, R. and E. Ormsby. Handlist, no. 1588</note>
+   <note type="contents">2. fol. 101a-103b : Taḥqīq al-maqṣūd min maʻná Yā man huwa maʻbūd fī ṣūrat kull maʻbūd / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist,
+      no. 1431</note>
+   <note type="contents">3. fol. 103b-112a : al-Kashf wa-al-bayān ʻammā yataʻallaqu bi-al-nisyān / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist, no. 488</note>
+   <note type="contents">4. fol. 112b-122a : Rafʻ al-rayb ʻan ḥaḍrat al-ghayb / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist, no. 916</note>
+   <note type="contents">5. fol. fol. 122a-(134bis)b : Kashf al-nūr ʻan aṣḥāb al-qubūr / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist, no. 484</note>
+   <note type="contents">6. fol. 135a-137a : al-Naẓar al-mushrif fī maʻná qawl Ibn al-Fārid ʻarafta am lam taʻrif / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist, no.
+      839</note>
+   <note type="contents">7. fol. 137b-141b : Risālah tataʻallaqu fī al-insān hal huwa hādhā al-haykal al-makhṣūṣ aw ghayruhu wa-bayān dhālika / ʻAbd al-Ghanī al-Nābulusī. -- Mach,
+      R. and E. Ormsby. Handlist, no. 1291</note>
+   <note type="contents">8. fol. 141b-144b : al-Qawl al-abyan fī sharḥ ʻAqīdat Abī Madyan / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist, no. 903</note>
+   <note type="contents">9. fol. 144b-150a : Radd al-jāhil ilá al-ṣawāb fī jawāz iḍāfat al-taʼthīr ilá al-asbāb / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist,
+      no. 911</note>
+   <note type="contents">10. fol. 150a-176a : Nukhbat al-masʼalah sharḥ al-Tuḥfah al-mursalah / ʻAbd al-Ghanī al-Nābulusī. -- Mach, R. and E. Ormsby. Handlist, no. 852</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards for upper and lower covers and envelope flap. Central blind-stamped roundel on the covers. Spine and fore-edge flap repaired in
+      red leather. Paper pastedowns. Disbound</note>
+   <note type="provenance">Bought by ʻAbd Allāh ibn ʻUmar ibn Muṣṭafá ibn Ismāʻīl ibn al-muʼallif, from al-marḥūm ʻAbd al-Raḥmān al-Kuzbarī, muḥaddith al-Shām, 1263 H. [1846 or 7]
+      (fol. 1a, with seal and mention of price)</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Burhānpūrī</namePart>
+         <namePart type="given">Muḥammad ibn Faḍl Allāh</namePart>
+         <namePart type="date">d. 1619 or 20</namePart>
+      </name>
+      <titleInfo>
+         <title>Tuḥfah al-mursalah ilá al-nabī</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Fāriḍ</namePart>
+         <namePart type="given">ʻUmar ibn ʻAlī</namePart>
+         <namePart type="date">1181 or 2-1235</namePart>
+      </name>
+      <titleInfo>
+         <title>Dīwān. Selections</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>God (Islam)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Philosophical anthropology</topic>
+      <topic>History</topic>
+      <temporal>17th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mind and body</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <topic>History</topic>
+      <temporal>17th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Faith (Islam)</topic>
+      <topic>History of doctrines</topic>
+      <temporal>17th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Free will and determinism</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 484, 488, 839, 852, 903, 911, 916, 1291, 1431, 1588</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Taḥqīq al-maqṣūd min maʻná Yā man huwa maʻbūd fī ṣūrat kull maʻbūd</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālah tataʻallaqu fī al-insān hal huwa hādhā al-haykal al-makhṣūṣ aw ghayruhu wa-bayān dhālika</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Rafʻ al-rayb ʻan ḥaḍrat al-ghayb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Radd al-jāhil ilá al-ṣawāb fī jawāz iḍāfat al-taʼthīr ilá al-asbāb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Qawl al-abyan fī sharḥ ʻAqīdat Abī Madyan</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Nukhbat al-masʼalah sharḥ al-Tuḥfah al-mursalah ilá al-Nabī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Naẓar al-mushrif fī maʻná qawl Ibn al-Fāriḍ qaddasa Allāhu sirrahu ʻarafta am lam taʻrif</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Kashf wa-al-bayān ʻammā yataʻallaqu bi-al-nisyān</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Kashf al-nūr ʻan aṣḥāb al-qubūr</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 1113</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns1113.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5297296</recordOrigin>
+   </recordInfo>
+</mods>

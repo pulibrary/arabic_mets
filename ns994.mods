@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Fawāʼid qudsīyah … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Jīlānī</namePart>
+      <namePart type="given">Shamsā</namePart>
+      <namePart type="date">17th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">جيلاني</namePart>
+      <namePart type="given">شمسا</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <!-- <dateCreated>[1653 to 1655]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1653</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1655</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>91 leaves : paper ; 240 × 135 (162 × 80) mm. bound to 240 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of three treatises on metaphysical questions</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">20 lines per page. Written in shikastah nastaʻlīq in black ink. Light cream glazed paper. Marginal notes. On fol. 1a: Table of contents (partly illegible; mentions
+      a treatise by al-Suhrawardī). Seal on fol. 1b. Some leaves have been mended (see fol. 1). Foliation in pencil using Western numerals. Vertical label on the spine (half wanting; number
+      "68" in Arabic numerals). Water damaged</note>
+   <note type="contents">1. fol. 1b-34b: Fawāʼid qudsīyah wa-asrār malakūtīyah [or: Risālat al-qidam wa-al-ḥudūth] / Mullā Shamsā Jīlānī</note>
+   <note type="contents">2. fol. 37b-44b: [Risālah fī ʻilm al-wājib] / Mullā Shamsā Jīlānī</note>
+   <note type="contents">3. fol. 45b-91b: Risālah fī ithbāt ḥudūth al-ʻālam / Mullā Shamsā Jīlānī</note>
+   <note type="contents">4. fol. 45b-50b (on the margins): Mukhtaṣar dar taʻrīf aṣṭurlāb, in 20 bāb</note>
+   <note type="origin">Text 2 was copied in Ramaḍān 1063 or 64 (fol. 44b). Text 3 was copied on 3 Shaʻbān 1065 (fol. 91b)</note>
+   <note type="physicalDetails">Collation: Paper, fol. 91 ; 1-4⁸ 5⁴ 6-11⁸ 12⁸ (-1, after fol. 91) ; catchword on the verso of each leaf</note>
+   <note type="bindingInfo">Limp binding. Dark brown leather</note>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <geographic>Iran</geographic>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shīʻah</topic>
+      <topic>Doctrines</topic>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Creation (Islam)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>God (Islam)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Free will and determinism</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astrolabes</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and Ormsby, E. Handlist of Arabic manuscripts (New Series), 897, 1083, 1092</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jīlānī</namePart>
+         <namePart type="given">Shamsā</namePart>
+         <namePart type="date">17th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī ithbāt ḥudūth al-ʻālam</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jīlānī</namePart>
+         <namePart type="given">Shamsā</namePart>
+         <namePart type="date">17th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī ʻilm al-wājib</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Mukhtaṣar dar taʻrīf aṣṭurlāb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 994</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns994.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4861177</recordOrigin>
+   </recordInfo>
+</mods>

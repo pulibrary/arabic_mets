@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <title>Siḥr al-Bayān</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" supplied="yes">
+      <title>سحر البيان</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">Ḥasan</namePart>
+      <namePart type="termsOfAddress">Mīr</namePart>
+      <namePart type="date">18th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="given">حسن</namePart>
+      <namePart type="termsOfAddress">مير</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Urdu - 19th century</genre>
+   <genre>Illuminated manuscripts - India - 19th century</genre>
+   <genre>Headpieces (layout features) - India - 19th century</genre>
+   <genre>Miniatures (Illuminations) -  India - 19th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm>[India]</placeTerm>
+      </place>
+      <dateCreated>[18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">urd</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 103, i leaves : paper ; 210 × 135 (165 × 100) mm. bound to 215 × 145 mm.</extent>
+   </physicalDescription>
+   <abstract>Illuminated copy of Sihr al-Bayān, a love story with fabulous elements between prince Bīnaẓīr and princess Badr-i Munīr, completed in 1199/1785 (EI²). The text is preceded on
+      fol. 1a-3a by verses of poetry and prayers in Persian and Arabic</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">Physical description: 12 lines per page. Written in medium large nastaʻlīq in black ink, with use of red for headings and miniatures' caption. The text is framed
+      in gold, red, and black, with an outer frame consisting of a single black line. Two columns separated by double lines in black ink. Some miniatures are protected by a smaller piece of paper
+      pasted on the inner margin, with inscriptions. Inscription in Roman script on fol. 1a, reading: "Adjudan [or: Adjudah?] Sing Sepay / Company"</note>
+   <note type="physicalDetails">Decoration: Illuminated headpiece with basmalah, executed in gold and colors (fol. 3b). Contains sixteen miniatures</note>
+   <note type="contents">Miniature 1 (fol. 12b): King, attendants and visitors</note>
+   <note type="contents">Miniature 2 (fol. 17a): The birth of Prince Bī Naẓīr ("Tavallud-i Shāhzādah Bī Naẓīr")</note>
+   <note type="contents">Miniature 3 (fol. 21a): Prince and five female characters in a garden, with parrots in cages</note>
+   <note type="contents">Miniature 4 (fol. 23b): Shāhzādah at the ḥammām ("Dar āmadan Shāhzādah dar ḥammām"), with four attendants, one holding a mirror where one sees a reflection of the main character</note>
+   <note type="contents">Miniature 5 (fol. 29a): Shāhzādah taken in the air by Parī's</note>
+   <note type="contents">Miniature 6 (fol. 33b): Shāhzādah wakes up in the land of the Parī's ("Bīdār shudan-i Shāhzādah dar Parīstān")</note>
+   <note type="contents">Miniature 7 (fol. 36a): Presentation of a winged horse by a Parī to Shāhzādah; the painting also shows two female attendants and a dīv</note>
+   <note type="contents">Miniature 8 (fol. 41b): Bī Naẓīr dismounts his winged horse, and meets Badr-i Munīr</note>
+   <note type="contents">Miniature 9 (fol. 47a): Bī Naẓīr and Badr-i Munīr drink together ("Sharābkashī bā hamdigar"); the painting also shows two female attendants and the winged horse</note>
+   <note type="contents">Miniature 10 (fol. 53a): Bī Naẓīr and Badr-i Munīr "unite" ("wiṣāl bā yakdigar"), with two female attendants</note>
+   <note type="contents">Miniature 11 (fol. 56b): Bī Naẓīr is put in the well by dīv's ("Dar chāh andakhtan-i Bī Naẓīr"); the painting shows three dīv's, a parī and a female attendant</note>
+   <note type="contents">Miniature 12 (fol. 69b): The despair of Badr-i Munīr; the painting shows Badr-i Munīr and four other female characters</note>
+   <note type="contents">Miniature 13 (fol. 72b): Fīrūz Shāh hears about the story; the painting shows a winged prince on a throne carried by two winged Parī's and a female character; animals including a
+      snake, a tiger, and a bear, are sitting in the fore-gound</note>
+   <note type="contents">Miniature 14 (fol. 80b): Bī Naẓīr is taken out of the well ("Birūn kashīdan-i Bī Naẓīr az chāh"); the painting shows Bī Naẓīr on the shoulders of a dīv; two other dīv's,
+      the winged prince and a female character are also present</note>
+   <note type="contents">Miniature 15 (fol. 93a): The wedding of Bī Naẓīr and Badr-i Munīr ("Nikāḥ-i Bī Naẓīr bā Badr-i Munīr"). The painting shows Bī Naẓīr sitting in front of two men; in the
+      foreground are Badr-i Munīr and two men sitting</note>
+   <note type="contents">Miniature 16 (fol. 98a): Bī Naẓīr meets the parents ("mulāqāt-i Bī Naẓīr bā padar u mādar")</note>
+   <note>Origin: The copy is not dated</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> كرون پيلى توحيد يزدان رقم چهكا جكى سجده</note>
+   <subject authority="lcsh">
+      <topic>Parrots</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tigers</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bears</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Snakes</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Animals, Mythical</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Jinn</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Urdu literature</topic>
+      <temporal>18th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Urdu poetry</topic>
+      <temporal>18th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Monsters</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Urdu</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1549Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1549y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5559859</recordOrigin>
+   </recordInfo>
+</mods>

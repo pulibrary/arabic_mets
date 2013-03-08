@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <nonSort>al-</nonSort>
+      <title>Misbāḥ fī al-Jamʻ bayna al-Afʻāl wa-al-Ṣiḥāḥ fī al-lughah … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Qurṭubī</namePart>
+      <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+      <namePart type="date">d. 1273</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart>قرطبي</namePart>
+      <namePart type="given">محمد بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <genre>Manuscripts, Arabic - Egypt - Cairo - 17th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Cairo</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1607</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>416, i leaves : paper ; 234 × 164 (162 × 89) mm. bound to 235 × 170 mm.</extent>
+   </physicalDescription>
+   <abstract>Volume comprising the Arabic dictionary of al-Qurṭubī and various shorter texts concerning mainly lexicography, written by the same hand</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Written in medium small naskh in black ink with use of red. Glazed paper with watermark. Marginal notes. The title is written on the lower edge of the text block
+      (illegible). Long note on fol. 377b, concerning an event in 1013 H. [1604/5]. Foliation using Arabic numerals beginning on fol. 10, up to fol. 371. Modern foliation in pencil using Western
+      numerals</note>
+   <note>Two of the texts were copied in Cairo (Miṣr and al-Qāhirah) in 1016 (colophon text 2, fol. 371b ; text 11, fol. 405b) by Aḥmad ibn ʻAlī ibn Aḥmad (fol. 405b ; on fol. 377b : Aḥmad).
+      The date of completion of the copy of the Kitāb al-Miṣbāḥ is given according to three different calendars (see fol. 371b)</note>
+   <note type="contents">1. fol. 1b-7b : Tuḥfah wafīyah bi-maʻānī ḥurūf al-ʻarabīyah / Ibrāhīm ibn Muḥammad al-Ṣafāqisī</note>
+   <note type="contents">2. fol. 8a-371b : Kitāb al-Miṣbāḥ fī al-Jamʻ bayna al-Afʻāl wa-al-Ṣiḥāḥ / Muḥammad ibn Aḥmad al-Qurṭubī</note>
+   <note type="contents">3. fol. 372b-375b : Kitāb al-abnīyah / ʻAlī ibn Jaʻfar Ibn al-Qaṭṭāʻ</note>
+   <note type="contents">4. fol. 372b-373a (margin) : Dībājat [Kitāb al-]Afʻāl / ʻAlī ibn Jaʻfar Ibn al-Qaṭṭāʻ</note>
+   <note type="contents">5. fol. 373a (margin) : [Excerpts] / Jaʻfar ibn ʻAbd al-Raḥmān ibn Abi ʻAmr al-Sulamī</note>
+   <note type="contents">6. fol. 375b-376a : [Excerpts from al-Kāmil] / Muḥammad ibn Yazīd al-Thumālī, known as al-Mubarrad</note>
+   <note type="contents">7. fol. 376a : Tartīb Kitāb al-ʻAyn / Khalīl ibn Aḥmad</note>
+   <note type="contents">8. fol. 376b : Fī Awqāt ṭulūʻ manāzil al-qamar / ʻAbd al-ʻAzīz ibn ʻAbd al-Raḥmān Sharaf al-Dīn al-Ḥumuwī, known as Ibn Qrnāṣ</note>
+   <note type="contents">9. fol. 376b-377b : Hādhihi al-alfāẓ allatī dhakara-hā Abū Muḥammad ʻAbd Allāh ibn Barrī ibn ʻAbd al-Jabbār al-Naḥwī al-muṣdir bi-al-Jāmiʻ al-ʻatīq bi-Miṣr
+      / ʻAbd Allāh ibn Barrī</note>
+   <note type="contents">10. fol. 378a : [Excerpts from the Nihāyat of Ibn al-Athīr, the Ṣiḥāḥ of al-Jawharī, etc.]</note>
+   <note type="contents">11a. fol. 378b : [Title page of the Ubnīyat Kitāb Sibawayhi, and biography of the author from the Wafayāt al-aʻyān of Ibn Khallikān]</note>
+   <note type="contents">11b. fol. 379b-405b : Abnīyat Kitāb Sibawayh / Muḥammad ibn Ḥasan al-Ishbīlī</note>
+   <note type="contents">12. fol. 406a : [Excerpts in verse and prose from the Kitāb Natāʼij al-ādāb by ʻAlī ibn Muḥammad … al-Ḥusaynī, known as Daftarkhān, the Mayiz al-Diyāḥī
+      by ʻAlam al-Dīn al-Sakhāwī [ʻAlī ibn Muḥammad, d. 1245], al-Damāmīnī, Ādāb [al-mulūk] by [ʻAbd al-Malik] Thaʻālibī [d. 1037/8], al-Arbaʻīn by al-Bukhārī in al-Sāhir fī
+      al-islām, al-Wāsiṭī]</note>
+   <note type="contents">13. fol. 406b-407b : Fī al-farq bayna al-wasaṭ al-mutaḥarrik al-awsaṭ wa-al-wasṭ al-sakin / lil-Shaykh ʻAbd Allāh ibn Barrī</note>
+   <note type="contents">14. fol. 408a-416a : [Excerpts in verse and prose on lexicography from al-Naṭanzī, ʻAbd Allāh al-Ṭabalāwī, etc.]</note>
+   <note type="provenance">Ownership statement on fol. 1a, in the name of Muḥammad ʻAbd al-Qādir al-Jawharī, dated 1276 H. [1859/60] ; the same name appears on fol. 9a and 202a. Acquired from
+      Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers, fore-edge flap and envelope flap made of brown leather over paper pasteboards. The covers have a similar outer frame consisting in blind tooled
+      and gold painted fillets and an s-shape running pattern. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 245, 253, 265, 274</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Ibn Barrī</namePart>
+         <namePart type="given">ʻAbd Allāh</namePart>
+         <namePart type="date">1106-1187</namePart>
+      </name>
+      <titleInfo>
+         <title>Fī al-farq bayna al-wasaṭ al-mutaḥarrik al-awsaṭ wa-al-wasṭ al-sakin</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣafāqisī</namePart>
+         <namePart type="given">Ibrāhīm ibn Muḥammad</namePart>
+         <namePart type="date">1298-1342</namePart>
+      </name>
+      <titleInfo>
+         <title>Tuḥfah wafīyah bi-maʻānī ḥurūf al-ʻarabīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Qaṭṭāʻ</namePart>
+         <namePart type="given">ʻAlī ibn Jaʻfar</namePart>
+         <namePart type="date">1041 or 2-1121 or 2</namePart>
+      </name>
+      <titleInfo>
+         <title>Afʻāl. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Abū Bakr al-Zubaydī</namePart>
+         <namePart type="given">Muḥammad ibn al-Ḥasan</namePart>
+         <namePart type="date">928 or 9-989 or 90</namePart>
+      </name>
+      <titleInfo>
+         <title>Abniyat Kitāb Sībawayh</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sībawayh</namePart>
+         <namePart type="given">ʻAmr ibn ʻUthmān</namePart>
+         <namePart type="date">8th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Kitāb. Abridgments</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 283H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/283h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4804706</recordOrigin>
+   </recordInfo>
+</mods>

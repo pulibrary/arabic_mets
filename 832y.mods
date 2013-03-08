@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Risālah fī al-ghayb. Risālah fī al-tafsīr wa-mā Muḥammad illā rasūl … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="given">Kemalpaşazade</namePart>
+      <namePart type="date">1468 or 9-1534</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <dateCreated>[between 16--? and 17--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1600</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1799</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>533 leaves : paper ; 195 × 125 mm. bound to 195 × 125 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several texts on religious topics, kalām, and poetry</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">Physical description: Number of lines per page varies. European paper, some leaves with Tre Lune watermark</note>
+   <note>Inscription in Arabic script on a label pasted on the pastedown of the upper cover: "1614"</note>
+   <note type="origin">According to colophon, Farāʾid al-fawāʾid copied in 1069 H. [1658 or 9] (fol. 49b) ; Risālah fī maʻná al-aysa wa-al-laysa copied by Ṣubḥī Muḥammad Ibn ʻAlī (fol. 313b).
+      However, the copy contains quotations from Sāchaqlī Zādah (d. 1150/1737) and texts by Āqkirmānī (d. 1174/1761). Risālat mazīyat lisān al-Fārisī is dated 1161 H. /1748 (fol. 117a)</note>
+   <note type="contents">1. fol. 2b: [Table of contents]</note>
+   <note type="contents">2. fol. 3b-8a: Risālah fī al-ghayb / Ibn Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">3. fol. 8b-12a: Risālah fī al-tafsīr wa-mā Muḥammad illā rasūl / [Kemalpaşazade]</note>
+   <note type="contents">4. fol. 12b-49b: Farāʾid al-fawāʾid / [Kemalpaşazade]</note>
+   <note type="contents">5. fol. 50a: [Short excerpts]</note>
+   <note type="contents">6. fol. 50b-55a: Risālah mulakhkhaṣah min Tabyīn al-mawḍūʻāt / ʻAlī al-Qārī</note>
+   <note type="contents">7. fol. 55b-56a: [Short excerpts]</note>
+   <note type="contents">8. fol. 56b-61b: Risālah fī mawḍūʻāt al-aḥādīth / Ḥasan ibn Muḥammad al-Ṣaghānī</note>
+   <note type="contents">9. fol. 61b-62a: [Short excerpts]</note>
+   <note type="contents">10. fol. 62a-63a: Iʻlām al-arīb bi-ḥudūth al-maḥārib / al-Suyūṭī</note>
+   <note type="contents">11. fol. 63b-67b: Risālah fī tafsīr Yawm yaʾtī baʻḍ āyāt rabbika / [Kemalpaşazade?]</note>
+   <note type="contents">12. fol. 68a-73b: Risālah fī taḥqīq al-kalām al-nafsī fī sharḥ al-maqālah … al-mansūbah ilá … ʻAḍud al-millah wa-al-dīn ʻAbd al-Raḥmān ibn Aḥmad al-Ījī
+      / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">13. fol. 74a-86b: Risālah fī masʾalat al-qadar / Aḥmad ibn Kamāl Pāshā [Kemalpaşazade]</note>
+   <note type="contents">14. fol. 87a-90a: Risālah bi-masʾalat khalq al-Qurʾān / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">15. fol. 90b-92a: Risālah fī al-rūḥ / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">16. fol. 92b-98a: Risālah fī al-ʻaql / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">17. fol. 98b-99a: Ṭabaqāt al-fuqahāʾ / Ibn Kamāl Pāshāzādah</note>
+   <note type="contents">18. fol. 99b: [Short excerpts]</note>
+   <note type="contents">19. fol. 100a-103a: Risālah tawqīfīyah / Aḥmad ibn Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">20. fol. 104a-105a: Risālah fī al-istikhlāf raddan ʻalá al-Durar / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">21. fol. 106a-109a: Risālah fī tafṣīl mā qīla fī amr al-tafḍīl / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">22. fol. 109b-113b: [Blank]</note>
+   <note type="contents">23. fol. 114a-117a: Risālat mazīyat lisān al-Fārisī / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">24. fol. 118b-121b: Fatāwá Abū al-Suʻūd fī masʾalat al-qadar / Abū al-Saʻūd</note>
+   <note type="contents">25. fol. 122b-128b: al-Maṭālib al-ʻāliyah / [Khwājakīzāde]</note>
+   <note type="contents">26. fol. 129a: [Short excerpt]</note>
+   <note type="contents">27. fol. 130b-133b: Risālah fī abaway al-Nabī / Kamāl [i.e., Kemalpaşazade]</note>
+   <note type="contents">28. fol. 134b-142b: Risālah fī ḥayāt al-Khiḍr wa-mawtih</note>
+   <note type="contents">29. fol. 143a: [Short excerpts]</note>
+   <note type="contents">30. fol. 143b-150b: Inbāh al-adhkiyāʾ li-ḥayāt al-anbiyāʾ / al-Suyūṭī</note>
+   <note type="contents">31. fol. 151a-b: Fāʾidah [on the coming of ʻĪsá (Jesus) at the end of times]</note>
+   <note type="contents">32. fol. 152b-156b: Risālah fī nuzūl ʻĪsá / al-Suyūṭī</note>
+   <note type="contents">33. fol. 156b-161a: Aḥwāl al-barzakh al-lumʻah fī ajwibat al-asʾilah al-sabʻah / al-Suyūṭī</note>
+   <note type="contents">34. fol. 161b-165a: al-Akhbār al-maʾthūrah fī al-iṭṭilāʾ bil-nūrah / al-Suyūṭī</note>
+   <note type="contents">35. fol. 165b: Min al-Fatāwá al-ḥadīthīyah [two questions regarding idhān and prayer] / al-Suyūṭī</note>
+   <note type="contents">36. fol. 166a-167b: Min al-Fatāwá al-ḥadīthīyah [questions on ḥadīths, including some regarding Sulaymān, Ādam, the clothing habit of the Prophet Muḥammad,
+      etc.] / al-Suyūṭī</note>
+   <note type="contents">37. fol. 168a: Quṭf al-thumar fī muwāfaqāt ʻUmar / al-Suyūṭī</note>
+   <note type="contents">38. fol. 168b-173b: [Questions and answers attributed to al-Suyūṭī, including excerpts from al-ʻArf al-wardī fī akhbār al-Mahdī; comments on Ghazālī's al-Durrah
+      al-Fākhirah]</note>
+   <note type="contents">39. fol. 174a-175a: Badhl al-ʻasjad li-suʾāl al-masjid / al-Suyūṭī</note>
+   <note type="contents">40. fol. 175b: [Short excerpts from al-Dhahabīyah by al-Suyūṭī, Nafaḥāt al-uns by al-Jāmī, and al-Ṣalāḥ by al-Ṣafadī]</note>
+   <note type="contents">41. fol. 176a: Risālah fī bayān al-siḥr wa-al-istidrāj wa-ghayr dhālika</note>
+   <note type="contents">42. fol. 176b-181a: [Risālah fī taḥqīq al-khawāriq lil-ʻādah] /Shams al-Dīn al-Kāshgharī al-Khānqāhī</note>
+   <note type="contents">43. fol. 181b-182a: [Short excerpts, including quotations from al-Durar al-muntathirah by al-Suyūṭī and a quotation attributed to ShaykhʹZādah]</note>
+   <note type="contents">44. fol. 182b-185b: Min Taqrīrāt Dāwūd Afandī [in Ottoman Turkish]</note>
+   <note type="contents">45. fol. 186a-187a: [Short excerpts on ʻaql and naql, the possibility of knowing God, faith, and creation, including quotations from Sāchaqlī Zādah (d. 1150/1737)
+      and from al-Majmūʻah al-Ḥafīdīyah]</note>
+   <note type="contents">46. fol. 187b-192b: Asrār al-tanzīl [Excerpts] / Fakhr al-Dīn al-Rāzī</note>
+   <note type="contents">47. fol. 192b-195a: Risālah fī kalimat al-tawḥīd / ʻAbd al-Raḥmān al-Jāmī</note>
+   <note type="contents">48. fol. 195a-197b: [Short excerpts from several texts, including Taʻrīfāt Abī al-Baqāʾ al-Kaffawī, Nihāyat al-ʻuqūl by Fakhr al-Dīn al-Rāzī, Sharḥ Maqāṣid
+      al-maqāṣid, Majmūʻat al-Ḥafīd, Kashkūl li-Bahāʾ al-Dīn al-Āmilī, Nashr al-ṭawāliʻ by Sachāqlī Zādah, al-Milal wa-al-niḥal]</note>
+   <note type="contents">49. fol. 198a-205a: Kulliyāt Abī al-Baqāʾ [Excerpts] / Abū al-Baqāʾ [al-Kaffawī]</note>
+   <note type="contents">50. fol. 206a: Riʻāyat al-aṣlaḥ [excerpt from al-Risālah al-qudsīyah, from Ghazzālī's Iḥyāʾ al-ʻulūm, Kitāb Qawāʻid al-ʻaqāʾid. faṣl 3; followed by two
+      other excerpts on taklīf]</note>
+   <note type="contents">51. fol. 206b-207b: Muqaddimat al-Shaykh Ibrāhīm al-Ḥalabī al-Miṣrī fī al-ḥudūth wa-al-qadam wa-al-qaḍāʾ wa-al-qadar [excerpt]</note>
+   <note type="contents">52. fol. 208a-216a: [Several short texts on taklīf, qaḍāʾ, and takwīn, excerpted from Kulliyāt Abī al-Baqāʾ [al-Kaffawī], Risālat al-Shaykh Ibrāhīm al-Ḥalabī,
+      Tafsīr al-kabīr and Kitāb al-arbaʻīn by aFakhr al-Dīn al-Rāzī, Tafsīr Abī Saʻūd fī sūrat al-Sajdah, Ḥāshiyat al-Mawlā al-Saʻdī, al-Mishkāt by al-Ṭībī, Ḥāshiyat al-Shihāb
+      al-Khafājī, etc.]</note>
+   <note type="contents">53. fol. 216b-219a: [Excerpt from Sharḥ Qaṣīdat al-nafs by al-Munāwī, on the link between body and soul, followed by another short text]</note>
+   <note type="contents">54. fol. 219b-221b: Mā yataʻallaqu bi-kayfīyat nuzūl al-Qurʾān al-ʻaẓīm wa-kayfīyat alfāẓihi wa-kayfīyat nuzūl sāʾir al-kutub al-ilāhīyah / ʻAfīf al-Dīn
+      Sulaymān ibn al-Sabʻ ibn Saʻīd ibn Muḥammad ibn Masʻūd al-Kāzarūnī al-Sibtī [excerpt from his Shifāʾ al-ṣudūr fī īḍāḥ bayān al-umūr li-muʻjizāt al-Rasūl]</note>
+   <note type="contents">55. fol. 221b-222b: [Short excerpts from several texts, including one on waḥī, from the Taʻrīfāt of Abū al-Baqāʾ [al-Kaffawī], one on the Qurʾān as a miracle
+      from the Muqaddimah by Ibn Khaldūn, and a fāʾidah]</note>
+   <note type="contents">56. fol. 223a-224b: Ḥadīth al-ṭāʻūn</note>
+   <note type="contents">57. fol. 224b-226b: [Excerpts from Iḥyāʾ al-ʻulūm by al-Ghazzālī and al-Majmūʻah al-Hafīdīyah, on ḥadīths]</note>
+   <note type="contents">58. fol. 226(bis): [Excerpt from Munāwī on a piece of paper pasted between fol. 226 and 227]</note>
+   <note type="contents">59. fol. 227a-230a: Mimmā yataʻallaqu bi-ʻilm al-ḥadīth [excerpted from al-Taqrīb by al-Nawawī, followed by short excerpts from Sharḥ al-Taqrīb by al-Suyūṭī,
+      Sharḥ Dīwān ʻAlī by Mīr Ḥusayn [al-Maybudī] (in Persian), and Majmūʻat al-Ḥafīd]</note>
+   <note type="contents">60. fol. 230b-231a: Min al-gharāʾib [excerpt from Tanzīh al-sharīʻah al-marfūʻah ʻan al-akhbār al-mawḍūʻah by ʻAlī ibn Muḥammad ibn ʻAlī ibn ʻIrāq al-Shāfiʻī
+      al-Kinānī]</note>
+   <note type="contents">61. fol. 231b-234a: Ḍābiṭah nāfiʻah fī al-kaf ʻan taʾwīl al-mutashabbihāt [excerpted from Qaṣd al-sabīl by Ibrāhīm …?, followed by a short excerpt from Sharḥ
+      Hidāyat al-ḥikmah by al-Qāḍī Mīr Ḥusayn al-Maybudī, on the levels of being, and by a definition of "nafs al-amr" by Sayyid-i Sharīf (Jurjānī)]</note>
+   <note type="contents">62. fol. 234b-236a: [Short excerpts from several texts, including Sharḥ aḥādīth al-mushkilah by Abū Muḥammad ʻAbd Allāh ibn Muslim ibn Qutaybah al-Dīnawarī,
+      al-Kashshāf, Sharḥ al-Kashshāf, Kashkūl, Kunz al-ʻibād]</note>
+   <note type="contents">63. fol. 236b-237a: Qaṣīdah fī al-asmāʾ al-muʾannathah / Ibn al-Ḥājib</note>
+   <note type="contents">64. fol. 237a-238b: [Short excerpts from several texts, including al-Tafsīr al-kabīr and Majmūʻat al-Ḥafīd]</note>
+   <note type="contents">65. fol. 239a-243a: Sharḥ Qaṣīdat al-nafs li-Abī ʻAlī ibn Sīnā [excerpts] / al-Munāwī</note>
+   <note type="contents">66. fol. 243b-264b: [Short excerpts from several texts, including one on visiting tombs from al-Maṭālib al-ʻāliyah by Fakhr al-Dīn al-Rāzī, on perception from Maqāṣid
+      al-marāṣid, on tafsīr from al-Kashkūl by Bahāʾ al-Dīn al-Āmilī, on the definition of istiṭāʻah, qudrah, ʻilm, imkān, and ishtirāk from the Kulliyāt and Taʻrīfāt of Abū al-Baqāʾ
+      al-Kaffawī, and other excerpts from Inbāʾ al-ʻuyūn, Abū al-Suʻūd, al-Tafsīr al-kabīr [by Fakhr al-Dīn al-Rāzī], al-ʻArbaʻīn by al-Rāzī, Kitāb Ikhwān al-Ṣafāʾ, etc.]</note>
+   <note type="contents">67. fol. 266a-267a: Munāẓarat al-Imām Fakhr al-Dīn al-Rāzī … maʻa Naṣrānī bi-Khwārizm dhakarahu fī al-Tafsīr al-kabīr ʻinda tafsīr āyat al-mubāhilah</note>
+   <note type="contents">68. fol. 268a-284a: [Excerpts from al-Tafsīr al-kabīr and al-Arbaʻīn by Fakhr al-Dīn al-Rāzī; on fol. 281a-b is a short text in Persian on the age of the world,
+      "Dar bayān-i tārīkh-i ʻālam manqūl az nuskhah-ʾi Vafāʾi munajjim-i Astarabādī]</note>
+   <note type="contents">69. fol. 284b-296b: [Short excerpts from several texts, including al-Arbaʻīn, al-Tafsīr al-kabīr, and al-Maṭālib al-ʻāliyah by Fakhr al-Dīn al-Rāzī, Fayḍ al-ʻālī
+      al-bārī fī taḥqīq al-juzʾ al-ikhtiyārī by Aḥmad al-Jawharī al-Khālidī al-Azharī, and Sharḥ al-Maqāṣid; on fol. 288a-289 is an excerpt from Sharḥ-i Jām-i gītī-namā in
+      Persian, on bodily resurrection]</note>
+   <note type="contents">70. fol. 297a-b: [Ḥadīth on creation, as quoted by Nīsābūrī]</note>
+   <note type="contents">71. fol. 299a-310a: [Excerpts from al-Tafsīr al-kabīr by Fakhr al-Dīn al-Rāzī on the jinns and devils and on waswās, followed by short excerpts from Ibn Khaldūn
+      and Rāghib al-wazīr in Ottoman Turkish]</note>
+   <note type="contents">72. fol. 310b-313b: Risālah fī maʻná al-aysa wa-al-laysa / [Kemalpaşazade]</note>
+   <note type="contents">73. fol. 314a-331a: [Short excerpts from several texts, including verses of poetry in Persian, excerpts from Sharḥ-i Divān-i ʻAlī by Mīr Ḥusayn Maybudī, from al-Tafsīr
+      al-kabīr by Rāzī and Taʾwīlāt al-Māturīdī, a long excerpt from al-Shajarah al-ilāhīyah by Maḥmūd al-Shahrūzī [al-Shahrazūrī?], on conjunctions (qirānāt), excerpts from
+      Mirʾāt al-zamān [Mirʾāt al-janān?] by al-Yāfiʻī, Tuḥfat al-ʻarūs, Badhl al-māʻūn fī faḍl al-ṭāʻūn by Aḥmad ibn ʻAlī ibn Ḥajar al-ʻAsqalānī, and Kitāb al-marbūr]</note>
+   <note type="contents">74. fol. 331b-333b: [Talkhīṣ al-bayān fī ʻalāmāt al-Mahdī ākhir al-zamān / ʻAlī al-Muttaqī]</note>
+   <note type="contents">75. fol. 334a: [Short excerpts from several texts]</note>
+   <note type="contents">76. fol. 334b-336a: Taqrīr / Muḥammad al-Aqkirmānī [in Ottoman Turkish]</note>
+   <note type="contents">77. fol. 336b-337a: Sharḥ bayt Khusraw Dihlawī / ʻAbd al-Raḥmān al-Jāmī [in Persian]</note>
+   <note type="contents">78. fol. 337b-339b: Risālah li-taḥqīq maʻná al-ḥarf / al-Sayyid al-sharīf [al-Jurjānī]</note>
+   <note type="contents">79. fol. 340a-347b: Risālah fī asʾulat al-ḥikmīyah [Excerpts from Kitāb Bayān al-ḥikam, a translation of the Problemata Physica]</note>
+   <note type="contents">80. fol. 348b-354b: Risālat Tafkīk al-ḍamāʾir / Aḥmad ibn Kamāl [Kemalpaşazade]</note>
+   <note type="contents">81. fol. 355a: [Definition of ghayb by Ibn Kamāl and excerpt from Ḥayāt al-ḥayawān]</note>
+   <note type="contents">82. fol. 355b-356b: Risālah fī taḥqīq mā yaṣduru bi-al-qudrah wa-al-ikhtiyār / Aḥmad ibn Kamāl [Kemalpaşazade]</note>
+   <note type="contents">83. fol. 357a: [Short excerpts]</note>
+   <note type="contents">84. fol. 357b-360a: Risālah fī min al-tabʻīḍīyah / Aḥmad ibn Kamāl [Kemalpaşazade]</note>
+   <note type="contents">85. fol. 360b-361b: Risālah fī taḥqīq al-istithnāʾ alladhī fī Mā anzalnā ʻalayka al-Qurʾān li-tashqá / [Muḥammad ibn ʻUmar al-Dārandī]</note>
+   <note type="contents">86. fol. 362a-366a: [Short excerpts from several texts, including a Sharḥ al-abyāt fī al-taṣawwuf by Ibrāhīm ibn Muḥammad al-Ḥalabī (title from table of contents),
+      excerpts from Nafāʾis al-ḥukm [Nafāʾis al-aḥkām?], Kullīyāt Abī al-Baqāʾ, Risālat al-Suyūṭī, Shaykh Zādah, etc.]</note>
+   <note type="contents">87. fol. 366b-368b: [Sharḥ al-Waḍʻīyah] / al-Sayyid al-Sharīf al-Jurjānī</note>
+   <note type="contents">88. fol. 368b-374a: Risālah li-Mawlānā ʻAbd al-Raḥmān al-Jāmī ʻalá Risālat al-waḍʻīyah / Jāmī</note>
+   <note type="contents">89. [Short excerpts from several texts, including Kawkab al-rawḍah by al-Suyūṭī, Ibn Sīnā al-Arbaʻī, al-Tawḍīḥ ʻalá Muqaddimat Abī al-Layth by Muṣṭafá
+      ibn Zakaryā al-Qaramānī, etc.]</note>
+   <note type="contents">90. fol. 376b-384a: Risālah fī al-basmalah / Aq Kirmānī [Muḥammad ibn Muṣṭafá Āqkirmānī]</note>
+   <note type="contents">91. fol. 384b-386b: [Short excerpts from several texts, including Majālis al-abrār]</note>
+   <note type="contents">92. fol. 387a-389a: al-Qalamīyah / GhanīʹZādah [Ganı̂zâde Mehmet Nâdirı̂]</note>
+   <note type="contents">93. fol. 389a-390a: [Short text on qalam]</note>
+   <note type="contents">94. fol. 390b-391b: Qaṣīdah [in praise of God] / Ismaʻīl al-Muqrī [followed by a commentary by Muḥammad Kāmilʹzādah]</note>
+   <note type="contents">95. fol. 392a-397a: Rafʻ al-iltibās ʻan munkir al-iqtibās / Shams al-Dīn Muḥammad ibn Abī al-Luṭf muftī al-Shāfiʾīyah bi-al-diyār al-Qudsīyah</note>
+   <note type="contents">96. fol. 397b-398a: [Short excerpts and verses of poetry]</note>
+   <note type="contents">97. fol. 398b-413a: Nawābigh [al-kalim] / al-Zamakhsharī</note>
+   <note type="contents">98. fol. 413b-417b: [Short excerpts from several texts]</note>
+   <note type="contents">99. fol. 418a-434b: al-Manthūr al-ʻūdī ʻalá al-manẓūm al-Suʻūdī / Muḥammad ibn al-Ḥanbalī</note>
+   <note type="contents">100. fol. 435a-439a: [Short excerpts and verses of poetry, including Munājāt Zayn al-ʻĀbidīn ʻAlī ibn al-Ḥusayn and verses by Aḥmad ibn al-Faraj al-Maghribī and
+      by Abū al-Barakāt al-Ṭanṭarānī]</note>
+   <note type="contents">101. fol. 439b-492b and 504a-505b: [Sharḥ Bānat Suʻād] / ʻAbd Allāh ibn Hishām al-Anṣarī al-Naḥwī</note>
+   <note type="contents">102. fol. 494a: Qaṣīdah-ʾi munfarijah / Yūsuf ibn Muḥammad ibn al-Naḥwī</note>
+   <note type="contents">103. fol. 494b-503b: Sharḥ al-Qaṣīdah al-rūḥīyah al-mansūbah ilá al-shaykh Abī ʻAlī ibn Sīnā / ʻAlī ibn Majd al-Dīn al-Shāhrūdī al-Bisṭāmī [Muṣannifak]</note>
+   <note type="contents">104. fol. 506a: [Excerpt from] Sharḥ Lāmiyat al-ʻAjam / Ṣalāḥ al-Safadī</note>
+   <note type="contents">105. fol. 506b-509a: Lāmīyat al-Rūm / al-Ṭughrāʾī</note>
+   <note type="contents">106. fol. 509b-510b: Qaṣīdah Nūniyah / Abū al-Fatḥ al-Bustī</note>
+   <note type="contents">107. fol. 511a-521b: [Short excerpts and verses of poetry, including Lāmiyat al-ʻAjam by al-Ṭughrāʾī and verses by Abū Bakr Muḥammad ibn al-ʻAbbās al-Ṭabarī
+      al-Khwārizmī]</note>
+   <note type="contents">108. fol. 522a-529b: [Blank, except a short excerpt on fol. 527b and inscriptions on fol. 528a-b]</note>
+   <note type="provenance">Two ownership statements on fol. 1a, in the name of Ḥusayn Badr al-Dīn ibn muftī Muḥammad … (with impression of a seal dated 1240 H.) and of Aḥmad Najīb (dated
+      1292 H.). Hardly legible ownership statement with impression of a seal on fol. 528a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Amīr Khusraw Dihlavī</namePart>
+         <namePart type="date">ca. 1253-1325</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Ghazzālī</namePart>
+         <namePart type="date">1058-1111</namePart>
+      </name>
+      <titleInfo>
+         <title>Durrah al-fākhirah fī kashf ʻulūm al-Ākhirah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ījī</namePart>
+         <namePart type="given">ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad</namePart>
+         <namePart type="date">d. 1355?</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālat al-waḍʻ</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <genre>Commentaries</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Khiḍr (Legendary character)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Muslim scholars</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Persian language</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Writing</topic>
+      <topic>Materials and instruments</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 125, 130, 451, 457, 474, 497, 776, 783, 1143, 1756, 2042, 2069, 2169, 2366, 2370, 2411, 2435, 2455, 2456, 2459, 2479, 2493, 2494, 2513, 2546, 2548, 2561, 2988, 3134,
+         3135, 3422, 3431, 3444, 3676, 3794, 3821, 3968, 4022, 4052, 4062, 4071, 4082, 4182, 4231, 4310, 4346, 4400, 4579, 4656, 5240</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Suyūṭī</namePart>
+         <namePart type="date">1445-1505</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Hafīd al-Saʻd</namePart>
+         <namePart type="given">Aḥmad ibn Yaḥyá</namePart>
+         <namePart type="date">d. 1510 or 11</namePart>
+      </name>
+      <titleInfo>
+         <title>Majmūʻat Ḥafīd. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Nawawī</namePart>
+         <namePart type="date">1233-1277</namePart>
+      </name>
+      <titleInfo>
+         <title>Taqrīb. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qāḍī Mīr</namePart>
+         <namePart type="given">Ḥusayn ibn Muʻīn al-Dīn</namePart>
+         <namePart type="date">d. 1504 or 5</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Dīwān ʻAlī. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qāḍī Mīr</namePart>
+         <namePart type="given">Ḥusayn ibn Muʻīn al-Dīn</namePart>
+         <namePart type="date">d. 1504 or 5</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Hidāyat al-ḥikmah. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn ʻIrāq</namePart>
+         <namePart type="given">ʻAlī ibn Muḥammad</namePart>
+         <namePart type="date">1501 or 2-1556</namePart>
+      </name>
+      <titleInfo>
+         <title>Tanzīh al-sharīʻah al-marfūʻah ʻan al-akhbār al-mawḍūʻah. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Ḥājib</namePart>
+         <namePart type="given">ʻUthmān ibn ʻUmar</namePart>
+         <namePart type="date">1175-1249</namePart>
+      </name>
+      <titleInfo>
+         <title>Qaṣīdah fī al-asmāʾ al-muʾannathah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jawharī</namePart>
+         <namePart type="given">Aḥmad ibn al-Ḥasan</namePart>
+         <namePart type="date">d. 1768</namePart>
+      </name>
+      <titleInfo>
+         <title>Fayḍ al-ʻālī al-bārī fī taḥqīq al-juzʾ al-ikhtiyārī. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Zamakhsharī</namePart>
+         <namePart type="given">Maḥmūd ibn ʻUmar</namePart>
+         <namePart type="date">1075-1144</namePart>
+      </name>
+      <titleInfo>
+         <title>Nawābigh al-Kalim</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Ḥanbalī</namePart>
+         <namePart type="given">Muḥammad ibn Ibrāhīm</namePart>
+         <namePart type="date">1502 or 3-1563</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Manthūr al-ʻūdī ʻalá al-manẓūm al-Suʻūdī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṭanṭarānī</namePart>
+         <namePart type="given">Aḥmad ibn ʻAbd al-Razzāq</namePart>
+         <namePart type="date">11th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Qaṣīdah al-Ṭanṭarānīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn Hishām</namePart>
+         <namePart type="given">ʻAbd Allāh ibn Yūsuf</namePart>
+         <namePart type="date">1309-1360</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Bānat Suʻād</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Naḥwī</namePart>
+         <namePart type="given">Yūsuf ibn Muḥammad</namePart>
+         <namePart type="date">ca. 1041-1119 or 20</namePart>
+      </name>
+      <titleInfo>
+         <title>Munfarijah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Muṣannifak</namePart>
+         <namePart type="given">ʻAlī ibn Majd al-Dīn Muḥammad</namePart>
+         <namePart type="date">1400 or 1401-1470 or 71</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Qaṣīdat al-nafs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṭughrāʾī</namePart>
+         <namePart type="given">al-Ḥusayn ibn ʻAlī</namePart>
+         <namePart type="date">1061 or 2-1121?</namePart>
+      </name>
+      <titleInfo>
+         <title>Lāmiyat al-ʻAjam</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṭughrāʾī</namePart>
+         <namePart type="given">al-Ḥusayn ibn ʻAlī</namePart>
+         <namePart type="date">1061 or 2-1121?</namePart>
+      </name>
+      <titleInfo>
+         <title>Lāmiyat al-Rūm</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bustī</namePart>
+         <namePart type="given">ʻAlī ibn Muḥammad</namePart>
+         <namePart type="date">d. 1010</namePart>      
+      </name>
+      <titleInfo>
+         <title>Nūnīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Āqkirmānī</namePart>
+         <namePart type="given">Muḥammad ibn Muṣṭafá</namePart>
+         <namePart type="date">d. 1760 or 61</namePart>
+      </name>
+      <titleInfo>
+         <title>Taqrīr</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Muttaqī</namePart>
+         <namePart type="given">ʻAlī ibn ʻAbd al-Malik</namePart>
+         <namePart type="date">d. 1567</namePart>
+      </name>
+      <titleInfo>
+         <title>Talkhīṣ al-bayān fī ʻalāmāt al-Mahdī ākhir al-zamān</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Kemalpaşazade</namePart>
+         <namePart type="date">1468 or 9-1534</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Jāmī</namePart>
+         <namePart type="date">1414-1492</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jurjānī</namePart>
+         <namePart type="given">ʻAlī ibn Muḥammad</namePart>
+         <namePart type="termsOfAddress">al-Sayyid al-Sharīf</namePart>
+         <namePart type="date">1340-1413</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ al-Waḍʻīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qārī al-Harawī</namePart>
+         <namePart type="given">ʻAlī ibn Sulṭān Muḥammad</namePart>
+         <namePart type="date">d. 1605 or 6</namePart>
+      </name>
+      <titleInfo>
+         <title>Hibāt al-sanīyāt. Abridgments</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jurjānī</namePart>
+         <namePart type="given">ʻAlī ibn Muḥammad</namePart>
+         <namePart type="termsOfAddress">al-Sayyid al-Sharīf</namePart>
+         <namePart type="date">1340-1413</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah li-taḥqīq maʻná al-ḥarf</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Kāshgharī al-Khānqāhī</namePart>
+         <namePart type="given">Shams al-Dīn</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī taḥqīq al-khawāriq lil-ʻādah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Dārandī</namePart>
+         <namePart type="given">Muḥammad ibn ʻUmar</namePart>
+         <namePart type="date">d. 1739 or 40</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī taḥqīq al-istithnāʾ alladhī fī Mā anzalnā ʻalayka al-Qurʾān li-tashqá</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣaghānī</namePart>
+         <namePart type="given">al-Ḥasan ibn Muḥammad</namePart>
+         <namePart type="date">1181-1252</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī mawḍūʻāt al-aḥādīth</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Āqkirmānī</namePart>
+         <namePart type="given">Muḥammad ibn Muṣṭafá</namePart>
+         <namePart type="date">d. 1760 or 61</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī al-basmalah</title>
+      </titleInfo>
+   </relatedItem>
+
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Ganı̂zâde Mehmet Nâdirı̂</namePart>
+         <namePart type="date">1572-1626</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Qalamīyah </title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Davud Efendi</namePart>
+      </name>
+      <titleInfo>
+         <title>Taqrīrāt Dāwūd Afandī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Abū al-Saʻūd Muḥammad ibn Muḥammad</namePart>
+         <namePart type="date">1492 or 3-1574 or 5</namePart>
+      </name>
+      <titleInfo>
+         <title>Fatāwá Abū al-Suʻūd fī masʾalat al-qadar</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Rāzī</namePart>
+         <namePart type="given">Fakhr al-Dīn Muḥammad ibn ʻUmar</namePart>
+         <namePart type="date">1149 or 50-1210</namePart>
+      </name>
+      <titleInfo>
+         <title>Asrār al-tanzīl</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Problemata physica. Arabic. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Bayān al-siḥr wa-al-istidrāj</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ḥayāt al-Khiḍr wa-mawtih</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Tafsīr Yawm yaʾtī baʻḍ āyāt rabbika</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 832Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/832y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5571290</recordOrigin>
+   </recordInfo>
+</mods>

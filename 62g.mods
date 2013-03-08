@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1" supplied="yes">
+      <title>Dīvān-i Ḥāfiẓ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1" supplied="yes">
+      <title>ديوان حافظ</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="given">Ḥāfiẓ</namePart>
+      <namePart type="date">14th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="given">حافظ</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Illuminated manuscripts - Iran - 16th century</genre>
+   <genre>Miniatures (paintings) - Iran - 16th century</genre>
+   <genre>Illuminations (visual works) - Iran - 16th century</genre>
+   <genre>Lacquered bindings - Iran - 16th century</genre>
+   <genre>Manuscripts, Persian - 16th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1520</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>134 leaves : paper, ill. ; 246 × 157 (170 × 95) mm.</extent>
+   </physicalDescription>
+   <abstract>Illuminated copy of the Dīwān of Ḥāfiẓ</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Physical description: 3 columns to the page, with 15 lines per column (outer column written diagonally with 10 lines to the column). Written in nastaʻlīq. Entries
+      in gold and blue</note>
+   <note type="physicalDetails">Decoration: Six full-page miniatures on fol. 1b, 2a, 67b, 107a, 132b, 133a. The manuscript opens and ends with two full-page miniatures (fol.1b-2a and 132b-133a), with floral decor in
+      gold on the margin. Miniatures are also found on fol. 67b (dated 926 or 936 H.) and on fol. 107a</note>
+   <note type="physicalDetails">Decoration: Illuminations in gold and colors and margins decorated with flowers and animals executed in gold on fol. 2b, 3a, 68a, 107a, 132b and 133a</note>
+   <note type="physicalDetails">Decoration: The two first pages of the text (fol. 2b-3a) are magnificently illuminated, in blue, gold, and colors, with a decor of flowers, trees, and animals in gold on the margin.
+      Similar decoration on the last two pages of the text (fol. 131b-132a)</note>
+   <note type="origin">According to colophon, copy completed in Jumād[á] al-Thānī 926 [1520] (or 936? [1530], fol. 132a). Miniature 2 (fol. 2a) bears the same date</note>
+   <note type="provenance">Acquired from ʻAlī Qulī Khān (Ali-Kuli-Khan), 1925 (see inscription on fol. (i)a)</note>
+   <note type="bindingInfo">Lacquered binding, with central panel consisting of a floral arabesque with birds and animal heads developing around a central eight pointed star. Orange leather doublure
+      elaborately tooled in gilt</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="additionalForm">Microfilm negative available for reproduction</note>
+   <note type="incipit" script="Arab"> الا يا ايها الساقى ادر كاسا ونولها</note>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Moghadam, M. et al. Garrett coll., 15</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 62G</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/62g.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5576125</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" usage="primary" supplied="yes">
+      <title>Muntaqá min Dhamm al-kalām lil-Harawī … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Anṣārī al-Harawī</namePart>
+      <namePart type="given">ʻAbd Allāh ibn Muḥammad</namePart>
+      <namePart type="date">1006-1089</namePart>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <originInfo>
+      <dateCreated>[between 13--? and 14--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1300</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1499</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 56, i leaves : paper ; 173 × 133 mm. bound to 197 × 145 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts and ijāzāt in several hands on various types of paper. The ms. comprises the signature of Ṣadr al-Dīn Muḥammad ibn al-Maydūmī (d. 1353, see fol. 20b and
+      22b), Muḥammad ibn ʻAlī al-Jarādiqī (d. 1457, fol. 28b) and Muḥammad ibn Mūsá ibn ʻUmrān (d. 1469), and a text copied in the handwriting of Muḥammad ibn ʻAbd al-Raḥmān al-Sakhawī
+      (d. 1497, fol. 25b). At least one text indicates a Damascene provenance (see fol. 30a). The ms. was endowed as waqf to the Jāmiʻ al-Azhar by Muḥammad al-Kaffawī (see fol. 31b)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Number of lines per page varies. Foliation in pencil using Western numerals. Traces of numbering of the quires (see fol. 18: "thāni ʻashar")</note>
+   <note type="contents">1. fol. 1a-3b: Juzʼ fīhi muntaqá min Dhamm al-kalām lil-Harawī wa-huwa mā waqaʻa fīhi min al-Jāmiʻ lil-ḥāfiẓ Abī ʻĪsá al-Tirmidhī</note>
+   <note type="contents">2. fol. 5a-23b: Juzʼ fīhi nuskhat Ibrāhīm ibn Saʻd ibn Ibrāhīm ibn ʻAbd al-Raḥmān Ibn ʻAwf al-Zuhrī</note>
+   <note type="contents">3. fol. 24a-25b: [Collection of ḥadīths] / ʻUmar ibn Raslān al-Bulqīnī</note>
+   <note type="contents">4. fol. 26a-30a: Thabat al-ʻAllāmah Muḥammad ibn Yūsuf ibn Aḥmad ibn al-Ṣafī al-Miṣrī</note>
+   <note type="contents">5. fol. 31a-44a: al-Muhadhdhab fī-mā waqaʻa fī al-Qurʼān min al-muʻarrab / Jalāl al-Dīn al-Suyūṭī</note>
+   <note type="contents">6. fol. 46b: [Ijāzah for Shihāb al-Dīn Abū al-Faḍl Aḥmad, dated [Jerusalem], al-Masjid al-Aqsá, at Bāb al-Ḥadīd, in the last decade of Ramaḍān 87-(?) and
+      on 9 Muḥarram 873, signed by Muḥammad ibn Mūsá ibn ʻUmrān al-Maqarrī al-Ḥanafī al-Ghazzī thumma al-Maqdisī]</note>
+   <note type="contents">7. fol. 47b-48b: [Sawād of a text starting with: "al-Ḥamdu lillāh alladhī hadānā (daʻānā) ilá baytihi al-maḥjūj"]</note>
+   <note type="contents">8. fol. 49b: Short text transmitted by al-Sharīf Abū al-Ṭayyib from al-Shaykh al-ʻAllāmah Sirāj al-Dīn al-Bulqīnī]</note>
+   <note type="contents">9. fol. 50a-56b: [Verses of poetry, some attributed to al-Ṣāliḥ Abū Bakr al-Ḥalabī al-Bisṭāmī, Shaykh al-Madarasah al-Ṭūlūnīyah in Jerusalem (al-Quds), as
+      a conclusion to the Qasīdat al-Burdah (see fol. 53a) and al-Kamālī Abū al-Maʻālī ibn Abī Sharīf]</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Modern library binding</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn ʻUmrān</namePart>
+         <namePart type="given">Muḥammad ibn Mūsá</namePart>
+         <namePart type="date">1392-1469</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bulqīnī</namePart>
+         <namePart type="given">ʻUmar ibn Raslān</namePart>
+         <namePart type="date">1324-1403</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Būṣīrī</namePart>
+         <namePart type="given">Sharaf al-Dīn Muḥammad ibn Saʻīd</namePart>
+         <namePart type="date">1213?-1296?</namePart>
+      </name>
+      <titleInfo>
+         <title>Burdah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Maqdisī</namePart>
+         <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+         <namePart type="date">d. 1501 or 2</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate">
+         <namePart>Madrasah al-Ṭūlūnīyah (Jerusalem)</namePart>
+      </name>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Scholars, Muslim</topic>
+      <topic>Certification</topic>
+      <geographic>Jerusalem</geographic>
+      <geographic>Masjid al-Aqsá</geographic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Scholars, Muslim</topic>
+      <geographic>Jerusalem</geographic>
+      <geographic>Madrasah al-Ṭūlūnīyah</geographic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Jerusalem</geographic>
+      <topic>Intellectual life</topic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 50, 162, 753, 764, 771</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Suyūṭī</namePart>
+         <namePart type="date">1445-1505</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Muhadhdhab fī-mā waqaʻa fī al-Qurʼān min al-muʻarrab</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Zuhrī</namePart>
+         <namePart type="given">Ibrāhīm ibn Saʻd</namePart>
+         <namePart type="date">727 or 8-800 or 801</namePart>
+      </name>
+      <titleInfo>
+         <title>Nuskhat Ibrāhīm ibn Saʻd ibn Ibrāhīm ibn ʻAbd al-Raḥmān Ibn ʻAwf al-Zuhrī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bulqīnī</namePart>
+         <namePart type="given">ʻUmar ibn Raslān</namePart>
+         <namePart type="date">1324-1403</namePart>
+      </name>
+      <titleInfo>
+         <title>Collection of ḥadīths</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Thabat al-ʻAllāmah Muḥammad ibn Yūsuf ibn Aḥmad ibn al-Ṣafī al-Miṣrī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1357Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1357y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4820805</recordOrigin>
+   </recordInfo>
+</mods>

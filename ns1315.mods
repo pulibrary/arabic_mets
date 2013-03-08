@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Ṭawāliʻ al-anwār min maṭāliʻ al-anẓār … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Bayḍāwī</namePart>
+      <namePart type="given">ʻAbd Allāh ibn ʻUmar</namePart>
+      <namePart type="date">d. 1286?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">بيضاوي</namePart>
+      <namePart type="given">عبد الله بن عمر</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1300</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>324 leaves : paper ; 201 × 103 (150 × 65 and 160 × 70) mm. bound to 200 × 115 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts mostly by ʻAbd Allāh al-Bayḍawī</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Written in medium small naskh in black ink, except the last text, written in a small nastaʻlīq. Title on the lower edge of the textblock (hardly legible). On
+      fol. 2a: Several inscriptions and ownership statements; stamp from the library of Majd al-Dīn; inscription "1273" using Arabic numerals, in red ink. On fol. 117a: Seal. Catchword on the
+      verso of each leaf. Inscription "95" using Arabic numerals on a label pasted on the upper cover. Foliation in pencil using Western numerals (counting the first fly-leaf as fol. 1)</note>
+   <note type="origin">According to the colophons, texts 1, 2 and 3 were copied by Muḥammad ibn Aḥmad in Madrasah Kāmūyah in 699 (see fol. 113b-114a, 185b, 322b). Collation statement dated 2 Muḥarram
+      710 (fol. 323a)</note>
+   <note type="contents">1. fol. 2b-114a: Ṭawāliʻ al-anwār min maṭāliʻ al-anẓār / ʻAbd Allāh al-Bayḍawī, d. 1286?</note>
+   <note type="contents">2. fol. 117b-185b: Minhāj al-wuṣūl ilá ʻilm al-uṣūl / ʻAbd Allāh al-Bayḍawī, d. 1286?</note>
+   <note type="contents">3. fol. 187b-323a: Īḍāḥ al-asrār fī sharḥ al-Minhāj / ʻAlī ibn Rūzbihān al-Khunjī, d. 1307</note>
+   <note type="contents">4. fol. 323b-324a: Taḥqīq masʼalat al-tujzī fī al-ijtihād [mentioning a Sharḥ al-Mukhtaṣar al-ʻAḍudī]</note>
+   <note type="bindingInfo">Upper and lower covers made of red leather over paper pasteboard. Traces of an envelope flap. Marbled paper pasted on both covers. Paper pastedowns. Traces of a label
+      on the spine</note>
+   <note type="provenance">From the Kitābkhānah-i Majd al-Dīn, no. 1496</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bayḍāwī</namePart>
+         <namePart type="given">ʻAbd Allāh ibn ʻUmar</namePart>
+         <namePart type="date">d. 1286?</namePart>
+      </name>
+      <titleInfo>
+         <title>Minhāj al-wuṣūl ilá ʻilm al-uṣūl</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <topic>Interpretation and construction</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 321, 733, 1553</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bayḍāwī</namePart>
+         <namePart type="given">ʻAbd Allāh ibn ʻUmar</namePart>
+         <namePart type="date">d. 1286?</namePart>
+      </name>
+      <titleInfo>
+         <title>Minhāj al-wuṣūl ilá ʻilm al-uṣūl</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Khunjī</namePart>
+         <namePart type="given">ʻAlī ibn Rūzbihān</namePart>
+         <namePart type="date">d. 1307</namePart>
+      </name>
+      <titleInfo>
+         <title>Īḍāḥ al-asrār fī sharḥ al-Minhāj</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Taḥqīq masʼalat al-tujzī fī al-ijtihād</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 1315</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns1315.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4812215</recordOrigin>
+   </recordInfo>
+</mods>

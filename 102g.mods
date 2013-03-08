@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" supplied="yes">
+      <title>Album of miniatures and specimens of calligraphy of Indian origin</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="1">
+      <namePart type="family">Mashhadī</namePart>
+      <namePart type="given">Sulṭān ʻAlī</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="1">
+      <namePart type="family">مشهدي</namePart>
+      <namePart type="given">سلطان علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="family">Ḥusaynī</namePart>
+      <namePart type="given">ʻImād</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="family">حسيني</namePart>
+      <namePart type="given">عماد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="3">
+      <namePart type="given">Mīr ʻAlī</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="3">
+      <namePart type="given">مير علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="4">
+      <namePart type="given">Muḥammad Muʻīn ʻAlī</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="4">
+      <namePart type="given">محمد معين علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="5">
+      <namePart type="given">Muḥammad ʻAlī</namePart>
+      <namePart type="date">fl. 1719</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="5">
+      <namePart type="given">محمد علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Muḥammad Ibrāhīm</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Iṣfahānī</namePart>
+      <namePart type="given">Muḥammad Badīʻ</namePart>
+      <namePart type="date">fl. 1710</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Tajallī ʻAlī Shāh</namePart>
+      <namePart type="date">fl. 1775</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Ḥusaynī</namePart>
+      <namePart type="given">Muḥammad ʻĀbid</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Muḥammad Karīm</namePart>
+      <namePart type="date">fl. 1672</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Anup Chittaur</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Zayn al-Ḥaqq</namePart>
+      <namePart type="date">18th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Zarrīn Raqam</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Asad Allāh</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Muḥammad Afḍal</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Muṣṭafá Khān</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">ʻAbd Allāh</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Aṭhar</namePart>
+      <namePart type="given">Muḥammad</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Mughalkhān</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Jamāl Allāh Khān</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Dalīr</namePart>
+      <namePart type="given">Muḥammad</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Rūshan Raqam</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Javāhir Raqam-i Thānī</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Muḥammad ʻAlī Gawhar</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Fakhkhār</namePart>
+      <namePart type="given">Muḥammad</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Mūsawī</namePart>
+      <namePart type="given">Abū al-Baqāʾ</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Kifāyat Khān</namePart>
+      <namePart type="date">18th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Ismāʻīl</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Ilyās Bahādur</namePart>
+      <namePart type="date">17th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="given">Aḥmad Shāh</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Iksīr</namePart>
+      <namePart type="given">Muḥammad ʻAẓīm</namePart>
+      <namePart type="date">18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Malcolm</namePart>
+      <namePart type="given">John</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1769-1833</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Persian</genre>
+   <genre>Manuscripts, Arabic</genre>
+   <genre>Miniatures (Illuminations)</genre>
+   <genre>Calligraphy, Arabic</genre>
+   <genre>Miniatures (Illuminations) - India - 17th century</genre>
+   <genre>Miniatures (Illuminations) - India - 18th century</genre>
+   <genre>Miniatures (Illuminations) - India - 19th century</genre>
+   <genre>Painting, Islamic - India</genre>
+   <genre>Erotic painting - India - 18th century</genre>
+   <genre>Rāgamālā painting</genre>
+   <genre>Composite portraits</genre>
+   <originInfo>
+      <dateCreated>[between 16-- and 18--]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1600</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>55 leaves : paper, col. ill. ; 485 × 280 mm.</extent>
+   </physicalDescription>
+   <abstract>Album of miniatures and specimens of calligraphy of Indian origin. Described by Mika Natif</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note>The album consists of 55 folios measuring 485 × 280 mm</note>
+   <note>Origin: The signed paintings and calligraphies are attributed to Mīr ʻAlī, Sulṭān ʻAlī al-Mashhadī, Muḥammad ʻAẓīm al-Ikthīr, ʻImād al-Ḥusaynī, Muḥammad Muʻīn ʻAlī Tajallī
+      (= Shāh Muḥammad Muʻīn ʻAlī Tajallī Chishtī, fol. 32a), Muḥammad Ibrāhīm, ʻAbd Allāh, Muḥammad ʻAlī, Muḥammad Badīʻ al-Iṣfahānī, Tajallī ʻAlī Shāh, Muḥammad Karīm,
+      Anūp Chator (Chatar, Chitor: see Titley), Mīr Muḥammad Māh Ḥusaynī, Zayn al-Ḥaqq, Zarrīn Raqam, Muḥammad Afḍal, Ghulām Muṣṭafá Khān, Muḥammad Aṭhar, Asad Allāh, Mughalkhān,
+      Ghulām Jamāl Allāh Khān, Sayyid ʻAlī Būkhārī Rūshan Raqam, Jawāhir Raqam-i Thānī, Muḥammad Ḥusayn, Muḥammad ʻAlī Gawhar, Muḥammad al-Fakhkhār, Abū al-Baqāʾ al-Mūsawī,
+      Kifāyat Khān, Ismāʻīl, Ilyās Bahādur, Aḥmad Shāh, Muḥammad Dalīr, and date from 1014H. [1630 or 31] to 1189 [1775]. Other undated paintings can be dated to 18th-19th century India
+      and 16th or early 17th century Central Asia. One piece is dated Awrangābād, [1]203 [1788 or 9] (fol. 22a)</note>
+   <note type="contents">1a: Poetic verses in Persian written by Mīr ʻAlī, on golden background decorated with vegetal scrolls. The central panel is framed by lines of Persian poetry. Each
+      verse is surrounded by lobbed black contour line which separates the words from the gold background. This composition is bordered by dark blue and gold frame, followed by wider borders
+      of gold plants illuminated against pale-pink background</note>
+   <note type="contents">1b: Central panel written in Naskhī̄̄ and Thulth scripts. The text is framed with dark blue borders with silver decoration, followed by wide borders of silver flower
+      scrolls painted against green background. The wide outer borders were produced in India. The page matches folios 2a and 55b</note>
+   <note type="contents">2a: Central panel written in Naskhī̄ and Thulth scripts. The text is framed by dark blue borders with silver decoration, and then by wide borders of silver flower scrolls
+      depicted against green background. The wide outer borders were produced in India. The page matches leaf 1b</note>
+   <note type="contents">2b: The central panel consists of verses in Persian copied in Naskhī̄ script. At the bottom of the panel there is an inscription executed in a different hand which identifies
+      the calligrapher to be the famous Sulṭān ʻAlī al-Mashhadī. This section is framed by panels in Naskhī̄ and Shikastah scripts. The large outer borders are illuminated with flowers in
+      gold and black, and they follow a design that was popular in Mughal India</note>
+   <note type="contents">3a: Verses in ruqʻah with Naskhī̄, Thulth, and Shikastah scripts. The verses are surrounded by lobed black contour line which separates them from the gold background.
+      Signed Muḥammad ʻAẓīm al-Iksīr, 1137 H. [1724 or 5] (lower left corner of the central panel). The Mughal-style wide borders consist of gold flowers depicted against blue background</note>
+   <note type="contents">3b: Mughal-style painting with a saint, identified by an inscription as Haẓrat Sarmad, and a Mughal prince, identified by an inscription as Dārā Shikūh, the son of
+      Shāh Jahān. The lines of poetry above and below the painting relate to Sarmad, but do not mention the prince. The figures are shown sitting in nature, the yogi-looking saint is naked
+      (he is also known as the naked saint), except for a piece of brown cloth covering his shoulders. He has long hair and a staff and he appears like a Hindu hermit. The Mughal prince is haloed,
+      wearing lavish cloths and jewelry, and he is starching his hands in a gesture of greeting. The border panels above and below the composition are written in Naskhī̄ and Thulth scripts</note>
+   <note type="contents">4a: Central panel written in large Thulth script, with small panel above in Naskhī̄</note>
+   <note type="contents">4b: The page has a large and thick writing done in muḥaqqaq script, in Persian. The verses are surrounded by black contour line which separates them from the gold background</note>
+   <note type="contents">5a: Ruqʻah in Persian, signed al-faqīr ʻImād al-Ḥusaynī and dated 1091 H. [1680]. The central panel is written against decorated background with flowers and scrolls.
+      The intricate design in made out of tiny paper cuts that form the decorative pattern. It is a kind of paper micro-mosaic work, where each flower is composed of about 8 miniature pieces
+      of paper. The outer panels have verses inscribed in Shikastah. The wide Mughal-style borders have floral design in gold painted against light blue background</note>
+   <note type="contents">5b: Similar to fol. 1a, signed by the same calligrapher, Mīr ʻAlī. The central piece is written on a gold background decorated with flowers and vegetal scrolls. It
+      is surrounded by panels of Persian text written in Shikastah. Each line is framed by lobed black line which separates the words from the gold background</note>
+   <note type="contents">6a: Painting of an Indian lady with a pet-bird standing on her finger. The woman is lavishly dressed and she wears various kinds of jewelry. She is shown standing in
+      profile against simple background. Around the painting there are panels of calligraphy in Shikastah script. The calligraphy is signed and dated at the bottom of the lower panel by Muḥammad
+      Muʻīn ʻAlī Tajallī, 1173 H. [1759 or 60]</note>
+   <note type="contents">6b: Painting of a youth holding a cup while leaning on a staff. The painting is executed in Persian style, with delicate lines, flat treatment of the body, and delicate
+      brushwork. However, the headgear of the young man links him to India, most likely to a Mughal milieu. The image is framed by Persian text written in Nastaʻlīq. The border panels are further
+      written in large Nastaʻlīq script</note>
+   <note type="contents">7a: Qurʾanic page copied in Naskhī̄ and Thulth, written in a similar hand to the calligraphy on fol. 1b. The text is framed by black lobed line, separating it from the
+      gold background. The text section of the page is framed by dark blue borders decorated with gold. It is then followed by large borders of pale pink color with gold floral motif</note>
+   <note type="contents">7b: Calligraphy executed in Thulth and Naskhī̄ scripts, written against gold background. The wide borders which surround it have a repetitive pattern of colorful flowers
+      and leaves depicted against yellow background. Signed Muḥammad Ibrāhīm, 1050 H. [1640 or 41] (upper right corner of the page)</note>
+   <note type="contents">8a: Calligram of a man's face drawn against lime-green background. The verse inscribed in the panels above and below the calligram talk about the human face, especially
+      the eyes. The script used for the bordering panels is Naskhī̄. The wide borders consist of pink background with large patterns of plants executed in gold and black. The bright green color
+      that was used in the calligram's background may indicate that this work was produced around the 18th or early 19th centuries India</note>
+   <note type="contents">8b: Qurʾanic verses executed by the same calligrapher as in fol. 1b and 7a. The scripts used here are Naskhī̄ and Thulth, and the composition is framed by ornamented
+      borders of pale pink and gold floral scrolls</note>
+   <note type="contents">9a: This is a pastiche page composed of five calligraphic panels and a painting in the center. The calligraphy is executed in Naskhī̄ and Shikastah scripts. The painting
+      shows two Indian women sitting in a marvelous balcony in a blooming garden with a water fountain in the foreground. The lady on the left is offering a cup of wine to the woman on the right.
+      The latter is identified by an inscription to be Nūr Jahān, the wife of the Mughal Emperor Shāh Jahān (1592-1666; r. 1628-1666). From other paintings of Nūr Jahān, we know that this
+      is not her portrait but a standard representation of Mughal concubines or harem ladies. The painting could be roughly dated to the late 18th century when this genre of depicting small number
+      of figures sitting in a veranda was popular. The color scheme, the type of the veranda, and the flatness of the composition may link this picture to the Deccan</note>
+   <note type="contents">9b: Composite page, with calligraphy executed by two artists. The Shikastah piece in the center is signed by ʻImād, and the panels above and below it written in Naskhī̄
+      script are the work of ʻAbd Allāh. It bears the date of 1014 H. [1630 or 31]</note>
+   <note type="contents">10a: Hunting scene framed by two calligraphic panels of Persian verses in Naskhī̄ script. The painting portrays two Bhil figures: the man on the right, who is painted
+      in dark gray, has just released an arrow and hit an antelope or a deer. The woman next to him holds a bell in one hand and a torch in the other, to help the hunter see in the dark since
+      this is a night scene. Like other Bhils, the woman wears a skirt made of leaves and her torso is exposed. The figures are identified by an inscription in Persian claiming that they are
+      Kunda and Kundiya. Other animals are watching the scene suspiciously, and several men are also hunting in the far background. The landscape is meandering but simple, and there is an attempt
+      to create an illusion of depth in the picture. This painting was probably produced during the late 18th or early 19th centuries, in India</note>
+   <note type="contents">10b: The middle calligraphic panel is created on a beautiful marbled paper. It is framed by two other Persian verses written against orange and gold background. All the
+      panels on this folio seem to be done by the same calligrapher, and copied in large Naskhī̄ script</note>
+   <note type="contents">11a: Painting of a Muslim saint identified by an inscription as Ḥaẓrat Niẓām al-Dīn Awliyā (one of the Chishtī shaykhs). He is haloed, sitting on a low throne,
+      wearing a white robe with green and red turban. His eyes are shut, as if he is meditating, and his hands are crossed over his knees. Such religious pictures became very popular in India
+      in the 18th and early 19th centuries. In many cases such works were produced in Kashmir, but they were certainly not limited to that region only (Bengal or the Deccan are also possibilities).
+      The illustration of the hazrat is surrounded by panels of Persian poetry written in large Naskhī̄ script. The entire composition is framed by Mughal-style borders of gold flowers on blue
+      background</note>
+   <note type="contents">11b: Beautiful collage page combining panels of Persian verses written in Shikastah scrip with a large painting in the middle. The picture shows an ascetic sitting in
+      a meditative position in a pastoral landscape. He is wearing a very colorful mantel around his shoulders, with white jama pants. The man is identified by an inscription to be the ascetic
+      Ibrāhīm ibn Adʹham (d. 160/778). The majestic gown that he is wearing is perhaps reminiscent of his days as king of Balkh, before he converted to Islam and renounced his rule. The saint
+      is approached by two spectacular winged creatures, who are bringing to him trays with fruit. These angelic figures are heavily jeweled, wearing colorful cloths, sashes, and crowns. The
+      painting appears to be executed in India around the second half of the 18th century, when such iconography and painting style were in demand</note>
+   <note type="contents">12a: Calligraphic collage comprising verses in dīwānī script. The large panel is signed and dated by the calligrapher Muḥammad ʻAlī in 1132 H. [1719 or 20]. Four
+      other panels frame the main text and they are surrounded by wide green borders decorated with gold floral motif</note>
+   <note type="contents">12b: Painting of a young prince with his entourage riding on horses, approaching an older man who is pleading or complaining about something to the prince. The man raises
+      his arms in the air and gestures toward the royal figure. A high official behind the young ruler is holding a bow and arrow. The anecdote illustrated could be taken from one of the Khamsah
+      stories. The picture is framed by Persian poetical verses inscribed in Nastaʻlīq. The painting seems to originate from Central Asia due to the style of outfits and heagears that the men
+      are wearing. The layout of the composition further indicates that the illustration is done in a Persianate manner. The picture was part of an illustrated text and we may notice that the
+      areas where the text boxes used to be (in the upper and lower registers) are now covered with gold. The style of the miniature follows that of Uzbek Central Asia in the 16th century, with
+      its mauve color ground, stylized tree, and gold background. Even the way in which the horse is executed, with its very slim legs, points to a Central Asian origin for the picture. During
+      the 16th century numerous illustrated manuscripts from Samarqand, Bukhara, and Herat were purchased by Mughal patrons and entered the library of Indian collectors. This is probably how
+      this painting became part of an Indian album. There is an inscription at the top of the gold block, reading: "Kār-i vilāyat" (the work of Vilāyat)</note>
+   <note type="contents">13a: Beautiful and elaborate piece of Qurʾanic verses, executed in Thulth script. The text is framed by wide Mughal-style borders of colorful flowers painted on yellow
+      background. The calligrapher Muḥammad Badīʻ al-Iṣfahānī signed and dated his work to 1121 H. [1709 or 10] on the left side of the composition</note>
+   <note type="contents">13b: Central large piece of calligraphic exercise with two side panels pasted on each side of it, in large Thulth script. The entire text has wide borders of pale pink
+      color and gold flowers decoration</note>
+   <note type="contents">14a: The text is a religious blessing alternating between a straight form and a mirror reversed form, creating an intricate calligraphic circle. The inner circle of the
+      composition has the word "Allāh" repeated several time. This calligraphic circle is framed by a square with colorful lotus flowers in the corners, painted on lime-green background. Above
+      and below the square there are two bands of Qurʾanic text written in Naskhī̄ script</note>
+   <note type="contents">14b: Collage of calligraphic exercise and Qurʾanic verses, written in Thulth and Naskhī̄ scripts. There is a date inscribed in the middle left part of the piece, indicating
+      the year 1121 H. [1709 or 10]</note>
+   <note type="contents">15a: Lively picture depicting Indian women in a garden pavilion at the court. The main character, who is lying in the center of the composition, is identified by an inscription
+      as princess Zīnat al-Nisāʾ. She is entertained by female musicians and attended by other maidens. Even though she is identified to be a specific person, her image is not a portrait, since
+      the facial features of the princess are not individualized and she looks similar to other female figures in the painting. The scene takes place in an idyllic garden with flowers, trees,
+      water, and lotus flowers. All the women are jeweled and dressed with colorful cloths and they have hena paint on their hands and feet. The scene conveys the richness and wellness of the
+      court, and expresses the pleasures of the upper class. Such paintings have become wide spread in the 18th and early 19th centuries in India. The picture is framed by two panels of calligraphy
+      with Persian poetry</note>
+   <note type="contents">15b: Painting depicting a young maiden resting in a pavilion, her attendant is sleeping at her feet, while an older woman is standing on the left, holding a staff, and
+      putting her finger to her mouth. Above the young woman there is an inscription which identifies her as the daughter of ʻAlī ʻĀdil Shāh. We cannot accept this attribution since women
+      of such high statues were never shown with their upper body exposed, as this young lady is. This is a very common iconography of a concubine or a lover waiting for her beloved in the garden,
+      attended by an old woman. The pastoral scene conveys the mood of love and sensuality associated with courtly life. On the left side of the picture we may notice some parts of palatial 
+      architecture, with large doors, curtains, and walls. The scene takes place in the midst of a blooming garden with large trees and rose flowers. Following the style of the painting, the
+      palette, and the flatness of the composition, it is possible to assume that this illustration was made in Hyderabad in the 18th century. On each side of the picture there are two lines
+      of Persian poetry, written in Nastaʻlīq script</note>
+   <note type="contents">16a: Vivid calligraphic composition. The rapid movement of the letters created by the Shikastah script render a stunning effect. On the lower left corner of the central
+      panel, there is a signature of the calligrapher, Tajallī ʻAlī Shāh, who states that he was "the pupil of Shāh Muʻīn al-Dīn ʻAlī Tajallī". The piece is dated 1189 H. [1775]. The
+      central panel is framed by two bands of calligraphy with Persian poetry inscribed in Nastaʻlīq and two panels with Shikastah</note>
+   <note type="contents">16b: Four pieces of calligraphy in Shikastah script. The central panel is signed by Muḥammad Karīm and is dated 1083 H. [1672 or 3]. This lively composition is framed
+      by ornamented borders with floral design executed in gold</note>
+   <note type="contents">17a: Several calligraphic pieces signed by two artists and five small pictures in the corners. The central text is poetry in Persian, written in Nastaʻlīq, and signed
+      by Muḥammad ʻĀbid al-Ḥusaynī (lower left corner). It is surrounded by four Shikastah panels, which are signed by Tajallī ʻAlī Shāh (same as in fol. 16a) and dated 1189 H. [1775].
+      On the corners of the Shikastah panels there are five pictures: four were cut from European prints and one is a small picture of an Indian woman. Above and below the Shikastah panels there
+      are two panels in Arabic, written in Thulth and Naskhī̄ scripts</note>
+   <note type="contents">17b: Painting of Indian court ladies attended by their maids, sitting under a tree, drinking and smoking a pipe. The women are jeweled, they wear colorful saris with
+      gold embroidery, and their breasts are shown through the transparent fabric of their garments. There is a river with lotus flowers flowing next to them and green grass in the background.
+      This is an idyllic scene with sensual and erotic overtones, common in 18th century Indian painting. On the upper-middle right side we may notice an inscription claiming that this is the
+      work of Anūp ChTR. The picture is framed by two calligraphic panels in Arabic, written in Thulth script</note>
+   <note type="contents">18a: The main panel has Persian poetry inscribed in large gold letters on opaque black background. The work is signed on the lower left corner by Mīr Muḥammad Māh
+      Ḥusaynī. Above and below the central piece there are border panels in Arabic written in Thulth script</note>
+   <note type="contents">18b: Central panel written in Shikastah script by the calligrapher Tajallī Shāh (same as fol. 16a and 17a), 1189 H. [1775] (lower left corner). The border panels consist
+      of poetry in Persian copied in Nastaʻlīq script</note>
+   <note type="contents">19a: In this scene we may recognize a familiar subject of an old woman leaning on her staff, standing next to a young lady, who is resting in a pavilion in a garden.
+      The young court lady is attended by a maid, who stands behind her, holding a fan. This iconography is a simplified version of the painting in fol. 15b. The picture is likely to be a Deccani
+      work produced in the 18th century, because of the color scheme, the flatness of the composition, and the garden setting. The painting in this album page is "identified" by an inscription,
+      located below the canopy, to be a Bijapuri work ("kār-i Bījāpūr"). The border panels are written in Nastaʻlīq and Naskhī̄ scripts</note>
+   <note type="contents">19b: Two calligraphic panels written on marbled paper are placed above and below an 18th century Indian painting. The painting depicts an Indian court lady sitting on
+      a low thrown with two attendants and a musician. The scene takes place in an open veranda which is attached to a larger architectural complex shown on the left. In the foreground there
+      is a blooming garden with a fountain in the center. There is a receding landscape in the background with people, animals, buildings, and a small river. We may notice the artist's attempt
+      to employ shortening in the view of the garden, and to convey depth and three-dimensional space in the architecture and in the landscape. These visual features and pictorial techniques
+      began to be popular in Mughal court painting in the 1590's. By the late 17th and early 18th centuries they became so common that they were practiced almost everywhere in India</note>
+   <note type="contents">20a: In this ruqʻah, the central calligraphic piece is the work of Zayn al-Ḥaqq, 1133 H. [1720 or 21], as his signature shows on the lower left corner of the page. Above
+      and below it there are two other calligraphic blocks written on marble paper</note>
+   <note type="contents">20b: The central calligraphy in this folio was executed by Zarrīn Raqam, 1121 H. [1709 or 10]. The Persian text is surrounded by panels inscribed in Shikastah script</note>
+   <note type="contents">21a: This folio consists of a Persianate painting in the center, framed by four panels of calligraphy written in Naskhī̄ script. The picture represents a young princess
+      sitting in an open court while an attendant is bringing her a gold bowl. In the crowd behind the young princess there are men and women standing and watching her, and two horses. This scene
+      recalls some paintings dealing with the love story of Yūsuf and Zulaykhā. However, the original text on the page was cut out or covered by paint, so it is difficult to confirm this hypothesis.
+      Rocks, trees, and animals in the background, and some signs of clouds that were cut off. The upper part of the illustration was covered by gold paint but it still shows the marks of the
+      text columns, indicating that this folio was once part of an illustrated manuscript of poetry, perhaps even the Haft Paykar or any of the Khamsah stories. An inscription on the upper middle
+      part of the painting suggests that this is the work of Vilāyat or a work from Vilāyat ("kār-i Vilāyat"), as in fol. 12b. However, this painting and folio 12b do not seem to be by the
+      same hand nor origin. There are two Mughal drawings pasted over what seems to have been either the text box or perhaps a fountain. The drawings are finely done, rendering minute details,
+      and delicate lines. Furthermore, the picture of the man may be a portrait of one of the ʻĀdil Shāhīs rulers</note>
+   <note type="contents">21b: Large Indian painting framed above and below with panels of calligraphy copied in Thulth and Naskhī̄ scripts. The picture portrays three Indian women standing in
+      profile. They are approached by a man who kisses the foot of one of them. These two figures are identified by inscriptions to be the two famous lovers Chandarbadan and Mihyar (a love story
+      between a Muslim man and a Hindu woman). There is a receding landscape with architecture, animals, and trees in the background. The painting could have been produced in 18th century in
+      India</note>
+   <note type="contents">22a: The central panel in this folio provides us with important information regarding the name of the artist, the place of copying and a date. It was written in Awrangābād,
+      in [1]203 H. [1788 or 89] by the calligrapher Muḥammad Afḍal. The border panels above and below the main work were written in Naskhī̄ script</note>
+   <note type="contents">22b: The painting in the middle of the page shows three Indian ladies next to a pond in the foreground, and four more figures in the middle of the composition. Two among
+      them are haloed and appear like a royal couple. They are shown riding on their horses, accompanied by two female courtesans, who are holding a falcon and a bow. The scene bears some stylistic
+      features that may be seen in paintings from the Deccan in terms of the headgear of the mounted man, his pose on the horse, and the color scheme of bright orange, green, and pink. The border
+      panels above and below the painting contains calligraphy in dīwānī and Shikastah scripts</note>
+   <note type="contents">23a: The central piece of calligraphy shows the copying of Persian verses by Ghulām Muṣṭafá Khān (signed at the bottom left corner). The text is written against
+      pale green color, placed on gold background with floral design. The two framing panels were executed in Naskhī̄ and Shikastah scripts</note>
+   <note type="contents">23b: The poem in the middle of the page was copied by Mullā Mīr ʻAlī, as indicated by an attribution between the two text columns. This part is framed by four panels
+      of Shikastah and Nastaʻlīq scripts, written on gold background</note>
+   <note type="contents">24a: Large calligraphic panel signed Muḥammad Aṭhar. There are four other panels written in large Thulth script, which surround the middle panel</note>
+   <note type="contents">24b: A medallion with a bust of a young Indian woman is set in the middle of the page. The woman is shown in profile, holding a delicate flower in her hand, and she is
+      wearing transparent cloths, with fancy jewelry and headgear. This type of figure would usually represent an image of a courtesan or a concubine, but not a specific person since her facial
+      features are not individualized. She is shown against green background, and framed in an oval shape medallion. This medallion is set in green-gray background decorated with floral motif.
+      The composition is surrounded by calligraphic borders with Shikastah script</note>
+   <note type="contents">25a: A large Nastaʻlīq panel fills this ornamented page. The work was done by the calligrapher Asad Allāh in 1133 H. [1720 or 21] (lower left corner of the frame).
+      The calligraphic phrases are surrounded by lobed black line, separating them from the gold background. This part is then bordered by marbled paper and illuminated margins</note>
+   <note type="contents">25b: The painting on this page illustrates a horse polo game. It is inscribed "kār-i Vilāyat", as in fol. 12b and 21a in this album. In the center of the field there
+      is a young prince holding a polo stick in his hand and he is charging toward a golden ball, held by an servant. There are several signs of retouching, especially at the center of the lower
+      part of the composition. The mauve hilly landscape, the headgear of the men, the stylized Chinese-like clouds, and the ornamental nature of the flowers and the rocks, may point to a Shirazi
+      or Deccani origin for the painting. The picture is framed by two panels of calligraphy inscribed in Naskhī̄ script</note>
+   <note type="contents">26a: This page contains verses in large Nastaʻlīq script set against gold background. The work is signed by the calligrapher Mughalkhān. The border panels above and
+      below the main piece are also written in Nastaʻlīq</note>
+   <note type="contents">26b: Painting representing three figures sitting together under a tree. The image on the right is that of a female musician, the person next to her appears to be meditating,
+      while the man on the left is an Indian ascetic. There is a small fire, a few vessels in the center, and a dog, in the painting. The composition is schematic, and it seems to be copying
+      Mughal paintings from the first half of the 17th century, that depict similar subject. An inscription close to the tree reads: "kār-i Bījāpūr" (work of, or from, Bījāpūr). The calligraphy
+      around the painting utilizes Nastaʻlīq and Shikastah scripts</note>
+   <note type="contents">27a: The central panel, which is copied in Nastaʻlīq, is signed by the calligrapher Ghulām Jamāl Allāh Khān on the lower left corner. This part is framed by calligraphic
+      panels with Shikastah and Nastaʻlīq scripts</note>
+   <note type="contents">27b: Portrait of the Mughal Emperor ʻĀlamgīr (r. 1659-1707) or Aurangzeb, the son of Shāh Jahān, as identified by an inscription at the top of the painting. The Mughal
+      emperor is sitting on an ornamented throne in an open veranda. He is shown in profile, haloed, with his sword placed to his side, wearing a turban, and holding a book. The painting is probably
+      a late 18th century copy of an earlier Mughal original, with some changes. The borders that are pasted around the picture indicate that the illustration was glued over another work. It
+      is framed by verses written in Nastaʻlīq</note>
+   <note type="contents">28a: This is a page with calligraphic specimens done by several calligraphers. The central panel is signed by Sayyid ʻAlī Būkhārī Rūshan Raqam, and dated 1151 H.
+      [1738 or 39] at the lower left corner. The Nastaʻlīq panel at the bottom is signed Sulṭān Muḥammad Nūr which is also one of the names of the famous Timurid calligrapher Sulṭān ʻAlī
+      al-Mashhadī. The top panel is done in Shikastah script and was not signed</note>
+   <note type="contents">28b: This is a vivid and colorful painting of the Iranian hero Rustam. He is identified by an inscription as well as by his lion-skin cloths. He is also wearing an armor,
+      holding a round shield, and a sword. This Shāhnāmah hero is depicted with his famous horse, fighting a bright pink fire-spitting dragon, a well-known subject that has been illustrated
+      for hundreds of years in Persian painting. However, the way in which the figure is placed on the page, the hero's facial features, and the pink and green bright colors, may indicate that
+      this is a late 18th century work. The picture is set between two panels of calligraphy with Nastaʻlīq script</note>
+   <note type="contents">29a: This ruqʻah is the work of Jawāhir Raqam-i Thānī, as his signature indicates on the lower left corner of the central panel. He uses Nastaʻlīq script for the
+      main piece as well as for the border panels which surround it</note>
+   <note type="contents">29b: Painting of a wonderfully executed composite horse. The animal is portrayed through a series of other animals, wild and mythological, which together create the shape
+      of a horse. This is a highly sophisticated and very detailed painting. An inscription at the top of the page indicates that this is the magical horse of Jamshīd, the famous king of ancient
+      Iran. The composite horse is depicted against a lime-green opaque background, which is typical of 18th century Indian Deccani work. The painting is framed by calligraphic panels with large
+      and small Nastaʻlīq script copied by the calligrapher Muḥammad Ḥusayn (his name is inscribed on the lower right corner)</note>
+   <note type="contents">30a: This page consists of a large central Nastaʻlīq panel signed and dated by the calligrapher Muḥammad ʻAlī Gawhar, 1142 H. [1729 or 30]. The border panels show
+      two different arrangements of Nastaʻlīq writing</note>
+   <note type="contents">30b: Two Indian paintings occupy the center of this folio. The picture on the right shows a courtesan in nature, standing half naked on high sandals, and holding her
+      long dark hair. This is an erotic voyeuristic image which emphasizes the exposed female body. An inscription above the woman reads: "kār-i Hindustān" (work from India). The plain setting
+      and opaque lime-green background may point to an 18th century Indian production. The illustration on the left represents a female Indian musician walking with two gazelles who are following
+      her. This is an iconography that is usually identified with Radha, one of Krishna's lovers. She is shown against a simple background with a meandering river, green grass, and a hill. Above
+      the two pictures there are two bands of calligraphy. The top band is written in Nastaʻlīq and the lower band is executed in Shikastah script</note>
+   <note type="contents">31a: The main calligraphic piece is signed by Gawhar. It is a beautiful large Nastaʻlīq script inscribed on deep brown color and gold background with flowers. Two unsigned
+      Nastaʻlīq pieces appear above and below the main work</note>
+   <note type="contents">31b: This illustration was cut off from the same manuscript as folio 21a in this album. It portrays Zulaykha in the palace with her maids, who cut their hands because
+      of Joseph's stunning beauty. Beautiful Joseph enters the room on the right, holding a gold tray and he is haloed. The scene takes place in Zulaykha's place, in a large and decorated room.
+      This is a well-known iconography that can be found in numerous illustrations to the story of Yusuf and Zulaykha either in the Qiṣaṣ al-anbiyāʾ or the Khamsah of Nīẓāmī or Jāmī.
+      The inscriptions above the two main characters identify them by their names. The original text block of this folio was removed from the page. The style of the painting, the architecture
+      in the background, the color scheme, and the cloths of the figures, link the illustration to either Iran or Central Asia in the 16th or early 17th centuries. The painting is framed by two
+      calligraphic panels: the top written in red ink in Shikastah, and the bottom piece is inscribed in Nastaʻlīq</note>
+   <note type="contents">32a: This ruqʻah in Shikastah was copied by Shāh Muḥammad Muʻīn ʻAlī Tajallī Chishtī, Ramaḍān 1189 [1775]. The central calligraphic piece is bordered above and
+      below by two boxes of verses in Nastaʻlīq</note>
+   <note type="contents">32b: Large Indian miniature with two bands of calligraphy in Nastaʻlīq placed above it ; another band appears just below the image. The painting represents a common
+      theme of a young woman leaning against a tree and an old ascetic approaching her on the right. The woman is wearing a transparent top and skirt, gold jama pants with embroidery, and jewelry.
+      She raises her left hand up, holding the branches of the tree. The ascetic has white hair and European facial features. He gestures toward her with his hand and he holds a begging bowl
+      with his other hand. The opaque green background and the simple landscape and sky are features that can be linked to 18th century Indian painting</note>
+   <note type="contents">33a: This is a collage page with four calligraphic panels in Nastaʻlīq in the center and the bottom of the folio. In the lower-middle part of the composition there is
+      a drawing of the Virgin and Child standing in a green niche. Christ is holding a book in his hand and both he and the Virgin are making signs of blessing with their fingers. This is the
+      work of a local Indian artist who was copying a European original. The Madonna and Child drawing is framed on both sides with calligraphy written in Shikastah. Copying of European and Christian
+      images has become popular in India from the 1590s onwards. This work seems to be painted in late 17th or early 18th century when such images were in demand outside of the Mughal court</note>
+   <note type="contents">33b: This is a copy of a well-known Mughal original. The Mughal picture was painted in the 17th century, and this crude version was probably done in the 18th century
+      when copies of Mughal court paintings were made for a more popular audience. The picture represents a gathering of the royal Mughal house. The five figures are identified by inscriptions:
+      Shāh Jahān is sitting on a throne while his sons Dārā Shikūh and prince Shujāʻ are standing before him, while Awrangzeb and Murād Bakhsh are standing behind him. The figures are
+      haloed, and Shāh Jahān is sitting on a European chair, not a throne. Furthermore, from the way in which the angel who is holding the canopy above his head is depicted, and the ecstatic
+      lobed clouds, I propose that the painting was produced in either Kashmir or the Deccan. The picture is bordered with two bands of calligraphy written in Thulth script</note>
+   <note type="contents">34a: Painting with similar composition and subject-matter as in folio 32b. A young beautiful lady is leaning against a tree, in an open veranda in a blooming garden.
+      She is approached by a maid who is bringing her small bottles and a cup on a golden tray. The young beauty is haloed, and she is holding a delicate flower in her hand. Both women are adorned
+      with jewelry and hena paint, they wear lavish clothes with transparent top that show their breasts. This is a common erotic convention of showing semi-nude women as courtesans, wearing
+      jewelry and gold fabrics. The composition is surrounded by calligraphy in Shikastah and Thulth scripts</note>
+   <note type="contents">34b: Nastaʻlīq calligraphy copied by Tajallī ʻAlī Shāh in 1188 H. [1774 or 5] (lower left corner). The same calligrapher also produced calligraphic specimens in fol.
+      16a, 16b, 17a, 17b in this album. The central panel is framed by bands inscribed in Shikastah writing</note>
+   <note type="contents">35a: Painting representing three Indian courtesans depicted in a garden pavilion. The woman on the left is standing and holding a flywhisk, while the two other ladies
+      are sitting and chatting. All the women are heavily jeweled, and they wear transparent shirts so as their breasts are indicated. The simple green background and the costumes of the ladies
+      link this picture to 18th century Indian illustrations, made for a more popular market. The composition is surrounded by calligraphic bands of Shikastah script</note>
+   <note type="contents">35b: Large and colorful painting of an Indian lady and her attendant sitting in a lavish garden pavilion. The lady has a parrot perched on her finger, and she is adorned
+      with jewelry and fabrics with gold embroidery. In the foreground of the picture there is a water fountain with fish, and blooming flowers arranged in lines on the sides of the fountain.
+      The platform on which the ladies are sitting, is surrounded by an arcade of white marble and gold. There is a smaller pavilion seen at the far end of the wall around the garden. The moon
+      shines in the dark blue sky, indicating that this is a night scene. The architecture, the garden setting, and the composition, follow the style of late 18th century Deccani works. The picture
+      has calligraphic panels above and below inscribed in Nastaʻlīq</note>
+   <note type="contents">36a: This ruqʻah is written in Nastaʻlīq script by Jawāhir Raqam-i Thānī. The central panel is surrounded by alternating bands of Nastaʻlīq and Shikastah calligraphic
+      panels</note>
+   <note type="contents">36b: Illustration representing a story from the Shāhnāmah in which the hero Rustam is received at the court. The hero is wearing his lion-skin cap and cloths, sitting
+      on the right. The king, sitting on the throne, is offering Rustam a cup of wine. Other attendants and officials appear to be conversing. The scene takes place at the court, and we may see
+      parts of the garden behind it. The setting and background of the illustration is plain and corresponds in its style and color-scheme to other 18th century paintings from India. The border
+      panels around the illustration are done in large Thulth script</note>
+   <note type="contents">37a: The central panel has calligraphic bands executed in Naskhī̄ and Thulth scripts by the same calligrapher as in fol. 1a</note>
+   <note type="contents">37b: Painting of Chand Bibi (identified by an inscription) galloping on a horse, with a falcon on her arm. She was the queen of Ahmadnagar in the Deccan, who, according
+      to legends, stood against the conquering Mughals and saved her fortress. Chand Bibi is often represented hunting with falcons or hawks. In this painting she is shown in profile, haloed,
+      wearing lavish jewelry and ornamented cloths, with a transparent shirt which reflects her breasts. The landscape is simple, with some receding shrines, stupas, and birds in the background.
+      Such images of the heroic queen were popular in the 18th century in the Deccan. The panels around the image are calligraphic bands written in Nastaʻlīq</note>
+   <note type="contents">38a: Along this page there is a large European print framed by two bands of calligraphy at the top and the bottom of it. The bands were written in Thulth script with
+      gold background. The print depicts a large cannon drawn by 15 horses. Several soldiers, some of which are mounted, accompany the line of horses. The scene takes place in a landscape with
+      architecture and trees. There is an inscription in Latin on the right side identifying the scene as an artillery scene. The upper part of the print has been damaged and redone. It seems
+      to be a 16th or 17th century print that was inserted into this Indian album. Such works were common in India since the late 16th century</note>
+   <note type="contents">38b: Large Indian painting, with two calligraphic boxes above and below it. The calligraphy is inscribed in Nastaʻlīq script. The painting illustrates a ragamala-like
+      scene, in which two women are depicted in a scenic landscape, reflecting a mood. The woman on the left is playing a musical instrument, while the woman on the right is dancing. The figures
+      are wearing colorful silks embroided with gold, and they have hena paint on their feet. Each figure is shown against a blooming tree, which echoes her silhouette and enhancing the notion
+      of a certain mode, which is further reflected in the landscape. This painting could have been produced in the second half of the 17th century</note>
+   <note type="contents">39a: This is a ruqʻah inscribed in large letter in Nastaʻlīq script. There are some colorful decorative floral patterns inserted between the lines of script</note>
+   <note type="contents">39b: This beautiful calligraphic page begins with a basmalah, and is framed by other Qurʾanic lines in Thulth script. The work is signed by Muḥammad al-Fakhkhār on
+      the lower right corner of the composition. The lines of text are surrounded by lobed black contour line which separates them from the golden background. The composition has lavish Mughal-style
+      borders with colorful floral design set against yellow background</note>
+   <note type="contents">40a: The painting illustrates Chand Bibi, the heroic Deccani queen, hunting deer and nilgar (she is also represented in fol. 37b). She is accompanied by attendants who
+      are walking behind her. A larger image of the legendary queen and her horse is repeated behind the hills. There is a receding landscape in the background of the painting, studded with architecture,
+      people, and animals. The composition is close to a late 18th century painting from Hyderabad (now in the Victoria &amp; Albert Museum, London) and was probably produced at the same time
+      and locale. The illustration has two calligraphic panels above and below it, inscribed on marble paper, in Nastaʻlīq (top) and Shikastah (bottom)</note>
+   <note type="contents">40b: This page has calligraphic work written in Nastaʻlīq (paired with fol. 41a) executed by the calligrapher Sayyid ʻAlī Rūshan Raqam, 1146 H. [1733 or 4] (lower
+      left corner of the page). The verses are encircled by lobed contour line in black and gold. The background of the page is decorated by floral motifs and vegetal scrolls</note>
+   <note type="contents">41a: This is a calligraphic page paired with fol. 40b, written by the same calligrapher, and dated to the same year</note>
+   <note type="contents">41b: Night scene painting with two women visiting a Shiva shrine. One of them is kneeling before a Shiva lingam and lighting an offering. The shrine has an arcade, two
+      large domes and three small ones, which appear similar to Adhil Shahid architecture in their form and decoration. Behind the two praying women there is a metal pole with running water,
+      from which a small white bull is drinking. In the foreground of the picture there is a stylized garden, a pond with lotus flowers, and green grass. The architecture and subject-matter of
+      this illustration may link it to other 18th century paintings from Bijapur. The composition is framed by two panels of Nastaʻlīq</note>
+   <note type="contents">42a: Central piece in Nastaʻlīq script surrounded on all four sides by panels with writing in Thulth and Nastaʻlīq. The calligrapher, Abū al-Baqāʾ al-Mūsawī, signed
+      his work on the lower left corner of this panel</note>
+   <note type="contents">42b: Qurʾanic verses copied in Naskhī̄ script in th centre of the folio. Above and below it, there are bands with Thulth writing, some have the letters copied in white
+      color against black background</note>
+   <note type="contents">43a: A huge sea monster, depicted with its mouth wide open, occupies the center of the composition. Several men are attempting to kill it with a bow and an arrow, an
+      ax, and lances. Some of them are actually standing in the creature's mouth, while others are in a small boat. There are several body parts floating in the water next to the monster's head.
+      This is a known subject-matter in Persian painting, derived, among other things, from the biblical story of Jonah and the Whale, and similar legends. At the top and the bottom of the picture
+      there are two calligraphic panels divided into four boxes of verses written in Nastaʻlīq script</note>
+   <note type="contents">43b: Two lovers comprise the focal point of page 43b. They are kissing and embracing in a simple garden. The man is grabbing the woman's hand and touching her breast,
+      while the woman is holding his arm ; their legs are intertwined. The erotic couple is dressed like a royal couple, with silk cloths, gold embroidery, and jewelry. There are several Mughal
+      paintings of similar subject matter but the background is usually more lavish and richer. The inscription above them indicates that this is a Bijapuri work ("kār-i Bījāpūr). The color
+      scheme, the simplified setting, and the inscription, may suggests a late 17th or early 18th century Deccani origin for this work. The picture is framed by different specimens of calligraphy
+      in Nastaʻlīq, Naskhī̄, and Shikastah</note>
+   <note type="contents">44a: Three calligraphic panels written in Shikastah, executed by Tajallī ʻAlī Shāh, and dated 1189 H. [1775 or 6]. This is the same calligrapher who produced the Shikastah
+      pieces in fols. 16a, 16b, 17a, 17b, and 34b in this album</note>
+   <note type="contents">44b: This page contains two signatures of two different calligraphers. On the upper part of the page there is a Qurʾanic leaf pasted into the album. It is written in
+      Naskhī̄̄ script by the scribe ʻAbd Allāh, and dated 1069 H. [1658 or 9]. The middle piece is written in dīwānī script by Kifāyat Khān, and dated 1142 H. [1729 or 30] (lower right
+      corner). Three other panels written in naskh script are pasted onto the page</note>
+   <note type="contents">45a: Painting representing Mullā Dū-piyāzah, one of the chief advisors at Akbar's court, identified by an inscription placed at the top of the page. In this page he
+      is shown riding on a bony horse, in a simple landscape. He is wearing a very large white turban, long white beard, and white cloths. Mullā Dū-piyāzah's images is shown almost as a caricature
+      figure with its large turban, stout body, and thin beast. The figure of the famined horse is a known type, seen in earlier Mughal works. This image is framed by Naskhī̄ and Shikastah panels</note>
+   <note type="contents">45b: Large painting representing King Solomon seated on a lavish throne, surrounded by his minister Asaf Khān on the right, other court attendants, angels, various animals,
+      birds, mythological creatures, dragons, and demons. Solomon appears in the image of a Mughal king wearing a turban decorated with a feather, cloths in green and gold, pearl necklace around
+      his neck, and prayer beads in his hand. It seems that this illustration depicts the scene in which Solomon is consulting the animals and his minister as to whether he should drink from
+      the water of eternal life (Zamzam water). An angelic figure on the left is holding a golden goblet that might be containing the rare liquid. At the top of the page there is an inscription
+      that identifies the ruler as Ḥaẓrat Sulaymān. This picture follows a Mughal painting of the same subject-matter that was produced at the beginning of the 17th century for Prince Salīm
+      (later Emperor Jahangīr)</note>
+   <note type="contents">46a: The main calligraphic piece in this page is executed in red paint with decoration in gold and black on light blue paper. The work is inscribed in Nastaʻlīq by the
+      calligrapher Ismāʻīl, and it is dated 1112 H. [1700 or 1701]. The panels above and below it are written in large Thulth script</note>
+   <note type="contents">46b: Central Nastaʻlīq piece by Tajallī ʻAlī Shāh, 1188 H. [1774 or 5] (lower left corner). Border panels in Naskhī̄ and Thulth scripts</note>
+   <note type="contents">47a: An Indian courtesan is depicted standing in profile, her breasts are showing through the transparent fabric, and she is holding a flower in her hand. She is wearing
+      jama pants under a transparent skirt, an ornamented golden sash, and orange shoes. The woman is heavily jeweled, and she has a delicate head cover. Her image is shown against a simple background
+      of dark green grass and a small blooming tree on the far right side of the picture. An inscription on the upper part of the painting indicates that this is the work of Ilyās Bahādur ("kār-i
+      Ilyās Bahādur"). The delicate rendition of the courtesan's facial features, the saturated color scheme, and the erotic representation of the semi-nude woman point toward a Mughal origin
+      probably from the second half of the 17th century. The painting is surrounded by four bands of Nastaʻlīq verses, bordered by larger Thulth calligraphy, written on marble paper. This composition
+      is then framed by wide Indian borders decorated with pink lotus flowers on yellow paper</note>
+   <note type="contents">47b: This vivid scene represents courtly pastime of a lady sitting on a swing attended by her maids. The women are standing in a garden pavilion, with flowers in the
+      foreground, and trees in the back. Another court lady is sitting in a roof pavilion and she is attended by two of her maids, one of then is holding a flywhisk. The other two are pointing
+      at two peacocks which are standing on the top of the trees. On the upper part of the painting there are schematic lobed clouds rendered in blue and white. Above and below the picture there
+      are two calligraphic bands inscribed in large Thulth script</note>
+   <note type="contents">48a: Two Indian women are standing before a peacock, one of them is holding a light lamp and a small gold jar in her hands, which may be her offerings. The ladies are
+      jeweled, and they have hena paint on their feet. The scene takes place in a simple landscape with green grass, receding background and some trees in the distance. The picture is pasted
+      over another page inscribed with Nastaʻlīq borders. This illustration and the calligraphy were produced probably in late 17th or early 18th century India</note>
+   <note type="contents">48b: The painting in this page shows an idyllic genre scene in which three large men are observing a group of women drawing water from a well, and another lady is spinning
+      gold threads, while observing an infant prince. All the details in this scene are wrong: the women at the well are dressed with colorful cloths decorated with gold and they wear a lot of
+      jewelry. Judging from their appearance, women of their status would not perform such hard labor of getting water from the well. Furthermore, the lady who is spinning the gold thread is
+      sitting on a low golden throne, and the baby prince next to her is a paraphrase on a Mughal painting of one of the princes. The men on the left also show some odd things. The first man
+      appears like a Mughal ruler, with lavish cloths and a sword. The two men behind him are drinking from large white bowls, and one of them is represented like a Muslim religious figure with
+      a large turban. The landscape is very flat and schematic, there is no attempt to render three-dimensional space, depth, or various textures. The composition is based on flat surfaces and
+      patterns which become decorative, instead of representing organic bodies, or nature. Therefore, this work may be based on late Rajput style, probably from the 18th century. The picture
+      is framed by calligraphic panels written in Nastaʻlīq and Thulth scripts</note>
+   <note type="contents">49a: Painting of a female saint, kneeling and holding a rosary. The text above and below her mentions women and their prudent behavior. The figure is shown in a very
+      simple space of pink surface and green background with a narrow band of clouds at the top. She is haloed, and wearing a white robe. This painting could be a late 18th century illustration
+      produced in the Deccan. The calligraphy around the saint is comprised of several panels written in Nastaʻlīq and others in Shikastah</note>
+   <note type="contents">49b: This scene depicts the Hindu god Krishna and the Gopis (female cowherds), who were his devoted lovers and companions. This is a well-known iconography, based on
+      the story from the Bhagavata Purana. In the middle of the composition Krishna is standing with his golden flute, surrounded by the women who are brining him their offerings and blessings.
+      Traditionally Krishna is depicted in blue (as he has blue skin), wearing a yellow skirt and a gold crone, as he appears in this painting. The herd of white cows shown on the left, also
+      look up to him; some of them are standing in the water (the silver has tarnished and now looks gray). In the background there are two large trees, and receding architecture and landscape.
+      The composition is very symmetrical, well balanced, the color scheme is delicate, and the brushwork is meticulous and detailed. These features point to an early 17th century date for this
+      work. The picture is framed by border panels of Nastaʻlīq</note>
+   <note type="contents">50a: This is a pastiche page, made out of three main panels of verses inscribed in Nastaʻlīq, and five pasted lines, also in Nastaʻlīq, are taken from different source.
+      The page is decorated with vegetal scrolls and flowers in gold</note>
+   <note type="contents">50b: The painting on this page is similar to the one in fol. 35b and was probably made by the same artist. In the center of the page there is a large and colorful image
+      of an inner court and garden, with an Indian lady and her two attendants and a musician. The lady is holding a flower in her hand, and she is adorned with jewelry and fabrics with gold
+      embroidery. All the women have their breasts clearly indicated, providing the illustration with an erotic mood. In the foreground of the picture there is a water fountain with fish, a duck
+      standing on the right, and blooming flowers arranged in lines on the sides. More flowers are rendered behind the figures. The platform where the women are sitting is further surrounded
+      by stonework with flat niches, and a golden arcade above it. The moon shines in the dark blue sky, indicating that this is a night scene. The painting was, in most likelihood, produced
+      in the late 18th century in Deccani India. The picture has calligraphic panels above and below it, executed in Shikastah</note>
+   <note type="contents">51a: This page is comprised of three Shikastah calligraphic panels. The central large panel is signed by the calligrapher Ahmad Shāh and dated 1180 H. [1766 or 7] on
+      the lower left corner</note>
+   <note type="contents">51b: This picture is composed of several iconographic units related to hunting, borrowed from late 16th century Mughal painting. In the foreground we notice Akbar watching
+      a hawk killing a bird. In the center of the illustration Akbar is riding an elephant and spearing a tiger who is attacking a man. Another man, coming from the right, is attacking the tiger
+      with his sword. Above them on the right side of the picture there is a man climbing a tree in order to escape another ferocious tiger, while his friend, hiding at the top of the tree, is
+      aiming his spear at the animal. Other groups of men hunting on horses or on foot are spread over the page. An inscription in the upper middle part of the page gives the name of Emperor
+      Akbar (Akbar pādishāh). Above and below the drawing there are two panels with calligraphy written in Nastaʻlīq</note>
+   <note type="contents">52a: The verses inscribed in Nastaʻlīq on the outer borders play on the name of the Mughal Emperor Jahangīr. The inner borders are written in Shikastah and Nastaʻlīq
+      scripts. In the center of the folio there is a fine drawing of a Mughal prince riding an elephant, with an attendant behind him, and three other men running close by. The elephant, the
+      prince, and his servant are adorned with gold ornaments. There is an inscription on the upper part of the drawing which identifies the prince to be Jahangīr Shāh. From other portraits
+      of Emperor Jahangīr, it seems that these are not his facial features. It could be a portrait of one of the other Mughal princes. This drawing is a fine and meticulous work, with light
+      shading and rendition of depth that fits well with the style practice at the Mughal atelier in the 17th century</note>
+   <note type="contents">52b: The central panel is executed in dīwānī script, and it has two panels above and below written in Nastaʻlīq. The dīwānī panel is damaged on the lower left
+      corner, where we might have had the name of the calligrapher and the date of the piece</note>
+   <note type="contents">53a: The verses above and below the painting mention dervishes, which is the subject of the painting in the center. The painting is a crude copy of a Mughal illustration
+      from the first half of the 17th century. In this 18th century copy, each shaykh is identified by name inscribed above him, hence we see here Shāh Mullāh, Shāh Shārif Abū ʻAlī, Khwājah
+      Muʻīn al-Dīn, and Shaykh Farīd, all Mughal religious figures. The Muslim figures are sitting in a circle in a garden pavilion, with books in the center. Two of them are haloed, and others
+      are holding prayer beads</note>
+   <note type="contents">53b: This folio has the basmalah copied in the center in Nastaʻlīq script by the calligrapher Muḥammad Dalīr(?) in 1150 H. [1737 or 8] (lower right corner). Other
+      calligraphic panels around the basmalah are written in Nastaʻlīq and Shikastah</note>
+   <note type="contents">54a: The center drawing represents a meeting between Layla and Majnūn, identified by an inscription above them. Furthermore, the Nastaʻlīq verses above and below the
+      picture are taken from the story of Layla and Majnūn. The illustration is a very fine work of an Indian artist, who rendered the figures in accordance with local tradition and fashion.
+      The bodies of the ascetic Majnūn and of Layla are rendered in a naturalistic manner, and there is an attempt to show an organic human body. Similar approach can be seen in the way the
+      artist depicted the animals which accompany Majnūn. Furthermore, the painter conveyed depth and three-dimensional space in the landscape and through the receding background. Much attention
+      is given to minute details, and the composition is well balanced</note>
+   <note type="contents">54b: Painting representing a woman sitting on a chair, wearing a Mongol-style crown. She is lavishly dressed and jeweled, with her breasts bare. An old woman is serving
+      her a bowl with fruit, and a younger servant is keeping the fire in the hookahpipe. An inscription at the top of the page misidentifies the figure to be a Turkistani prince, while this
+      is a female figure. The style of the painting is very flat and schematic, without any usage of shading or rendition of depth. It was probably painted in the late 18th century in the Deccan.
+      The calligraphy around the picture is inscribed in nashki and Shikastah scripts</note>
+   <note type="contents">55a. The central panel was written in Nastaʻlīq script by Mīr ʻAlī in 1102 H. [1690 or 91] (bottom of the panel). Above this piece there are two text boxes written
+      in Shikastah script, one of which is dated 1182 H. [1768 or 9]</note>
+   <note type="contents">55b: This page is composed of calligraphic writing in Naskhī̄ and Thulth scripts. The calligraphy and the layout of the page seem to match folios 1b and 2a at the beginning
+      of this album</note>
+   <note type="provenance">A letter attached to the album mentions that this was made for the Portuguese governor of India, but this is a late attribution. The document further indicates that
+      the book belonged to the Delaney family who sold it to Sir John Malcolm (1769-1833) from the East India Company. It was then sold to Rowland Jones Esq. (1772-1856), Broom Hall, Carnarvonshire,
+      Wales. The album was then auctioned in an estate sale between Feb. 24 and March 8, 1857 at Carnarvonshire and was purchased by William Stewart Esq. (1798-1874) of Aldenham Abbey, Hertfordshire.
+      Stewart sold the book at Christie's auction in London in 1875. There was probably another owner after Stewart from whom Robert Garrett (1875-1961) purchased the album</note>
+   <note type="additionalForm">Microfilm negative available for reproduction</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh" altRepGroup="10">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="family">Dārā Shikūh, Prince, son of Shahjahan, Emperor of India, 1615-1659</namePart>
+      <namePart type="given"></namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh" altRepGroup="10">
+      <name type="personal" script="Arab" lang="per">
+         <namePart type="family">دارا شكوه</namePart>
+      <namePart type="given"></namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh" altRepGroup="7">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="family">Nūr Jahān, Empress, consort of Jahangir, Emperor of Hindustan, d. 1645</namePart>
+      <namePart type="given"></namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh" altRepGroup="7">
+      <name type="personal" script="Arab" lang="per">
+         <namePart type="family">نور جهان</namePart>
+      <namePart type="given"></namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh" altRepGroup="8">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="family">Ibrāhīm ibn Adʹham, d. ca. 777</namePart>
+      <namePart type="given"></namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh" altRepGroup="8">
+      <name type="personal" script="Arab" lang="per">
+         <namePart type="family">ابراهيم بن ادهم</namePart>
+      <namePart type="given"></namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh" altRepGroup="9">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="family">Niẓāmuddīn Auliyā, 1236-1325</namePart>
+      <namePart type="given"></namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh" altRepGroup="9">
+      <name type="personal" script="Arab" lang="per">
+         <namePart type="family">نظام الدين اوليا</namePart>
+      <namePart type="given"></namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="family">Mary, Blessed Virgin, Saint</namePart>
+      <namePart type="given"></namePart>
+      </name>
+      <genre>Art</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="given">Alī Ādila Śāha II</namePart>
+         <namePart type="termsOfAddress">Sultan of Bijapur</namePart>
+         <namePart type="date">1638-1672</namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="given">Aurangzeb</namePart>
+         <namePart type="termsOfAddress">Emperor of Hindustan</namePart>
+         <namePart type="date">1618-1707</namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="given">Chand Bibi,</namePart>
+         <namePart type="termsOfAddress">Queen of Bijāpur</namePart>
+         <namePart type="date">d. 1600</namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="given">Akbar</namePart>
+         <namePart type="termsOfAddress">Emperor of Hindustan</namePart>
+         <namePart type="date">1542-1605</namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="given">Majnūn Laylá</namePart>
+      </name>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Face</topic>
+      <topic>Symbolic aspects</topic>
+      <geographic>Islamic empire</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Shāhnāmah</title>
+      </titleInfo>
+      <genre>Illustrations</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Face</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bhil (Indic people)</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Angels</topic>
+      <topic>Islam</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Parrots</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Chishtīyah</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Moghul courts and courtiers</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Courts and courtiers</topic>
+      <geographic>Mogul Empire</geographic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Yūsuf and Zulaykhā</title>
+      </titleInfo>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Polo</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hunting</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Birds of prey</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Artillery</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Elephants</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tigers</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sea monsters</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dragons</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Animals, Mythical</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Peacocks</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Muslim saints</topic>
+      <genre>Portraits</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Basmalah</topic>
+      <genre>Pictorial works</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Moghadam, M. et al. Garrett coll., 206</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 102G</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/102g.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5557079</recordOrigin>
+   </recordInfo>
+</mods>

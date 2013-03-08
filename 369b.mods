@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Sharḥ ʻAqāʼid al-Ṭaḥāwī</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>شرح عقائد الطحاوي</title>
+   </titleInfo>
+   <titleInfo type="alternative" displayLabel="Title in colophon (fol. 92a)" script="Latn" lang="ara" altRepGroup="2">
+      <title>Sharḥ al-ʻAqāʼid</title>
+   </titleInfo>
+   <titleInfo type="alternative" displayLabel="Title in colophon (fol. 92a)" script="Arab" lang="ara" altRepGroup="2">
+      <title>شرح العقائد</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="family">Turkistānī</namePart>
+      <namePart type="given">Hibat Allāh ibn Aḥmad</namePart>
+      <namePart type="date">1272 or 3 - 1333</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart type="family">تركستاني</namePart>
+      <namePart type="given">هبة الله بن احمد</namePart>
+      <!--<namePart type="date">1272 or 3 - 1333</namePart> -->
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 14th century</genre>
+   <genre>Illuminated title pages - Islamic Empire - 14th century</genre>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <originInfo>
+      <dateCreated>[between 13--? and 1446]</dateCreated>
+      <dateCreated encoding="w3cdtf" point="start" qualifier="approximate">1300</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="end" qualifier="inferred">1446</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>i, 92, i leaves : paper ; 190 × 123 (130 × 85) mm. bound to 175 × 130 mm.</extent>
+   </physicalDescription>
+   <abstract>Elegant copy of a commentary on the ʻAqīdat al-Ṭaḥāwī, by Abū Jaʻfar al-Ṭaḥāwī, d. 321/933. On this commentary, see Kashf al-ẓunūn, ed. Fluegel, vol. 4, p. 216.</abstract>
+   <note type="physicalDetails">13 lines per page. Written in careful medium small naskh in black ink with use of red for headings. The text is vocalized. Thick dark cream paper with laid lines,
+      some chain lines, and pulp visible. Catchword on verso of some leaves.</note>
+   <note type="physicalDetails">Illuminated title page (ʻunwān) in gold and blue, with some red (fol. 1a): The title-page consists of an upper panel with two red, blue, and gold medallions on
+      the left margin, and a lower scalloped panel. The upper panel is divided in two parts each framed within a gold border outlined in black. The upper part has the title written in stylistic
+      "Kufic" in gold on a blue ground with a gold and red arabesque of flowers and leaves. The lower part has the statement of responsibility written in black naskh in cloud cartouches outlined
+      in black and left blank over a ground hatched in red. The scalloped panel is bordered in gold and black on white and has the patron's name in gold outlined in black in cloud cartouches
+      left blank on a blue ground. The whole design is outlined in blue with radiating flecks.</note>
+   <note type="physicalDetails">Serious worm damage on the inner margin. Extremely fragile.</note>
+   <note type="origin">The manuscript is not dated. Apparently copied 14th-15th cent.</note>
+   <note type="physicalDetails">Two spine labels (vertical) with inscriptions reading respectively: "Sharḥ ʻAqīdat al-Ṭaḥāwī li-Hibat Allāh al-Turkustānī" [in Arabic script] and "369"
+      [in Arabic and western numerals].</note>
+   <note type="provenance">Ibrāhīm ibn Bahādur al-Ḥanafī (fol. 1a). Two ownership statements on fol. 1a, in the name of ʻAbd al-Raḥmān ibn Muḥammad ibn Ismāʻīl al-Ḥanafī, known as al-Kurdī
+      (or: al-Karakī? see al-Ḍawʼ al-lāmiʻ, vol. 4, p. 124) and of Muḥammad ibn ismāʻīl al-Dasūqī al-Ḥanafī al-Shāmī, the latter dated 1 Rabīʻ al-Thānī 1072 (or 3?) [1661 or 2]
+      (see also fol. 92b). Four reading statements and ownership statements on fol. 92b, in the name of Aqbay al-Īnālī al-Rāzaḥī(?), dated 24 Rajab 8--(?) ; of Shihāb al-Dīn Aḥmad ibn
+      … Aqbay ibn ʻAbd Allāh al-Īnālī, dated laylat al-Jumuʻah 4 Shawwāl 850 [Dec. 23, 1446] ; of al-Sayyid Muḥammad ibn al-Sayyid Ismāʻīl al-Dasūqī al-Ḥanafī al-Shāmī, dated
+      Rajab 1074 [1664] ; of ʻAbd al-Jawwād al-Ḥanafī. Acquired by Robert Garrett from Brill, Leiden, 1925, from the books of Mūrad Bey Bārūdī, Beirut.</note>
+   <note type="bindingInfo">Modern library binding.</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942.</note>
+   <note>Access limited: Material extremely fragile. Apply to curator of manuscripts.</note>
+   <note type="incipit" script="Arab">قال شيخنا ومولانا الشيخ الامام العالم العلامة شجاع الدين هبة [الله] بن احمد بن مُعَلّا التُرْكُستانى الحنفى رحمه الله تعالى الحمد لله الذى دلّت على وحدانيته
+      بدايع صنعته … وبعد فان بعض اخواننا سالنا ان نتكلم مما فتح الله علينا من خزاين نعمه ولطايف كرمه على العقيدة المنسوبة الى الامام ابى جعفر الطحاوى … [2أ] … فاقول وبالله التوفيق قال رضى
+      الله عنه هذا ذكر بيان اعتقاد اهل السنة والجماعة فانما قال ذلك لقوله تعالى لنبيه … قل هذه سبيلى</note>
+   <note type="explicit" script="Arab"> وقال رسول الله … لا تجتمع امّتى على ضلال وقال يد الله على الجماعة فمن شدّ شدّ فى النار نعوذ بالله من الخذلان والفرقة ونسال الله تعالى ان يتوفّانا على
+      لزوم السنّة والجماعة بمنّه وكرمه</note>
+   <subject>
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṭaḥāwī</namePart>
+         <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+         <namePart type="date">852?-933</namePart>
+      </name>
+      <titleInfo>
+         <title>ʻAqīdah</title>
+      </titleInfo>
+      <genre>Commentaries</genre>
+      <temporal>13th century.</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <temporal>13th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Faith (Islam)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1543</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 369B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/369b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5168656</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1">
+      <title>Ẓafarnāmah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1">
+      <title>ظفرنامه</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="given">Sharaf al-Dīn ʻAlī Yazdī</namePart>
+      <namePart type="date">d. 1454</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="given">شرف الدين علي يزدي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="per">
+      <namePart type="family">Silvestre de Sacy</namePart>
+      <namePart type="given">A. I (Antoine Isaac)</namePart>
+      <namePart type="date">1758-1838</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Persian - 15th century</genre>
+   <genre>Headpieces (layout features) - Islamic Empire - 15th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1482</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 501, i leaves : paper ; 247 × 173 (182 × 118) mm. bound to 247 × 180 mm.</extent>
+   </physicalDescription>
+   <abstract>History of Tīmūr (Tamerlane)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from colophon (fol. 500b)</note>
+   <note type="physicalDetails">Physical description: 19 lines per page. Written in medium small nastaʻlīq in black ink with use of red. The text is framed within two gold rules outlined in
+      black, with a blue outline. Dark cream laid paper, glossy, hardly translucid. Fol. 1 consists of a later leaf pasted on the recto of the first leaf with text. Inscriptions on fol. 501a-b.
+      Foliation in black ink using Arabic numerals (omits the first fol.). Stained with water</note>
+   <note type="physicalDetails">Decoration: Illuminated headpiece executed in gold, blue, and colors, on fol. 2b</note>
+   <note type="physicalDetails">Chiefly quaternions ; catchword on the verso of each leaf</note>
+   <note>Spine label (vertical; partly wanting) with title in French: "Aly Al-Yezdy Histoire de Tamerlan"</note>
+   <note type="physicalDetails">Three pieces of paper with printed text on the pastedown of the upper cover, the first with a notice in French describing the manuscript under no. 320 ; the second
+      with the name "M. Silvestre de sacy" and inscriptions in pencil ; the third bearing the following text: "Le Ch. Ferrão de Castelbranco 70, Avenue des Champs-Elysées"</note>
+   <note type="origin">According to colophon, copied by Khalīl Allāh ibn Sharaf al-Dīn Ḥusayn al-Shamītī(?), Thursday 10 Jumādá al-Awwal 887 [June 27, 1482] (fol. 500b, in Arabic)</note>
+   <note type="provenance">Ownership statement in the name of Aḥmad ibn Muḥammad, known as Dhahanī (dated 1112 H. [1700 or 1701]) and impressions of two seals on fol. 1a. Acquired from Abraham
+      Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Red leather. The covers have a gold stamped central scalloped mandorla with two pendants on the vertical axis, and corner pieces. The outer border consists of fillets
+      and a large guilloche. Paper pastedown and free endpaper. Traces of a now wanting flap</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> مدا كثيرا مباركا لمن توتى الملك من تشاء وتنزع الملك ممن تشاء وصلوه طيبه دايمه على خاتم الانبياء وسيد الاولياء محمد واله … مقاله اول در ذكر صادرات احوال
+      حضرت صاحب قراني انار الله برهانه بنام خدائي كه از نامه اوست</note>
+   <note type="explicit" script="Arab"> خلايق مرفه ز احسان او زمين وزمان تحت فرمان او الحمد لله رب العالمين والصلوة والسلام على خير خلقه محمد وآله اجمعين م</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="per">
+         <namePart type="given">Timur</namePart>
+         <namePart type="date">1336-1405</namePart>
+      </name>
+      <genre>Biography</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Timurids</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 3715Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3715y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5521117</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Sharḥ Manẓūmat Kashf al-rān fī al-zāyirjah … etc.</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary">
+      <title>شرح منظومة كشف الران في الزايرجة</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1787</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 39, i leaves : paper, ill. ; 199 × 105 (138 × 60) mm. bound to 199 × 110 mm.</extent>
+   </physicalDescription>
+   <abstract>Volume comprising four texts on occult sciences (fortune-telling, talismans, divination)</abstract>
+   <note>Ms. codex</note>
+   <note type="physicalDetails">21 long lines per page. Written in medium small naskh in black ink with use of magenta ink. All the texts in the volume are written by the same hand. European
+      glazed paper with watermark. Some of the leaves are dyed red, yellow or pale green. Contains charts and tables. Marginal notes in text no. 1, written in the same hand. Collation
+      statement on fol. 22a. Foliation in pencil using Western numerals</note>
+   <note type="origin">Copied in the first days of Jumādá al-Ulá 1201 by Muḥammad Najīb al-Azharī, known as al-ʻAṭṭār (colophon text 2, fol. 18b; text 3, fol. 23a; text 4, fol. 25b)</note>
+   <note type="contents">1. fol. 1a-15b : Sharḥ Manẓūmat Kashf al-rān fī al-zāyirjah</note>
+   <note type="contents">2. fol. 16a-18b : Sharḥ bayt min Manẓūmat Kashf al-rān / Muḥammad al-Ghamrī</note>
+   <note type="contents">3. fol. 19b-23a : Bāb fī ḥall al-ṭilasm wa-īḍāḥ al-sirr al-mubham / [Aḥmad ibn Muḥammad al-Ghamrī al-Wāsiṭī]</note>
+   <note type="contents">4. fol. 23b-25b : al-Durrah al-muntakhabah fī al-suʼālāt al-muntasibah</note>
+   <note type="contents">5. fol. 26a-28a : [Tables with numbers and letters]</note>
+   <note type="contents">6. fol. 29a : Fāʼidah [on the ascendant (al-ṭawāliʻ al-falakīyah)]</note>
+   <note type="contents">7. fol. 29b-34b : [Blank]</note>
+   <note type="contents">8. fol. 35a : [Charts with numbers and a heading "10"]</note>
+   <note type="contents">9. fol. 35b : Hādhā al-wafq al-sharīf al-mukhammas khālī al-wasaṭ qad nzlt fīhā qawluhu taʻālā … etc., with a chart</note>
+   <note type="contents">10. fol. 36a-37b : [Blank]</note>
+   <note type="contents">11. fol. 38a-39a : [Tables with numbers]</note>
+   <note type="contents">12. fol. 39b : Fāʼidah</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Red paper with embossed vegetal motif pasted on paper pasteboards. Blue pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Ibn al-ʻArabī</namePart>
+         <namePart type="date">1165-1240</namePart>
+      </name>
+      <titleInfo>
+         <title>Manẓūmat Kashf al-rān</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fortune-telling</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic alphabet</topic>
+      <topic>Symbolic aspects</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 941, 942, 949, 950</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ghamrī</namePart>
+         <namePart type="given">Muḥammad</namePart>
+         <namePart type="date">18th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ bayt min Manẓūmat Kashf al-rān</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ghamrī</namePart>
+         <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+         <namePart type="date">d. 1499</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥall al-ṭilasm wa-īḍāḥ al-sirr al-mubham</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Durrah al-muntakhabah fī al-suʼālāt al-muntasibah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 542H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/542h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4822529</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Thabat</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Miṣrī</namePart>
+      <namePart type="given">Muḥammad ibn ʻAlī</namePart>
+      <namePart type="date">b. 1436</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">مصري</namePart>
+      <namePart type="date">محمد بن علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Manuscripts, Arabic - Egypt - Cairo - 15th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Cairo?]</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1453</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>10 leaves : paper ; 180 × 135 (120 × 95) mm.</extent>
+   </physicalDescription>
+   <abstract>Autograph thabat by Abū al-Yaman Muḥammad ibn ʻAlī ibn Ismaʻīl ibn ʻUmar ibn ʻAbd al-Raḥmān al-Miṣrī al-Qudsī (see fol. 4, l. 11-12) [b. 839/1436, see Sakhāwī, al-Daw
+      al-lāmiʻ, vol. 8, 171], consisting of a list of books read, beginning with the Qurʼān in various readings, the Kitāb al-Taysīr by Abī ʻAmr al-Dānī, the Shāṭibīyah by Abū al-Qāsim
+      al-Shāṭibī, etc. read with Abū al-ʻAbbās Aḥmad ibn Zayn al-Dīn Abī Bakr … al-Qilqīlī al-Shāmī, known as al-Sikandarī, nazīl al-Jāmiʻ al-Azhar (fol. 5a) [757-857/1356-1453,
+      see Sakhāwī, al-Daw al-lāmiʻ, vol. 1, p. 263-264], with an ijāzah, followed by two autograph attestations of this ijāzah, one from Jaʻfar ibn Ibrāhīm ibn Jaʻfar ibn Sulaymān ibn
+      Hubayr ibn Jarīr ibn … ibn Faḍl fāḍil al-Qarashī al-Maqarrī al-Sanhūrī al-Azharī, nazīl al-Diyār al-Miṣrīyah wa-al-Qāhirah, dated 19 Dhū al-Ḥijjah 857 (fol. 9a-10b) [ca.
+      810-894/1407-1489, see Sakhāwī, al-Daw al-lāmiʻ, vol. 3, p. 67-70], the other from ʻAlī ibn Yūsuf al-Jabartī (fol. 10b) [see Sakhāwī, al-Daw al-lāmiʻ, vol. 6, p. 53]</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger, according to Mach, R. Yahuda</note>
+   <note type="physicalDetails">15 lines per page. Written in medium large naskh in black ink with use of red and green ink. Light cream paper with laid and chain lines and pulp visible. The
+      text starts on fol. 2b</note>
+   <note type="origin">Autograph dated Wednesday 17 Dhū al-Ḥijjah 857 [Dec. 19, 1453] (fol. 9a)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Unbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الحمد لله الذى حعل الحمد لكتابه مفتاحا ولقلوب اوليائه مصباحا … [3أ] … وبعد فكتاب الله جليل كريم … [4أ] وبعد يقول العبد الفقير … ابو اليمن محمد بن
+      على بن اسمعيل بن عمر بن عبد الرحمن المصرى ولدا والقدسى اصلا والشافعى مذهبا … اننى قرات من اول فاتحة الكتاب العزيز</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Muḥammad ibn ʻAlī Abū al-Yaman</namePart>
+         <namePart type="date">b. 1436</namePart>
+      </name>
+      <topic>Books and reading</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Scholars, Muslim</topic>
+      <topic>Certification</topic>
+      <topic>History</topic>
+      <geographic>Egypt</geographic>
+      <geographic>Cairo</geographic>
+      <geographic>Jāmiʻ al-Azhar</geographic>
+      <temporal>15th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Scholars, Muslim</topic>
+      <topic>Certification</topic>
+      <topic>History</topic>
+      <temporal>15th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>Readings</topic>
+      <topic>Certification</topic>
+      <topic>History</topic>
+      <geographic>Egypt</geographic>
+      <geographic>Cairo</geographic>
+      <geographic>Jāmiʻ al-Azhar</geographic>
+      <temporal>15th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Koran</topic>
+      <topic>Readings</topic>
+      <topic>Certification</topic>
+      <topic>History</topic>
+      <temporal>15th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 46</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 2240Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/2240y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5184576</recordOrigin>
+   </recordInfo>
+</mods>

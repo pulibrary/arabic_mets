@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/premis.xsd" OBJID="bg257f113" TYPE="DigitalObject"
+xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:premis="info:lc/xmlns/premis-v2" xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mets:metsHdr ADMID="this.mets.amd">
+      <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+         <mets:name>Princeton University Library, Digital Initiatives</mets:name>
+      </mets:agent>
+      <mets:altRecordID TYPE="pudl.record.uri">http://diglib.princeton.edu/mdata/pudl0032/102g.mets</mets:altRecordID>
+   </mets:metsHdr>
+   <mets:dmdSec ID="object.labels">
+      <mets:mdWrap MDTYPE="DC">
+         <mets:xmlData>
+            <rdf:RDF>
+               <rdf:Description>
+                  <dcterms:title rdf:parseType="Resource">
+                     <rdf:value>[Album of miniatures and specimens of calligraphy of Indian origin]</rdf:value>
+                     <dcterms:type>title proper</dcterms:type>
+                  </dcterms:title>
+               </rdf:Description>
+            </rdf:RDF>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="object.dmd">
+      <mets:mdRef LOCTYPE="URL" MDTYPE="MODS" xlink:href="http://diglib.princeton.edu/mdata/pudl0032/102g.mods" xlink:type="simple"/>
+   </mets:dmdSec>
+   <mets:amdSec ID="this.mets.amd">
+      <mets:digiprovMD ID="this.mets.events">
+         <mets:mdWrap MDTYPE="PREMIS:EVENT">
+            <mets:xmlData>
+               <premis:event xmlID="tme-1">
+                  <premis:eventIdentifier xlink:type="simple">
+                     <premis:eventIdentifierType>URN</premis:eventIdentifierType>
+                     <premis:eventIdentifierValue>urn:uuid:2630c975-2069-4ee0-ba2f-8c5febf26668</premis:eventIdentifierValue>
+                  </premis:eventIdentifier>
+                  <premis:eventType>INITIAL_METS_CREATION</premis:eventType>
+                  <premis:eventDateTime>2010-03-01T18:09:27</premis:eventDateTime>
+                  <premis:eventDetail>Creation of this METS/PREMIS record</premis:eventDetail>
+               </premis:event>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp ID="icon">
+         <mets:file ID="im1" USE="master" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/master/pudl0032/102g/00000001.tif" xlink:type="simple"/>
+         </mets:file>
+         <mets:file ID="id1" USE="deliverable" MIMETYPE="image/jpx">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/deliverable/pudl0032/102g/00000001.jp2" xlink:type="simple"/>
+         </mets:file>
+         <mets:file ID="ir1" USE="reference" MIMETYPE="image/jpg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/reference/pudl0032/102g/00000001.jpg" xlink:type="simple"/>
+         </mets:file>
+         <mets:file ID="it1" USE="thumbnail" MIMETYPE="image/png">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/thumbnail/pudl0032/102g/00000001.png" xlink:type="simple"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="RelatedObjects">
+      <mets:div LABEL="Default" DMDID="object.dmd">
+         <mets:div ID="isAggregatedBy" TYPE="UnorderedList">
+            <mets:div>
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/mdata/pudl0032.ead" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div ID="aggregates" TYPE="OrderedList">
+            <mets:div LABEL="image 1" TYPE="Static" ORDER="1">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000001.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 2" TYPE="Static" ORDER="2">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000002.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 3" TYPE="Static" ORDER="3">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000003.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 4" TYPE="Static" ORDER="4">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000004.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 5" TYPE="Static" ORDER="5">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000005.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 6" TYPE="Static" ORDER="6">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000006.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 7" TYPE="Static" ORDER="7">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000007.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 8" TYPE="Static" ORDER="8">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000008.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 9" TYPE="Static" ORDER="9">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000009.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 10" TYPE="Static" ORDER="10">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000010.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 11" TYPE="Static" ORDER="11">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000011.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 12" TYPE="Static" ORDER="12">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000012.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 13" TYPE="Static" ORDER="13">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000013.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 14" TYPE="Static" ORDER="14">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000014.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 15" TYPE="Static" ORDER="15">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000015.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 16" TYPE="Static" ORDER="16">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000016.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 17" TYPE="Static" ORDER="17">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000017.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 18" TYPE="Static" ORDER="18">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000018.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 19" TYPE="Static" ORDER="19">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000019.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 20" TYPE="Static" ORDER="20">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000020.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 21" TYPE="Static" ORDER="21">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000021.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 22" TYPE="Static" ORDER="22">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000022.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 23" TYPE="Static" ORDER="23">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000023.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 24" TYPE="Static" ORDER="24">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000024.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 25" TYPE="Static" ORDER="25">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000025.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 26" TYPE="Static" ORDER="26">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000026.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 27" TYPE="Static" ORDER="27">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000027.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 28" TYPE="Static" ORDER="28">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000028.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 29" TYPE="Static" ORDER="29">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000029.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 30" TYPE="Static" ORDER="30">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000030.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 31" TYPE="Static" ORDER="31">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000031.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 32" TYPE="Static" ORDER="32">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000032.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 33" TYPE="Static" ORDER="33">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000033.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 34" TYPE="Static" ORDER="34">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000034.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 35" TYPE="Static" ORDER="35">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000035.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 36" TYPE="Static" ORDER="36">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000036.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 37" TYPE="Static" ORDER="37">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000037.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 38" TYPE="Static" ORDER="38">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000038.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 39" TYPE="Static" ORDER="39">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000039.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 40" TYPE="Static" ORDER="40">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000040.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 41" TYPE="Static" ORDER="41">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000041.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 42" TYPE="Static" ORDER="42">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000042.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 43" TYPE="Static" ORDER="43">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000043.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 44" TYPE="Static" ORDER="44">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000044.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 45" TYPE="Static" ORDER="45">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000045.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 46" TYPE="Static" ORDER="46">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000046.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 47" TYPE="Static" ORDER="47">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000047.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 48" TYPE="Static" ORDER="48">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000048.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 49" TYPE="Static" ORDER="49">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000049.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 50" TYPE="Static" ORDER="50">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000050.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 51" TYPE="Static" ORDER="51">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000051.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 52" TYPE="Static" ORDER="52">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000052.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 53" TYPE="Static" ORDER="53">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000053.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 54" TYPE="Static" ORDER="54">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000054.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 55" TYPE="Static" ORDER="55">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000055.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 56" TYPE="Static" ORDER="56">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000056.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 57" TYPE="Static" ORDER="57">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000057.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 58" TYPE="Static" ORDER="58">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000058.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 59" TYPE="Static" ORDER="59">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000059.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 60" TYPE="Static" ORDER="60">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000060.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 61" TYPE="Static" ORDER="61">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000061.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 62" TYPE="Static" ORDER="62">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000062.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 63" TYPE="Static" ORDER="63">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000063.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 64" TYPE="Static" ORDER="64">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000064.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 65" TYPE="Static" ORDER="65">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000065.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 66" TYPE="Static" ORDER="66">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000066.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 67" TYPE="Static" ORDER="67">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000067.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 68" TYPE="Static" ORDER="68">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000068.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 69" TYPE="Static" ORDER="69">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000069.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 70" TYPE="Static" ORDER="70">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000070.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 71" TYPE="Static" ORDER="71">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000071.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 72" TYPE="Static" ORDER="72">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000072.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 73" TYPE="Static" ORDER="73">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000073.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 74" TYPE="Static" ORDER="74">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000074.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 75" TYPE="Static" ORDER="75">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000075.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 76" TYPE="Static" ORDER="76">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000076.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 77" TYPE="Static" ORDER="77">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000077.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 78" TYPE="Static" ORDER="78">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000078.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 79" TYPE="Static" ORDER="79">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000079.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 80" TYPE="Static" ORDER="80">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000080.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 81" TYPE="Static" ORDER="81">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000081.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 82" TYPE="Static" ORDER="82">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000082.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 83" TYPE="Static" ORDER="83">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000083.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 84" TYPE="Static" ORDER="84">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000084.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 85" TYPE="Static" ORDER="85">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000085.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 86" TYPE="Static" ORDER="86">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000086.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 87" TYPE="Static" ORDER="87">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000087.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 88" TYPE="Static" ORDER="88">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000088.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 89" TYPE="Static" ORDER="89">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000089.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 90" TYPE="Static" ORDER="90">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000090.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 91" TYPE="Static" ORDER="91">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000091.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 92" TYPE="Static" ORDER="92">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000092.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 93" TYPE="Static" ORDER="93">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000093.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 94" TYPE="Static" ORDER="94">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000094.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 95" TYPE="Static" ORDER="95">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000095.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 96" TYPE="Static" ORDER="96">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000096.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 97" TYPE="Static" ORDER="97">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000097.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 98" TYPE="Static" ORDER="98">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000098.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 99" TYPE="Static" ORDER="99">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000099.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 100" TYPE="Static" ORDER="100">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000100.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 101" TYPE="Static" ORDER="101">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000101.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 102" TYPE="Static" ORDER="102">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000102.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 103" TYPE="Static" ORDER="103">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000103.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 104" TYPE="Static" ORDER="104">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000104.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 105" TYPE="Static" ORDER="105">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000105.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 106" TYPE="Static" ORDER="106">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000106.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 107" TYPE="Static" ORDER="107">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000107.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 108" TYPE="Static" ORDER="108">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000108.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 109" TYPE="Static" ORDER="109">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000109.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 110" TYPE="Static" ORDER="110">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000110.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 111" TYPE="Static" ORDER="111">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000111.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="image 112" TYPE="Static" ORDER="112">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000112.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="Physical" LABEL="Foliation">
+      <mets:div TYPE="RTLBoundManuscript" LABEL="[Album of miniatures and specimens of calligraphy of Indian origin]" DMDID="object.dmd">
+         <mets:div LABEL="[]" TYPE="Leaf">
+            <mets:div LABEL="recto" TYPE="Side" ORDER="1">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000003.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="verso" TYPE="Side" ORDER="2">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000004.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 1" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="3">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000003.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="4">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000004.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 2" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="5">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000005.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="6">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000006.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 3" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="7">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000007.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="8">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000008.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 4" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="9">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000009.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="10">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000010.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 5" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="11">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000011.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="12">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000012.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 6" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="13">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000013.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="14">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000014.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 7" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="15">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000015.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="16">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000016.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 8" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="17">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000017.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="18">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000018.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 9" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="19">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000019.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="20">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000020.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 10" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="21">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000021.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="22">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000022.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 11" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="23">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000023.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="24">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000024.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 12" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="25">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000025.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="26">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000026.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 13" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="27">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000027.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="28">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000028.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 14" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="29">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000029.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="30">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000030.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 15" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="31">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000031.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="32">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000032.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 16" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="33">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000033.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="34">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000034.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 17" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="35">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000035.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="36">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000036.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 18" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="37">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000037.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="38">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000038.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 19" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="39">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000039.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="40">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000040.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 20" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="41">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000041.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="42">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000042.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 21" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="43">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000043.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="44">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000044.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 22" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="45">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000045.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="46">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000046.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 23" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="47">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000047.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="48">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000048.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 24" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="49">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000049.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="50">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000050.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 25" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="51">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000051.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="52">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000052.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 26" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="53">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000053.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="54">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000054.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 27" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="55">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000055.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="56">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000056.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 28" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="57">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000057.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="58">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000058.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 29" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="59">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000059.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="60">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000060.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 30" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="61">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000061.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="62">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000062.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 31" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="63">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000063.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="64">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000064.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 32" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="65">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000065.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="66">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000066.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 33" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="67">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000067.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="68">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000068.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 34" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="69">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000069.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="70">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000070.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 35" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="71">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000071.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="72">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000072.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 36" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="73">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000073.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="74">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000074.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 37" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="75">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000075.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="76">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000076.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 38" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="77">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000077.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="78">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000078.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 39" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="79">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000079.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="80">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000080.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 40" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="81">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000081.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="82">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000082.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 41" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="83">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000083.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="84">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000084.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 42" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="85">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000085.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="86">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000086.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 43" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="87">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000087.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="88">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000088.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 44" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="89">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000089.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="90">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000090.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 45" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="91">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000091.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="92">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000092.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 46" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="93">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000093.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="94">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000094.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 47" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="95">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000095.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="96">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000096.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 48" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="97">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000097.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="98">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000098.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 49" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="99">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000099.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="100">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000100.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 50" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="101">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000101.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="102">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000102.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 51" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="103">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000103.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="104">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000104.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 52" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="105">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000105.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="106">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000106.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 53" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="107">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000107.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="108">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000108.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 54" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="109">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000109.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="110">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000110.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div LABEL="f. 55" TYPE="Folio">
+            <mets:div LABEL="a" TYPE="Side" ORDER="111">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000111.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div LABEL="b" TYPE="Side" ORDER="112">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000112.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="Logical" LABEL="Contents">
+      <mets:div LABEL="[Album of miniatures and specimens of calligraphy of Indian origin]" DMDID="object.dmd" TYPE="Work">
+         <mets:div LABEL="letter" TYPE="Section">
+            <mets:div TYPE="LogicalMember" ORDER="1">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000001.mets" xlink:type="simple"/>
+            </mets:div>
+            <mets:div TYPE="LogicalMember" ORDER="2">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000002.mets" xlink:type="simple"/>
+            </mets:div>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="3">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000003.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="4">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000004.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="5">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000005.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="6">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000006.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="7">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000007.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="8">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000008.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="9">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000009.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="10">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000010.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="11">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000011.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="12">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000012.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="13">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000013.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="14">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000014.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="15">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000015.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="16">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000016.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="17">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000017.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="18">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000018.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="19">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000019.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="20">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000020.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="21">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000021.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="22">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000022.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="23">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000023.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="24">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000024.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="25">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000025.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="26">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000026.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="27">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000027.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="28">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000028.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="29">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000029.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="30">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000030.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="31">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000031.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="32">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000032.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="33">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000033.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="34">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000034.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="35">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000035.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="36">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000036.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="37">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000037.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="38">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000038.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="39">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000039.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="40">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000040.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="41">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000041.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="42">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000042.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="43">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000043.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="44">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000044.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="45">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000045.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="46">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000046.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="47">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000047.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="48">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000048.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="49">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000049.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="50">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000050.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="51">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000051.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="52">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000052.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="53">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000053.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="54">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000054.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="55">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000055.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="56">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000056.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="57">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000057.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="58">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000058.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="59">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000059.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="60">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000060.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="61">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000061.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="62">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000062.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="63">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000063.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="64">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000064.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="65">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000065.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="66">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000066.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="67">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000067.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="68">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000068.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="69">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000069.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="70">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000070.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="71">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000071.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="72">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000072.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="73">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000073.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="74">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000074.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="75">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000075.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="76">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000076.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="77">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000077.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="78">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000078.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="79">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000079.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="80">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000080.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="81">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000081.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="82">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000082.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="83">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000083.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="84">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000084.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="85">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000085.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="86">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000086.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="87">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000087.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="88">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000088.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="89">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000089.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="90">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000090.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="91">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000091.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="92">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000092.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="93">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000093.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="94">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000094.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="95">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000095.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="96">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000096.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="97">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000097.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="98">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000098.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="99">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000099.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="100">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000100.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="101">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000101.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="102">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000102.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="103">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000103.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="104">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000104.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="105">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000105.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="106">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000106.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="107">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000107.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="108">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000108.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="109">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000109.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="110">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000110.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="111">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000111.mets" xlink:type="simple"/>
+         </mets:div>
+         <mets:div TYPE="LogicalMember" ORDER="112">
+            <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0032/102g/00000112.mets" xlink:type="simple"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+</mets:mets>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <nonSort>al-</nonSort>
+      <title>Dībāj al-mudhahhab fī aḥkām al-madhhab</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary">
+      <title>الديباج المذهب في احكام المذهب</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>[after 1452]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1452</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>152 leaves : paper ; 232 × 152 (184 × 112) mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise comprising an introduction, ten books (kitāb) and ten sections (bāb) on fiqh (Shāfiʻī), completed on Thursday 29 Shaʻbān 856 H. (see fol. 144b). Identical with Chester
+      Beatty, no. 3207. The text is followed by a biographical treatise by the same author on the Shafiʻī judges in Miṣr and al-Shām since the beginning of the rule of the Turks in 648 H.
+      (fol. 145b-150b; presented on fol. 144b)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from beginning of text (fol. 3b, l. 28-29)</note>
+   <note type="physicalDetails">35 to 37 lines per page. Written in small naskh in black ink, with use of red for headings and re-inking. Dark cream glazed paper with laid lines and chain lines
+      visible. Table of contents (incomplete) on fol. 3b. Collation notes. Annotations on smaller pieces of paper between some leaves (see between fol. 28 and 29, 85 and 86). Fol. 1a-3a: several
+      additions (fāʼidah). Fol. 151b: prayer. Some leaves are damaged (see fol. 11b), others are missing (see between fol. 3 and 4). Ownership statement on fol. 2a. Fol. 1a: label with inscription
+      in Arabic "Dimashq 174". Foliation in pencil using Western numerals</note>
+   <note>The author says he entered the field in 822 H. (see fol. 3b, l. 25-26)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Only the leather spine is extant</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … وصلى الله على سيدنا محمد واله الحمد لله الذى خلق الانسان وعلمه البيان واطلق فيه اللسان وفهّمه الاحكام لاقامة شرايع الاسلام … اما بعد فان العدالة
+      والقضايا من الوظايف الخطيرة</note>
+   <note type="explicit" script="Arab"> وللولي النظر الخاص فى الامور الجزيبة التى لا يجبط بها قاعدة فاستفده انتهى هذا ما تيسر جمعه والله تعالى اعلم بالصواب</note>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <geographic>Egypt</geographic>
+      <topic>Biography</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <geographic>Syria</geographic>
+      <topic>Biography</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 1472</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 637Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/637y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4778942</recordOrigin>
+   </recordInfo>
+</mods>

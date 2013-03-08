@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Rasāʼil Ikhwān al-ṣafāʼ wa-khillān al-wafāʼ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>رسائل اخوان الصفاء وخلان الوفاء : قسم الاول و قسم الرابع</title>
+   </titleInfo>
+   <name type="corporate" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart>Ikhwān al-Ṣafāʼ</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="corporate" authority="naf" script="Arab" lang="ara" altRepGroup="2">
+      <namePart>اخوان الصفاء</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Majrīṭī</namePart>
+      <namePart type="given">Maslamah ibn Aḥmad</namePart>
+      <namePart type="date">d. 1004?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">att</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart>Ibn al-Dhabbāḥ</namePart>
+      <namePart type="given">Abū Bakr ibn Ibrāhīm</namePart>
+      <namePart type="date">1503-1577</namePart>
+      <role>
+         <roleTerm>scr</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 16th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Damascus?]</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1551</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>147 leaves : paper ; 184 × 135 (133 × 90) mm. bound to 187 × 144 mm.</extent>
+   </physicalDescription>
+   <abstract>First thirteen epistles of the First part of the Rasāʼil Ikhwān al-ṣafāʼ, along with Epistle 8 and 9 of the Fourth part. The work is attributed to al-Majrīṭī in a note on
+      the margin of fol. 7a. The copyist is mentioned in al-Ghazzī's al-Kawākib al-sāʼirah bi-aʻyān al-miʼah al-ʻāshirah (ed. 1959), vol. 3, p. 93</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 2a)</note>
+   <note type="physicalDetails">31 lines per page. Written in small casual naskh in black ink with use of red. Light cream paper with pulp and chain? lines visible. Table of contents by a later
+      hand on fol. 1b. Title written on the lower edge of the text block (hardly legible). Threat to mark the page on fol. 127</note>
+   <note>Inscription in Arabic script on a label pasted on the upper cover: "Ḥikmah 20". Inscription in Arabic script on a label pasted on the pastedown of the upper cover: "Ḥāʼ 66"</note>
+   <note type="origin">Copied by Abū al-Ṣidq Abū Bakr ibn Ibrāhīm ibn Muḥammad ibn Ḥusayn? ibn ʻAlī ibn ʻAbd al-Malik al-ḥakīm al-Bakrī al-Dhabāḥ al-Maqdisī al-Qādirī al-Ḥanbalī, khaṭīb
+      bi-Jāmiʻ […?] Masjid al-Qadam [in Damascus] (colophon Risālah 3, fol. 35a and Risālah 12, fol. 113b). al-Risālah al-thālithah copied on 1 Jumādá al-Ākhar 958 (see fol. 35a). al-Risālah
+      al-thāniyah ʻashar copied on Saturday 17 Jumādá al-Awwal 958 (see fol. 113b). Note dated 16 Jumādá al-Awwal 956 at the end of the copy, indicating that this is the end of the quires
+      the copyist found (see fol. 145)</note>
+   <note type="provenance">Four ownership statements dated Rajab 1060 [1650] to Rajab 1192 [1778] on fol. 2a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards for upper and lower covers. The covers are similarly blind-tooled with a central roundel and an outer frame made of fillets</note>
+   <note type="contents">1. fol. 2b-9b: [al-Risālah al-ūlá min al-qism al-awwal fī al-riyāḍīyāt, fī al-ʻadad]</note>
+   <note type="contents">2. fol. 9b-17b: al-Risālah al-thāniyah min al-qism al-awwal (Risālah al-Jūmuṭrīyā, wa-hiya al-madkhal ilá al-handasah)</note>
+   <note type="contents">3. fol. 17b-35a: al-Risālah al-thālithah min al-qism al-awwal (Fī al-madkhal ilá ʻilm al-nujūm)</note>
+   <note type="contents">4. fol. 35b-36a: [Blank]</note>
+   <note type="contents">5. fol. 36b-54a: [al-Risālah] al-rābiʻah min al-qism al-awwal (Risālah fī al-mūsīqī)</note>
+   <note type="contents">6. fol. 54b-62a: al-Risālah al-khāmisah min al-qism al-awwal (Risālah Jughrāfīyā, wa-hiya ṣūrat al-arḍ wa-al-aqālīm)</note>
+   <note type="contents">7. fol. 62a-66b: [al-Risālah] al-sādisah min al-qism al-awwal ((Fī al-nasab al-ʻadadīyah wa-al-handasīyah wa-al-taʼlīfīyah)</note>
+   <note type="contents">8. fol. 67a-72a: al-Risālah al-sābiʻah min al-qism al-awwal (Risālah fī al-ṣanāʼiʻ al-ʻamalīyah[sic] wa-kamiyat ajnās al-ʻulūm)</note>
+   <note type="contents">9. fol. 72a-77b: al-Risālah al-thāminah min al-qism al-awwal (Risālah fī al-ṣanāʼiʻ al-ʻamalīyah)</note>
+   <note type="contents">10. fol. 77b-102b: al-Risālah al-tāsiʻah min al-qism al-awwal (Risālah fī al-akhlāq)</note>
+   <note type="contents">11. fol. 102b-106b: al-Risālah al-ʻāshirah min al-qism al-awwal (Risālat Īsāghūjī wa-huwa al-madkhal ilá ʻilm al-manṭiq)</note>
+   <note type="contents">12. fol. 106b-109b: al-Risālah al-ḥādiyah ʻashar min al-qism al-awwal (Risālah fī taqsīm maʻānīal-ʻasharh al-alfāẓ allatī fī Qāṭāghūrīyās)</note>
+   <note type="contents">13. fol. 109b-113b: al-Risālah al-thāniyah ʻashar min al-qism al-awwal (Risālat Bārāmānīyās wa-Anālūṭīqā)</note>
+   <note type="contents">14. fol. 114-116a: [Blank]</note>
+   <note type="contents">15. fol. 116b-123a: [al-Risālah] al-thālithah ʻashar min al-qism al-awwal (Risālah Anūlūṭīqā al-thānīyah wa-hiya fī al-burhān)</note>
+   <note type="contents">16. fol. 123b-126b: [Blank, except inscription on fol. 126b]</note>
+   <note type="contents">17. fol. 127a-139a: al-Risālah al-thāminah [min al-qism al-rābiʻ fī al-Nāmūsīyāt] (Fī afʻāl al-Rūḥāniyīn)</note>
+   <note type="contents">18. fol. 139a-145b: al-Risālah al-tāsiʻah [min al-qism al-rābiʻ] (Fī anwāʻ al-siyāsāt)</note>
+   <note type="contents">19. fol. 146a-147b: [Blank]</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> اعلم ايها الاخ البار الرحيم … انه لما كان مذهب اخواننا الكرام ايدهم الله النظر فى جميع العلوم الموجودات التى فى العالم من الجواهر والاعراض</note>
+   <note type="explicit" script="Arab"> من تاويل الاحاديث فاطر السموات والارض انت وليي فى الدنيا والاخرة توفنى مسلما والحقنى بالصالحين والحمد لله وحده تم</note>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Encyclopedists</topic>
+      <geographic>Islamic empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Science, Medieval</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 2</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4263Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4263y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4941772</recordOrigin>
+   </recordInfo>
+</mods>

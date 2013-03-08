@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <nonSort>al-</nonSort>
+      <title>Tadhkirah al-muʻaẓẓamīyah fī al-aḥkām al-sharʻīyah. al-Mujallad al-rābiʻ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary">
+      <title>التذكرة المعظمية في الاحكام الشرعية. المجلد الرابع</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - Syria - Damascus</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Damascus</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1227</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 141, i leaves : paper ; 240 × 168 (160 × 105) mm. bound to 243 × 170 mm.</extent>
+   </physicalDescription>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from colophon (fol. 140a)</note>
+   <note>The title also appears on the upper cover (almost illegible due to worm damage)</note>
+   <note type="physicalDetails">11 long lines per page . Written in medium small naskh using black ink. Light cream glazed paper with horizontal chain lines visible. The text is fully vocalized.
+      Collation marks (see collation statement on fol. 140a [prev. 139a]). Several titles, ownership statements (the oldest legible dated 1003 H. [1594]), and one seal on fol. 1a. Kabīkaj on
+      fol. i. Modern foliation in pencil using Western numerals (between fol. 99 and 100, blank ; two fol. 63). Serious worm damage</note>
+   <note>Access limited: Material extremely fragile. Apply to curator of manuscripts.</note>
+   <note>Collation: Paper, i (later flyleaf) + 140 leaves ; 1¹² (-1?) 2⁸ 3-4¹⁰ 5⁸ 6-8¹⁰ 9⁸ 10⁸ (-1?) 11-12¹⁰ 13-14⁸ 15¹² ; quires numbered using Arabic ordinals in the form "al-khāmis min al-juzʾ
+      al-rābiʻ" and signed on the last folio with the inscription "blgh" ; the corners of the leaves are often repaired, making the reconstruction of the quires uneasy, in particular for the
+      beginning of the text. The first legible numbered quire is "al-khāmis min al-juzʾ al-rābiʻ" on fol. 20a [prev. 21a] ; catchword in a later hand on the verso of each leaf</note>
+   <note type="origin">Copied by the Mamlūk al-Muʻaẓẓamī Aḥmad ibn Muḥammad ibn al-Ḥusayn ibn Tamīm al-Tamīmī on 15 Ṣafar 624 in Damascus (colophon, fol. 140a)</note>
+   <note type="provenance">Acquired from Murād Bey Bārūdī, Beirut, 1925</note>
+   <note type="bindingInfo">Glazed paper pasted on pasteboards. The spine has been repaired. Modern labels on the spine. Worm-eaten</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … قال في الكافي واذا شهد شاهَدان على رجل بالسرقة سئِلا عن مآيتها و كيفيتها</note>
+   <note type="explicit" script="Arab"> الامان الذى اظهره لكم باطل و زور فلا تغتر و به ثم أمنهم كان ذلك […] آخر الجزء الرابع من ٱلتذكرة ٱلمعظمية … يَتْلُوهُ فى الجُزْءِ الخاَمِس … باب الا[…]هام
+      الاصْلُ فيِهِ مَا رَوَى أَحمَدُ بن حَنبَل … فِى مُسْنَدِهِ عَنْ عَبْدِ الرَحْمَانِ … عن عَمِهِ مجمّع بن حَارَثَة قال قَسَمَ رَسُوْل الله … خَيْبَرَ(؟) فَاَعْطَى الفارِسَ سَهْمَين
+      واَعْطَىْ الرَاجِلَ سَهْماً</note>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hanafites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1703</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 680</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 302B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/302b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4708120</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Ḥayāt al-ḥayawān wa-ṭabāʻihi wa-khawāṣṣihi wa-manāfiʻ mā fī aʻḍāʼihi mimmā ṣannafahu al-ḥukamāʼ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب حيوة الحيوان وطباعه وخواصه ومنافع ما في اعضائه مما صنّفه الحكماء</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn Bakhtīshūʻ</namePart>
+      <namePart type="given">ʻUbayd Allāh ibn Jibrāʼīl</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن بختيشوع</namePart>
+      <namePart type="given">عبيد الله بن جبرائيل</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre></genre>
+   <originInfo>
+      <dateCreated>[13--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1300</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1399</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>185 leaves : paper ; 247 × 188 (198 × 140 mm.). bound to 257 × 198 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on zoology and the medical and magical properties of the various parts of the bodies of animals</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from caption (fol. 1b)</note>
+   <note>The word "ḥayāh" in the title is added above the "bạ̄ʼ" of "kitāb"</note>
+   <note type="physicalDetails">11 long lines per page. Written in large naskh using black ink, with red or larger script in black for the entries. Thick glazed paper, with vertical laid lines
+      visible. The pages have been frame-ruled (10 mm., the copyist writing on every other line). The text is entirely vocalized. Some final letters of a line are placed in the margin, with a
+      space between the end of the line and these letters. Very few notes in the margins. A few catchwords (originally at the end of each quire?). These show that some leaves are missing (see
+      e.g. between fol. 70b and 71a, 155b and 156a). Traces of numbering of the quires in Arabic ordinals on some leaves, mostly cut off by the trimming of the leaves (see fol. 17a, 24a, 32a,
+      95a, 107a, 119a). Inscriptions and ownership statements on fol. 1a. The top and fore edges of the textblock are decorated with large red dots. Modern pagination in pencil using Western
+      numerals. The paper has been trimmed so that part of the marginalia is lost (see fol. 81a) and some leaves have been repaired</note>
+   <note>Fol. 184 and 185 are damaged so that part of the text is lost and colophon can not be read</note>
+   <note>According to Ph. Hitti, this ms. dates probably from the 14th cent</note>
+   <note type="bindingInfo">Brown leather over pasteboards, with four sewing stations. The upper and lower covers have a central blind-stamped cross pattern (central roundel and four flowers
+      on stems) encompassed in a lozenge formed of two lines connected to the outer frame. The later is formed of two fillets, with a diagonal flower-on-stem motif in each inner corner. Modern
+      pastedowns. The binding has been repaired. See Preservation unit note attached to ms</note>
+   <note type="provenance">Acquired from Murād Bey Bārūdī, Beyrut 1925</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">نقولُ إنّ الإنسان أَعدل الحيوان مزاجاً وأكمله فعالاً وألطفه حسّاً وأنفذه رأياً</note>
+   <note type="explicit" script="Arab">علم الأدوية والداواة واذ قد بان بما أوردناه هاهنا امتناع حصر الكل واتضح […] ومما أهملنا فلنختم الكتاب ونرجو ان نكون قد بلغنا ال</note>
+   <subject authority="lcsh">
+      <topic>Materia medica, Animal</topic>
+      <topic>Early works to 1800</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Zoology</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll 1065</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Ullmann, M. Natur und Geheimwissenschaften, p. 28</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 203B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/203b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4803690</recordOrigin>
+   </recordInfo>
+</mods>

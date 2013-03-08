@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes" usage="primary">
+      <title>Collection of prayers and talismans</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - Africa, Sub-Saharan</genre>
+   <genre>Manuscripts, Arabic - Africa, West</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Africa</placeTerm>
+      </place>
+      <dateCreated>[between 18--? and 19--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="questionable">1999</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>181 leaves : paper ; 175 × 120 mm.</extent>
+   </physicalDescription>
+   <abstract>Gathering of loose leaves of Sub-Saharan provenance, containing prayers, invocations, description and use of talismans, amulets, and magic squares. The leaves are placed between
+      two pieces of animal skin, the top piece with hair (175 × 120 mm.)</abstract>
+   <note>Ms. leaves</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Physical description: Number of lines per page varies. European paper of several types and various size, including paper with "Tre Lune" watermark. Some leaves
+      are re-used pieces of paper, one with a list of goods purchased in English. Leaves at the beginning of the gathering are badly damaged by rodents and other animals or insects, with important
+      loss of text</note>
+   <note type="origin">From Sub-Saharan Africa</note>
+   <note type="incipit" script="Arab">Incipit of Text 1 (fol. 1a): بسم … وصلى الله على من لا نبر بعده قال يا الله مديتما دومج شاح معا</note>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Formulae, receipts, prescriptions</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <geographic>Africa, West</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <geographic>Africa, Sub-Saharan</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Charms</topic>
+      <geographic>Africa, West</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Talismans</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Third Series no. 471</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3s471.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5529233</recordOrigin>
+   </recordInfo>
+</mods>

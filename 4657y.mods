@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <title>Kitāb fī al-shuhūr al-rūmiyah. Mukhtaṣar al-hayʼah wa-al-mafātīḥ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary" supplied="yes">
+      <title>كتاب في الشهور الرومية. مختصر الهيئة والمفاتيح</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Waqf - Books - 18th century</genre>
+   <originInfo>
+      <dateCreated>14--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1400</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1499</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>82 leaves : paper, map ; 181 × 137 (137 × 102) mm. bound to 182 × 142 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of two texts on time reckoning and astronomical matters. Two dates are mentioned in the text as "hādhihi al-sanah allatī naḥnu fīhā": 607 H. (fol. 45a, l. 3) and
+      612 H. (fol. 69b, l. 5)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">14 lines per page. Written in medium small naskh in black ink, with use of red for headings and ornementation. The final letters of a line are often written in
+      the margin (see fol. 31a). Light cream glazed paper with laid (and chain?) lines visible. Fol. 31-40, 33-38, 35-36, and 44-47 darker (towards orange). The paper has been ruled with a sharp
+      tool (particularly visible on fol. 17b-20b). On fol. 65b-66a: Map. Incomplete at the beginning. Foliation in black ink using Arabic numerals (starts with 41 on fol. 1). Foliation in pencil
+      using Western numerals</note>
+   <note type="physicalDetails">Collation: Paper, fol. 81 ; 1-7¹⁰ 8¹⁰ (+1, fol. 81) ; catchword on the verso of each leaf</note>
+   <note type="contents">1. fol. 1a-41a: Kitāb fī al-shuhūr al-rūmīyah</note>
+   <note type="contents">2. fol. 41b-80a: Mukhtaṣar al-hayʼah wa-al-mafātīḥ fī ʻilm al-awqāt wa-al-maṣābīḥ lil-Sarrāj</note>
+   <note type="provenance">Waqf dated 1194 H. on the pastedown of the upper cover. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Dark brown leather over paper pasteboards with orange, green and brown marbled paper pasted on both covers. Leather over cloth for the spine. Paper pastedowns. Disbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Time measurements</topic>
+      <geographic>Arab countries</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geographical positions</topic>
+      <geographic>Arab countries</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Lunar eclipses</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Solar eclipses</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astrolabes</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astronomy, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Months</topic>
+      <genre>Nomenclature</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4983, 5025</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Mukhtaṣar al-hayāt wa-al-mafātīḥ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4657Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4657y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4746816</recordOrigin>
+   </recordInfo>
+</mods>

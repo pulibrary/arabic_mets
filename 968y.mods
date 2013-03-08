@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Rawḍat al-murīdīn</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب روضة المريدين</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn Yazdānyār</namePart>
+      <namePart type="given">Muḥammad ibn Ḥusayn</namePart>
+      <namePart type="date">11th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن يزدانيار</namePart>
+      <namePart type="given">محمد بن حسين</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1383</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 97, i leaves : paper ; 147 × 115 (105 × 85). bound to 150 × 130 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on the conduct of Sufis. The date of the author is uncertain, but according to internal elements, the composition of the treatise can be dated to the first quarter of the
+      5th/11th cent. (see Williams, J.A. Rawḍat al-murīdīn, 1958, p. v-vi ; Massignon, L. La passion d'…al-Ḥallāj, 1922, no. 228)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a). The title appears as "Rawḍat al-muridīn" in the preamble of the text (fol. 2b). The name of the author appears in the preamble of the
+      text</note>
+   <note type="physicalDetails">Physical description: 13 lines per page. Written in black ink with use of red. Thick soft dark cream paper, hardly translucid, with laid lines visible. Table of
+      contents on fol. 1b-2a. Foliation in black ink using Arabic numerals. According to this foliation, many folios are misplaced. Two modern foliations in pencil using Western numerals (this
+      record follows that on the lower margin). Worm-eaten; a few loose leaves</note>
+   <note type="origin">According to colophon, copy completed by Qāsim ibn Nāṣir ibn Salmān on 28 Rajab 785 [Sept. 26, 1383] (fol. 97a)</note>
+   <note type="provenance">Ownership statements and impression of a seal on fol. 1a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Paper pastedowns with inscriptions</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> قال الشيخ ابو جعفر محمد بن الحسين بن احمد بن يزدانيار رضى الله عنه الحمد لله رب العالمين حمدا يكون له رضا ولشكره ادا وصلى الله … اما بعد فقد سالنى بعض
+      الاخوان بان اجمع لهم فصولا فى معنى اداب الصوفية واحكامهم وطريقتهم … الباب الاول فى اداب الصوفية قال النبى صلى الله عليه وسلم ان الله تعالى ادبنى فاحسن تادبى</note>
+   <note type="explicit" script="Arab"> لا يشهد بتصوفه اثار المتقدمين من مشايخ التصوف كان من المدعين جعلنا الله من المهتدين المقتد-- [97أ] باثار السابقين من العلما العارفين والمتصوفة الواحدين
+      انه خير المنعمين وهو ارحم الراحمين تمت الكتاب</note>
+   <subject authority="lcsh">
+      <topic>Sufism</topic>
+      <topic>Doctrines</topic>
+      <temporal>11th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sufis</topic>
+      <topic>Conduct of life</topic>
+      <temporal>11th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sufis</topic>
+      <topic>Customs and practices</topic>
+      <temporal>11th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 2756</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Williams, John Alden. Rawḍat al-murīdīn. Shaykh Abu Jaʻfar ibn-Yazdānyār. Thesis (Ph.D.). Princeton University, 1958</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 968Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/968y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5393205</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb al-Daraj</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب الدرج</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn Shākir</namePart>
+      <namePart type="given">Aḥmad ibn Mūsá</namePart>
+      <namePart type="date">d. 873</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن شاكر</namePart>
+      <namePart type="given">احمد بن موسى</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="family">Ibn Shākir</namePart>
+      <namePart type="given">Ḥasan ibn Mūsá</namePart>
+      <namePart type="date">9th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart type="family">ابن شاكر</namePart>
+      <namePart type="given">حسن بن موسى</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="4">
+      <namePart type="family">Ibn Shākir</namePart>
+      <namePart type="given">Muḥammad ibn Mūsá</namePart>
+      <namePart type="date">d. 873</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="4">
+      <namePart type="family">ابن شاكر</namePart>
+      <namePart type="given">محمد بن موسى</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="5">
+      <namePart type="given">Saladin</namePart>
+      <namePart type="termsOfAddress">Sultan of Egypt and Syria</namePart>
+      <namePart type="date">1137-1193</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="5">
+      <namePart type="given">صلاح الدين</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 12th century</genre>
+   <genre>Illuminated title page - Islamic Empire - 12th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 12th century</genre>
+   <originInfo>
+      <dateCreated>[before 1193]</dateCreated>
+      <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate">1193</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>iv, 68, iv leaves : paper ; 170 × 120 (115 × 80) mm. bound to 175 × 130 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on astrology. The text proper ends on fol. 64a. It is followed by a short section written by the same hand, entitled: "Mā ughfila īrād khawāṣṣihi min al-kawākib".
+      The second text mentioned in the table of contents added by a later hand on fol. 1a, with the title "Kitāb al-Mukhtaṣar fī maʻrifat al-taqāwīm fī ʻilm al-falak li-baʻḍ al-fuḍalā",
+      does not appear in the copy, unless this refers to the short addition at the end of the text</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from illuminated title page (fol. 1bis(a))</note>
+   <note type="physicalDetails">Physical description: 13 lines per page. Written in medium small naskh in black ink with use of red for headings and entries. The text is vocalized. Dark cream
+      paper, hardly translucid, with pulp, chain and laid lines visible. Collation notes on the margin. Table of contents on fol. 1b. Erased inscription on fol. 75b. Fol.i-iv are modern fly-leaves,
+      contemporary with the modern binding. On the verso of the last modern upper cover fly-leaf is a pasted piece of paper with inscription in Arabic reading: "Sanah 595" (fol. iv(b)). Modern
+      foliation in pencil using Western numerals (omits the first folio; blank between fol. 17 and 18)</note>
+   <note type="physicalDetails">Decoration: Illuminated title page executed in gold and blue on fol. 1bis(a). Rectangular panel (400 × 850 mm.) bearing the title over a medallion (820 mm.) bearing the name of the patron
+      of the copy</note>
+   <note type="physicalDetails">Chiefly quinions</note>
+   <note type="origin">According to illuminated title page, copied for the library of "Mawlānā al-Sulṭān al-Malik al-Nāṣir Ṣalāḥ al-Dunyā wa-al-Dīn Abū al-Muẓaffar Yūsuf ibn al-Malik
+      al-ʻAzīz" (fol. 1bis(a))</note>
+   <note type="provenance">On fol.1a: Ownership statement in the name of al-Sayyid ʻAbd al-Ḥayy ibn al-Sayyid ʻAlī al-Ḥusaynī(?) al-Qudsī al-Shāfiʻī al-Shāmī (dated beginning of 1043
+      H. [1633]) ; three reading statements in the name of Aḥmad ibn ʻAbd al-Ḥayy al-Ḥusaynī(?) al-Qudsī, of ʻAlī ibn Aḥmad ibn Ibrāhīm al-Tadmurī (dated 1120 H. [1708 or 9]), of Ḥasan
+      al-Tadmurī. Acquired by Robert Garrett from Brill, Leyden, 1900</note>
+   <note type="bindingInfo">Modern quarter binding in marbled paper and red leather. An earlier binding consisting of blind tooled red leather over paper pasteboards is kept with the ms</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … رب اعن ان القدما من اهل اليونانية تسلموا اكثر علومهم النجومية من الهند</note>
+   <note type="explicit" script="Arab"> على كثرة المال بالكسب وهى رديه للبدايات تمت الدرج بحمد الله ما اُغفِل ايْراد خَواصه من الكواكب فى دَرْجَةٍ دَرْجَةٍ فانا عوّلنا فيه على مزاجه وطبعه …
+      [65ب] … وهذّبنا العبارة عنه من غري تغير لشى منه والله الموفق للصواب (واليه المرجع والمآب) تم الكتاب والحمد لله وحده ولى الله على خير خلقه (محمد وآله و) سلامه ه</note>
+   <subject authority="lcsh">
+      <topic>Astrology, Arab</topic>
+      <temporal>9th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 968</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Ullmann, M. Die Natur- und Geheimwissenschaften im Islam (1972), p. 315</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 217</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 501H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/501h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5557946</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <title>Rasāʼil</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" supplied="yes">
+      <title>رسائل</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">ʻAmīdī</namePart>
+      <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+      <namePart type="date">d. 1041 or 2</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">عميدي</namePart>
+      <namePart type="given">محمد بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 19th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1832</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>104 leaves : paper ; 210 × 135 (156 × 69) mm. bound to 214 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of letters in rhymed prose (sajʻ). See Mach, R. Yahuda, no. 4365 for the identification of the author as Abū Saʻīd (or Saʻd) al-ʻAmīdī and of the persons to whom the
+      letters are addressed, among them Abū al-Faraj Aḥmad ibn Muḥammad al-Qushūrī, Qarwash al-wazīr (d. 442 H.), ʻAmīd al-dawlah al-Ḥasan ibn Ṣāliḥ [al-Rūdhbārī]</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger, following R. Mach</note>
+   <note type="physicalDetails">28 lines per page. Written in small naskh in black ink with use of red and blue/grey (see fol. Db, l. 9, fol. 6a, l. 12-13). Glazed European paper with watermark
+      (Tre Lune). The paper has been ruled. On fol. Ab-Ba: Table of contents. On fol. Bb: Note to copyists on how to copy properly. On fol. Da: erased title and ownership statements with stamps.
+      On the last fol. (fol. 100b): prayer. The recto of the front fly-leaf (fol. Aa) and the verso of the back fly-leaf (fol. 100b) are painted in orange/red. Foliation in black ink using Arabic
+      numerals. Foliation in pencil using Western numerals (starting with fol. 1a on fol. 2). This record is in accordance with this foliation. Title in Arabic on a label pasted on the spine
+      (vertical)</note>
+   <note type="origin">Copied on 2 Ramaḍān 1247 (colophon, fol. 99b)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Red leather over paper pasteboards. Upper and lower covers are similarly blind tooled with a central mandorla with two pendants on the vertical axis and several frames
+      of fillets and a running s-shape pattern</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … الحمد لله رب العالمين والصلوة … وبعد فقد علقت كفي على هذه الرقاع</note>
+   <note type="explicit" script="Arab"> من بضايعهم الكواسد بقدرته وسلطانه وقهره وامتنائه</note>
+   <subject authority="lcsh">
+      <topic>Epistolary poetry, Arabic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Scribes</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sajʻ</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic prose literature</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4365</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4059Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4059y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4792335</recordOrigin>
+   </recordInfo>
+</mods>

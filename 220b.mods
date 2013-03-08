@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb jalīl fī ʻilm al-mūsīqā wa-ʻilm al-taʾlīf wa-al-khawāṣṣ min ʻulūm al-falsafah al-naẓarīyah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب جليل في علم الموسيقا وعلم التأليف والخواص من علوم الفلسفة النظرية</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">Fārābī</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart>فارابي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1461</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 104 leaves : paper ; 262 × 177 (177 × 117) mm. bound to 265 × 187 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on musical theory and musical instruments, in three parts. This copy does not contain the section on the construction of the ʻūd</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note>The title on the title page is by a later hand. There is no mention of a title for the entire work in the text itself</note>
+   <note type="physicalDetails">21 long lines per page. Written in medium small naskh in black ink with use of red for entries, headings and diagrams. Glazed paper with horizontal laid lines
+      visible ; frame-ruled (9 mm.). There are some collation notes and very few marginal notes. Catchwords on the verso of each leaf. Note on sound on fol. 104b. Foliation in black ink using
+      Arabic numerals in the upper right corner of the verso of each leaf. Modern foliation in pencil using Western numerals</note>
+   <note>Inscription on title page (fol. 1a): Note on content (number of leaves and quires, and titles of the main divisions of the text) corresponding to the foliation using Arabic numerals
+      mentioned in the physical description; mention of the number of the leaves missing in another note by a later hand. Some leaves are indeed missing as shown by the catchwords (see fol. 30b-31a)
+      and the missing numbers in the mentioned foliation</note>
+   <note>Notes in pencil on the margin of some pages refering to J. P. N. Land. Recherches sur l'histoire de la gamme arabe. Tiré du vol. II des Travaux de la 6e session du Congrès international
+      des Orientalistes à Leide. Leide: E:J: Brill, 1884</note>
+   <note type="origin">Copied on 14 Rabīʻ al-Awwal 866 by Aḥmad ibn Muḥammad Isḥāq [---?] (colophon, fol. 104a)</note>
+   <note type="contents">1. fol. 5a-29b: al-Madkhal fī ṣināʻat al-mūsīqā</note>
+   <note type="contents">2. fol. 30b-67b: Usṭuqsāt ʻilm al-taʾlīf</note>
+   <note type="contents">3. fol. 68a-104a: Taʾlīf al-alḥān</note>
+   <note type="provenance">Ownership statements on fol. 1a. Acquired from Brill, Leyden, 1925, from the books of Murād Bey Bārūdī (Beirut)</note>
+   <note type="bindingInfo">Upper and lower covers and envelope flap made of brown leather over pasteboards. The endcap and fore-edge flap have been repaired. The upper and lower covers have
+      a blind-stamped central scalloped medallion and an elaborate outer frame, formed of fillets and a running frame of palmettes. The inner corners of the frame are triangles demarcated by
+      fillets forming the inner edge of the frame, and contain each three impressions of a circular stamp with a flower motif. The envelope flap has a more dense blind-stamped decoration. The
+      block-pressed leather doublure is only visible on the envelope flap. Modern pastedowns and endpapers</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … رب يسر واعن ذكرت تشوفك للنظر فيما يشتمل عليه صناعة علم الموسيقا المنسوبه الى القدما وسالتني ان اثبته(؟) لك في كتاب اولفه</note>
+   <note type="explicit" script="Arab"> منها ما يستعمل في الامور التي هي جد ومنها ما شانها في دنياك و اخرتك والله اعلم بالصواب واليه المرجع والماب</note>
+   <subject authority="lcsh">
+      <topic>Music theory</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Musical instruments</topic>
+      <geographic>Arab countries</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1984</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Fārābī. Kitāb al-Mūsīqá al-kabīr. Ed. G. A. Khashaba. Cairo: Dār al-Kātib al-ʻArabī, p. 31-32</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Shiloah, A. The Theory of Music in Arabic writings (c. 900-1900) : descriptive catalogue of manuscripts in libraries of Europe and the U.S.A. Munchen: G. Henle Verlag, 1979, no. 057/6</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Farmer, H. G. The Sources of Arabic Music, no. 159</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 220B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/220b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4707756</recordOrigin>
+   </recordInfo>
+</mods>

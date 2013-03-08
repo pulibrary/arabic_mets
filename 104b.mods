@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes" usage="primary">
+      <title>Glosses on al-Shirwānī's commentary on Samarqandī's Risālah fī ādāb al-baḥth</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - Turkey - Istanbul - 16th century</genre>
+   <genre>Manuscripts, Arabic - 16th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Istanbul]</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1556</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>56, i leaves : paper ; 160 × 116 (105 × 42) mm. bound to 160 × 117 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection containing two glosses on al-Shirwānī's commentary on Samarqandī's Risālah fī ādāb al-baḥth</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">17 lines per page. Written in small but very clear naskh in black ink with use of red for "qāla" and "qawluhu", and to overline important words. In text no. 2,
+      notes on content written in red in the margin. European glazed paper with watermarks; fol. 9 [prev. 8] is a later replacement. Contains a few notes in the margin and some collation notes.
+      Modern foliation in pencil using Western numerals (starts on fol. 2; between fol. 35 and 38 [prev. 34 and 35], two fol. blank)</note>
+   <note type="physicalDetails">Collation: Paper, fol. 56 + i (modern endpaper) ; 1⁸ (+1, fol. 9) 2-3¹⁰ 4⁸ 5¹⁰ 6⁸ (+1, fol. 48) ; catchword on the verso of each leaf</note>
+   <note>Copied by al-Ḥājj Qāsim in Qusṭanṭinīyah in 963 (from colophons, fol. 34a and 56a)</note>
+   <note type="contents">1. fol. 1a-34a: Risālah ʻalá Mawlá al-ʻImād al-muḥashshī ʻalá Sharḥ al-Fāḍil Masʻūd al-Rūmī / Ibn Shujāʻ al-Dīn al-shahīr bi-Khazramah</note>
+   <note type="contents">2. fol. 34b-37b: [blank]</note>
+   <note type="contents">3. fol. 38a-56a: Risālah ʻalá Sharḥ al-fāḍil Masʻūd al-Rūmī / Jalāl al-Dīn [al-Dawwānī]</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1925, from the books of Murād Bey Bārūdī (Beirut)</note>
+   <note type="bindingInfo">Stiffened brown leather. Each cover has an outer ruled border made of three blind fillets; half of the upper cover is missing</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Logic, Medieval</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dialectic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 2139</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Āqḥisārī</namePart>
+         <namePart type="given">Luṭf Allāh ibn Ilyās</namePart>
+         <namePart type="date">15th/16th cent.</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥāshīyah ʻalá Ḥāshīyat al-ʻImād</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Dawwānī</namePart>
+         <namePart type="given">Muḥammad ibn Asʻad</namePart>
+         <namePart type="date">1426 or 7-1512 or 13</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥāshīyah ʻalá Sharḥ al-Shirwānī ʻalá Risālat Ādāb al-baḥth</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 104B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/104b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4821985</recordOrigin>
+   </recordInfo>
+</mods>

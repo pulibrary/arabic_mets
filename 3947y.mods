@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Qāʻidah fī al-ṣifāt wa-al-qadar</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>قاعدة في الصفات والقدر</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn Taymīyah</namePart>
+      <namePart type="given">Aḥmad ibn ʻAbd al-Ḥalīm</namePart>
+      <namePart type="date">1263-1328</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن تيمية</namePart>
+      <namePart type="given">احمد بن عبد الحليم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <originInfo>
+      <dateCreated>[1319 or 1320?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1319</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1320</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 65, i leaves : paper ; 183 × 135 (135 × 90) mm. bound to 180 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Same text as that published in Majmūʻ fatāwá Shaykh al-Islām Aḥmad ibn Taymīyah (1997), vol. 3, p. 1-128</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 2a)</note>
+   <note type="physicalDetails">Physical description: 17 lines per page. Written in medium small naskh in black ink with use of red. Cream paper, glossy, hardly translucid, with laid and chain
+      lines visible. Modern foliation in pencil using Western numerals (fol. 1 is a fly-leaf with inscription)</note>
+   <note>Collation: Paper, fol. i, 65, i ; i (fly-leaf; fol. 1 in the modern foliation) 1¹⁰ (-1 at beginning of quire) 2-6¹⁰ 7⁴ (+2 at beginning of quire) i (fly-leaf); the quires are numbered
+      using Arabic ordinals in the form: "Thālith al-Tadmurīyah" (see fol. 21a)</note>
+   <note>Inscription in Arabic script on a label pasted on the pastedown of the upper cover: "Raqm 364"</note>
+   <note type="origin">According to colophon, copied by Mūsá ibn ʻAbd Allāh al-Ḥalabī in …? [Mach reads 719] (fol. 66b)</note>
+   <note type="provenance">Ownership statement in the name of ʻUthmān al-Khaṭīb al-Dūmānī, dated 1209 H. on fol. 1a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Quarter bound with flap in green cloth and red leather. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الحمد لله نستعينه … اما بعد فقد سالنى من تعينت اجابتهم ان اكتب لهم مضمون ما سمعوه منى في بعض المجالس من الكلام فى التوحيد والصفات وفى الشرع والقدر لمسيس
+      الحاجة الى تحقيق هذين الاصلين وكثرة الاضطراب فيهما</note>
+   <subject authority="lcsh">
+      <topic>God (Islam)</topic>
+      <topic>Attributes</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Free will and determinism</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 2290</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SII, 121 (II.C.28)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 3947Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3947y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5366409</recordOrigin>
+   </recordInfo>
+</mods>

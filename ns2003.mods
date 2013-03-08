@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Rasāʾil-i Mullā Ṣadrā</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>رسايل ملا صدرا</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ṣadr al-Dīn Shīrāzī</namePart>
+      <namePart type="given">Muḥammad ibn Ibrāhīm</namePart>
+      <namePart type="date">d. 1641</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">صدر الدين شيرازي</namePart>
+      <namePart type="given">محمد بن ابراهيم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="family">Yazdī</namePart>
+      <namePart type="given">Muḥammad Bāqir Zayn al-ʻĀbidīn</namePart>
+      <namePart type="date">17th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart type="family">يزدي</namePart>
+      <namePart type="given">محمد باقر زين العابدين</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">scr</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <genre>Manuscripts, Arabic - Iran - Qazvīn - 17th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Qazvīn</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1625</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>103 leaves: paper ; 190 × 124 (122 × 72 and 112 × 72) mm. bound to 190 × 130 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of four short treatises by Mullā Ṣadrā Shīrāzī. This copy was written by Muḥammad Bāqir ibn Zayn al-ʻĀbidīn, a famous mathematician during the reign of Shāh
+      ʻAbbās II</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from inscription on fol. 1a</note>
+   <note type="physicalDetails">Physical description: 19 to 22 lines per page. The four treatises are written by the same hand, in a casual shikastah-nastaʻlīq in black ink with use of red.
+      Thin paper with laid lines visible, glossy, frame-ruled. Collation notes and a few marginal notes on some texts. Fol. 52-end appear to be darker. The ownership statement on fol. 52a and
+      the script suggest that this part of the volume might have been copied by another hand. On fol. 1a: several ownership statements, seals, and inscriptions in Persian; six-petal lotus in
+      two double ruled concentric circles, with inscriptions. On fol. 1b and 103b: verses in Persian</note>
+   <note>Chiefly quaternions. Catchword on the verso of most leaves</note>
+   <note type="origin">Copied in Qazwīn by Muḥammad Bāqir ibn Zayn al-ʻĀbidīn in Shaʻbān 1034 [May-June 1625] (colophons, fol. 8b, 37a, 51a, 102a; on fol. 1a, ownership statement adding "al-Yazdī")</note>
+   <note type="contents">1. fol. 2b-8b: [Short treatise]</note>
+   <note type="contents">2. fol. 9a: [Letter in Persian]</note>
+   <note type="contents">2. fol. 9b-37a: Iksīr al-ʻārifīn fī maʻrifat ṭarīq al-ḥaqq wa-al-yaqīn / Ṣadr al-Dīn Shīrāzī</note>
+   <note type="contents">3. fol. 38b-51a: [Ajwibat masāʾil al-Kāshānī] / Ṣadr al-Dīn Shīrāzī</note>
+   <note type="contents">4. fol. 52a-102a: Risālah fī ḥudūth al-ʻālam / Ṣadr al-Dīn Shīrāzī</note>
+   <note type="provenance">Ownership statement dated 1131 H. on the pastedown of the upper cover. Several ownership statements and impression of two seals on fol. 1a, including a statement in
+      the name of Muḥammad Bāqir ibn Zayn al-ʻĀbidīn al-Yazdī, the copyist; one in the name of Muḥammad Riḍā ; one in the name of Muḥammad Ḥusayn ibn Muḥammad Ṣāliḥ al-Ḥusaynī.
+      One of the seals is repeated on fol. 102a. Ownership statement in the name of Ibn Muḥammad Ibrāhīm, with impression of a seal on fol. 2b. Ownership statement in the name of Muḥammad
+      Bāqir ibn Zayn al-ʻĀbidīn on fol. 52a</note>
+   <note type="bindingInfo">Quarter bound in golden brown leather and marbled paper</note>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Creation (Islam)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Metaphysics</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 19, 338, 1074</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālah fī ḥudūth al-ʻālam</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Iksīr al-ʻārifīn</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ajwibat masāʾil al-Kāshānī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 2003</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns2003.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5534402</recordOrigin>
+   </recordInfo>
+</mods>

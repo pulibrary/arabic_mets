@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Bard al-akbād fī al-aʻdād ; Kitāb Tarjamat al-kātib fī ādāb al-ṣāḥib lil-Thaʻālibī. Kitāb Lawʻat al-shākī wa-damʻat al-bākī [lil-] Ṣafadī</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Thaʻālibī</namePart>
+      <namePart type="given">ʻAbd al-Malik ibn Muḥammad</namePart>
+      <namePart type="date">961 or 2-1037 or 8</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ثعالبي</namePart>
+      <namePart type="given">عبد الملك بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <!--<dateCreated>[1664-1668]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1664</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1668</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>111 leaves : paper ; 195 × 137 (133 × 70) mm. bound to 198 × 157 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts of Arabic literature</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">19 lines per page. Written in medium small naskh in black ink with use of red and green ink. European glazed paper with watermark. Mention in Arabic script on
+      the pastedown of the upper cover: "Sh 441" (repeated on a label pasted on the upper cover). Foliation in pencil using Western numerals</note>
+   <note>On fol. 1a: Table of contents by a later hand, mentioning a Risālat ʻibrat al-labīb by al-Ṣafadī which does not appear in the copy</note>
+   <note type="physicalDetails">Collation: Paper, fol. 111 ; 1-7¹⁰ 8⁶ 9² 10-12¹⁰ 13¹⁰ (+1, fol. 109) 14² ; catchword on the verso of each leaf</note>
+   <note type="contents">1. fol. 1b-30b: Bard al-akbād fī al-aʻdād / ʻAbd al-Malik ibn Muḥammad al-Thaʻālibī</note>
+   <note type="contents">2. fol. 31b-76a: Tarjamat al-kātib fī ādāb al-ṣāḥib / ʻAbd al-Malik ibn Muḥammad al-Thaʻālibī</note>
+   <note type="contents">3. fol. 77b-111b: Lawʻat al-shākī wa-damʻat al-bākī / Khalīl ibn Aybak al-Ṣafadī</note>
+   <note type="bindingInfo">Upper and lower covers and envelope flap of brown leather over paper pasteboard. Upper and lower covers are similarly blind-tooled with a central mandorla and an outer
+      frame made of fillets. The envelope flap has a similar frame and a mandorla on its pointe. Paper pastedowns</note>
+   <note type="acquisition">Gift; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <subject authority="lcsh">
+      <topic>Arabic literature</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sajʻ</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Erotic literature, Arabic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Homosexuality in literature</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4267, 4271, 4337</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Thaʻālibī</namePart>
+         <namePart type="given">ʻAbd al-Malik ibn Muḥammad</namePart>
+         <namePart type="date">961 or 2-1037 or 8</namePart>
+      </name>
+      <titleInfo>
+         <title>Tarjamat al-kātib fī ādāb al-ṣāḥib</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣafadī, Khalīl ibn Aybak, ‡d ca. 1297-1363</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="date"></namePart>
+      </name>
+      <titleInfo>
+         <title>Lawʻat al-shākī wa-damʻat al-bākī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4223Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4223y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4732989</recordOrigin>
+   </recordInfo>
+</mods>

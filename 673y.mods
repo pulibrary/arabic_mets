@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Lawāmiʻ al-taʻrīf fī maṭāliʻ al-taṣrīf … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Umawī</namePart>
+      <namePart type="given">Yaʻīsh ibn Ibrāhīm</namePart>
+      <namePart type="date">15th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">اموي</namePart>
+      <namePart type="given">يعيش بن ابراهيم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>[18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>62 leaves: paper, ill. ; 211 × 152 (145 × 95) mm. bound to 217 × 165 mm.</extent>
+   </physicalDescription>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">19 lines per page. Written in medium small naskh in black ink, with use of red and yellow. Tables and diagrams (see fol. 15b, in red, yellow and black). Glazed
+      laid paper with watermark. Table of contents by a later hand on the first flyleaf (fol. 1). Foliation in pencil using Western numerals (counting the first fly leaf as fol. 1)</note>
+   <note>Inscription in Arabic script on a label pasted on the upper cover: "Riyāḍiyāt 124"</note>
+   <note type="contents">1. fol. 2a-b: [Inscriptions ; recipes ; title "Kitāb lumʻat al-taʻrīf fī maʻná al-taṣārīf"]</note>
+   <note type="contents">2. fol. 3a-19b: Kanz al-asrār wa-dhakhīrat al-abrār / Hermes Trismegistus</note>
+   <note type="contents">3. fol. 19b-26b: Lawāwiʻ al-taʻrīf fī maṭāliʻ al-taṣrīf / Yaʻīsh ibn ʻAbd Allāh al-Andalūsī [Yaʻīsh ibn Ibrāhīm al-Umawī]</note>
+   <note type="contents">4. fol. 27a-48b: Kitāb al-Qaṣr / Ibn Sabʻīn</note>
+   <note type="contents">5. fol. 48b-61b: Sharḥ Junnat al-asmāʼ / Abū Ḥāmid al-Ghazzālī</note>
+   <note type="contents">6. fol. 61b-62b: [Inscriptions ; recipes ; title "Kitāb Ḥajj? Aḥmad ibn Burhān"]</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Upper and lower covers and envelope flap made of brown leather over paper pasteboards. The upper and lower covers are similarly blind tooled with a central mandorla
+      linked by a vertical and an horizontal single fillet to the outer frame, consisting of two double-fillets. The envelope flap has the same outer frame with a blind-tooled stamp on its pointe.
+      Yellow paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">ʻAlī ibn Abī Ṭālib</namePart>
+         <namePart type="termsOfAddress">Caliph</namePart>
+         <namePart type="date">ca. 600-661</namePart>
+      </name>
+      <titleInfo>
+         <title>Junnat al-asmāʾ</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic alphabet</topic>
+      <topic>Symbolic aspects</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 5173, 5181, 5197, 5199</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Ghazzālī</namePart>
+         <namePart type="date">1058-1111</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Junnat al-asmāʼ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn Sabʻīn</namePart>
+         <namePart type="given">ʻAbd al-Ḥaqq ibn Ibrāhīm</namePart>
+         <namePart type="date">1216 or 17-1270</namePart>
+      </name>
+      <titleInfo>
+         <title>Kitāb al-Qaṣr</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Hermes</namePart>
+         <namePart type="termsOfAddress">Trismegistus</namePart>
+      </name>
+      <titleInfo>
+         <title>Kanz al-asrār wa-dhakhīrat al-abrār</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 673Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/673y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4791284</recordOrigin>
+   </recordInfo>
+</mods>

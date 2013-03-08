@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Ḥall al-rumūz wa-mafātīḥ al-kunūz. Taʻlīm al-mutaʻallim ṭarīq al-taʻallum … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Ibn Ghānim</namePart>
+      <namePart type="given">ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad</namePart>
+      <namePart type="date">d. 1279?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ابن غانم</namePart>
+      <namePart type="given">عز الدين عبد السلام بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Manuscripts, Arabic - Egypt - Cairo - 15th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Cairo</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1468</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1495</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>109 leaves : paper ; 183 × 135 mm. bound to 185 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several texts on religious matters, written by different hands. At the end of the copy, two inscriptions, the first dated 23 Dhū al-Qaʻdah 884, mentioning Abū al-Faḍl
+      ʻAbd al-Raḥīm Muḥammad ibn Muḥammad ibn Muḥammad ibn Muḥammad ibn Aḥmad ibn al-Muʻizz al-Awḥāfī(?) al-Shāfiʻī (fol. 108b)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Physical description: Number of lines per page varies (18 to 25). Written in small naskh in black ink with use of red by several hands. Similar paper throughout
+      the copy: thick soft cream paper, glossy, some leaves with laid and chain lines visible. Rhymed prayer attributed to al-Badr ibn Raḍī al-Dīn al-Ghazzī on the pastedown of the upper
+      cover. Handmade label pasted on the upper cover, with a table of contents in Arabic script. A few loose leaves</note>
+   <note>Inscription in Arabic script on a label pasted on the upper cover: "SH 129"</note>
+   <note type="contents">1. fol. 1a-2b: Duʻāʾ mubārak</note>
+   <note type="contents">2. fol. 3a-4a: [Several short excerpts and inscriptions, including verses of poetry]</note>
+   <note type="contents">3. fol. 4a-53a: Ḥall al-rumūz wa-mafātīḥ al-kunūz / [Ibn Ghānim al-Maqdisī]. -- Mach, R. Yahuda, no. 2765</note>
+   <note type="contents">4. fol. 53b-55b: [Several inscriptions and short texts, mainly versified prayers, some attributed to Jalāl al-Dīn Muḥammad ibn al-Balkhī, Muḥyī al-Dīn al-ʻArabī,
+      etc.]</note>
+   <note type="contents">5. fol. 56a-65b: Taʻlīm al-mutaʻallim ṭarīq al-taʻallum / [Burhān al-Dīn al-Zarnūjī]. -- Mach, R. Yahuda, no. 7</note>
+   <note type="contents">6. fol. 66a-69a: [Several inscriptions and short texts, one attributed to ʻAlī ibn Abī Ṭālib, one mentioning al-Shaykh ʻAbd al-Ghanī al-Nābulūsī, etc.]</note>
+   <note type="contents">7. fol. 69b-71b: al-Aḥādīth al-arbaʻūn al-nabawīyah / Rukn al-Dīn Abū Muḥammad ʻAbd al-ʻAẓīm ibn ʻAbd al-ʻAzīz ibn ʻAbd allāh al-Mundhirī. -- Mach, R. Yahuda,
+      no. 706, with title: Arbaʻūn ḥadīthan fī faḍl iṣṭināʻ al-maʻrūf lil-muslimīn</note>
+   <note type="contents">8. fol. 71bis(a-b): [Short texts, one entitled al-Muwākalah, the other Amthāl Aktham ibn Ṣayfī wa Burzujmahr al-Fārisī]</note>
+   <note type="contents">9. fol. 72a-107b: Kitāb Baḥr al-kalām fī uṣūl al-Dīn / Abū al-Muʻīn [Maymūn ibn Muḥammad] al-Nasafī. -- Mach, R. Yahuda, no. 2221</note>
+   <note type="contents">10. fol. 108a-b: Shakwá al-ḥāl qurb al-irtiḥāl [qaṣīdah]</note>
+   <note type="origin">Text 1 written by Maḥmūd ibn Makkīyah(?) (fol. 2b); Text 3 written by Muḥammad Zayn al-ʻĀbidīn ibn ʻAlī ibn al-…? al-Shāfiʻī al-Azharī, who completed his copy on
+      17 …? 874 [1469 or 70] (fol. 53a); Text 5 copied by Muḥammad ibn Muḥammad ibn Muḥammad al-Ḥusaynī al-ḤṢBNī? al-Shāfiʻī, on Monday 10 Dhū al-Qaʻdah 873 [May 22, 1469] (fol.
+      65b); Text 7 copied by the same on Thursday 12 Dhū al-Qaʻdah 783 (fol. 71b); Text 9 copied by the same on Monday 7 Dhū al-Ḥijjah 872 [June 28, 1468] in al-Qāhirah [Cairo] in the Qubbat
+      al-Aqbughā, near the Jāmiʻ al-Azhar (fol. 107b); Text 10 (or …?) copied in 900 H. [1494 or 5] (fol. 108b)</note>
+   <note type="provenance">Several ownership statements on fol. 1a, including one in the name of Muṣṭafá Ibn al-marḥūm al-shaykh Muḥammad Ṣādiq al-ʻUmrī (al-ʻAmrī?), dated 22 Muḥarram
+      1296 [Jan. 16, 1879] ; and one in the name of Muḥammad Saʻūdī al-ʻUmrī (al-ʻAmrī?). Several ownership statements on fol. 4a, including one in the name of Rajab ibn Muḥammad known
+      as Jaddī (repeated on fol. 72a); one in the name of Muḥammad Ṣādiq ibn Muḥammad ibn al-Kharrāṭ, dated end of Muḥarram 1111 [July 1699], with mention of price; one in the name of
+      Sayyid Muḥammad ibn shaykh Sulaymān. Several reading statements, one in the name of Muṣṭafá al-ʻUmrī (al-ʻAmrī?) al-Ḥanafī al-Dimashqī, dated 1296 H. [1879] (fol. 1a); one on
+      fol. 4a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards for upper and lower covers. Blind-tooled. Embossed leather doublure (covered by paper on the upper cover). Crude repairs</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">Incipit of Duʻāʾ (fol. 1a): الحمد لله رب العالمين الحمد لله على كل نعمه ونسأل الله من كل خير ونعوذ بالله من كل شر ونستغفر الله من كل ذنب</note>
+   <note type="incipit" script="Arab">Incipit of poetry (fol. 3b): متى يطلق القلب الاسير من الحبس ويصفو الى الوقت المكدر بالنفس</note>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <topic>Texts</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic learning and scholarship</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 7, 706, 2221, 2765</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Zarnūjī</namePart>
+         <namePart type="given">Burhān al-Dīn</namePart>
+         <namePart type="date">12th/13th cent</namePart>
+      </name>
+      <titleInfo script="Latn">
+         <title>Taʻlīm al-mutaʻallim ṭarīq al-taʻallum</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Mundhirī</namePart>
+         <namePart type="given">ʻAbd al-ʻAẓīm ibn ʻAbd al-Qawī</namePart>
+         <namePart type="date">1185-1258</namePart>
+      </name>
+      <titleInfo script="Latn">
+         <title>Arbaʻūn ḥadīthan fī faḍl iṣṭināʻ al-maʻrūf lil-Muslimīn</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Nasafī</namePart>
+         <namePart type="given">Maymūn ibn Muḥammad</namePart>
+         <namePart type="date">d. 1115</namePart>
+      </name>
+      <titleInfo script="Latn">
+         <title>Baḥr al-kalām</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4333Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4333y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5328902</recordOrigin>
+   </recordInfo>
+</mods>

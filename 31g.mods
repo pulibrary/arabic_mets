@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <nonSort>al-</nonSort>
+      <title>Qurʾān</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary" supplied="yes">
+      <title>القرآن</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 16th century.</genre>
+   <genre>Illuminated manuscripts - Iran</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Iran?]</placeTerm>
+      </place>
+      <dateCreated>[between 15--? and 16--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1500</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1699</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 324, ii leaves: paper ; 484 × 328 (303 × 188) mm.</extent>
+   </physicalDescription>
+   <abstract>Illuminated copy of the Qurʾān. The text is followed by a prayer to be recited on concluding a reading of the Qurʾān (fol. 322a, beginning wanting), and by a short treatise on
+      how to use the Qurʾān for divination, in Persian (fol. 322b-324a)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">12 lines per page. Main text written in naskh in black ink, with reading marks in red. The sūrah headings are written in white thulth. Light
+      cream paper ; glossy. Lacuna after fol. 321b</note>
+   <note>Chiefly quaternions</note>
+   <note type="physicalDetails">Decoration: Extensive illumination in gold and colors on fol. 1b-2a and 2b-3a, the latter bearing the text of the Fātiḥah. Illuminated headpiece on fol. 3b.
+      The text on fol. 3b-4a is set in clouds over a gold ground with fragmentary arabesque in colors. The same decoration appears on fol. 147b-148a, with the addition of a large illuminated
+      border. Text areas are framed in orange-red, green, gold, black, and blue rules. Sūrah headings are set in illuminated panels of two distinct types. Verses are separated by gold stars
+      within circles. Groups of five and ten verses are marked in the margins by ornaments, without inscription. Ḥizb and juzʾ are indicated in blue on the margins. On a few leaves, inscription
+      in praise of the reading of the Qurʾān or of portions of it are written in small panels set at the outer edge of the frame (see fol. 3b-4a ; 12b-13a). The prayer and short treatise at
+      the end of the copy are set within decorated panels surrounded by a large border (fol. 322a-324a). Gold-leaf edges</note>
+   <note type="origin">According to the end of the copy, copied by Shams al-Dīn ʻAbd Allāh (fol. 324a)</note>
+   <note type="provenance">Waqf seal on fol. 18b, 21a, 26a, etc., in the name of Shaykh al-Islām Walī al-Dīn Afandī Ibn al-marḥūm Ḥājj Muṣṭafá Āghā Ibn al-marḥūm Ḥājj Ḥusayn
+      Āghā, dated 1175 H. [1761 or 2] (probably identical with Valiuddin Efendi mentioned in Sıcıll-ı ʻos̲mānī, vol. IV, p. 614). Acquired by Robert Garrett from the books of Murād Bey al-Bārūdī
+      (Beirut), 1925</note>
+   <note type="bindingInfo">Rebound by preservation office. According to Hitti, previously bound in leather with flap</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Waqf</topic>
+      <topic>Books</topic>
+      <topic>History</topic>
+      <temporal>18th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1159</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 31G</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/31g.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5518133</recordOrigin>
+   </recordInfo>
+</mods>

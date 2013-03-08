@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb al-Fuṣūl</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب الفصول</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Rāzī</namePart>
+      <namePart type="given">Abū Bakr Muḥammad ibn Zakarīyā</namePart>
+      <namePart type="date">865?-925?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart>رازي</namePart>
+      <namePart type="given">ابو بكر محمد بن زكريا</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1282</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>88, i leaves: paper ; 205 × 140 (135 × 85) mm. bound to 210 × 145 mm.</extent>
+   </physicalDescription>
+   <abstract>Aphorisms on medicine. The edition by Albert Zakī Iskandar (1961) does not use this manuscript</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">Physical description: 13 lines per page. Written in medium large naskh in black ink with use of red. Headings in red ink. Occasional marginal annotations. Light
+      cream-biscuit paper, with laid lines visible ; frame-ruled. Reading statements on the margins throughout ("balaghtu qirāʾatan"). Several inscriptions on fol. 1a, including ownership statements.
+      Pagination in pencil using Arabic numerals (starts with "3" on fol. 2a). According to the numbering of the quires, some leaves are apparently misplaced ; leaves missing between fol. 29
+      and 30 ; a few leaves disbound. Water stains on the margins. Worm-eaten. Extremely fragile</note>
+   <note>Some quires (mainly quinions) are numbered in black ink using Arabic ordinals (see sā[disah] on fol. 39a; sābiʻah on fol. 49a; khām[isah] (!) on fol. 58a; thāminah on 61a; tāsiʻ[ah]
+      on fol. 71a; ʻāsh[irah] on fol. 81a)</note>
+   <note>Inscription (partly erased) on the margin of the colophon, mentioning a Shihāb al-Dīn, dated -86? (fol. 88b)</note>
+   <note type="origin">According to colophon, copy completed on 9 Safar 681 [May 19, 1282] (fol. 88b)</note>
+   <note type="provenance">Ownership statements on fol. 1a, including one in the name of ʻAbd al-Wahhāb ibn Sharaf ; one in the name of SQRṬūn (or SQʻRṬūn) Aḥmad. The same name appears
+      in a note on the margin of fol. 22a and 38a, in the form "Darwīsh Aḥmad al-…(?) SQRṬūn". Ownership statement on the upper margin of fol. 2b in the name of Ghānim al-Bayṭār. The
+      same name appears in an ownership statement on the margin of the colophon (fol. 88b). Acquired from Murād Bey al-Bārūdī, Beirut, 1925</note>
+   <note type="bindingInfo">Golden-brown leather over paper pasteboards for upper and lower covers, fore-edge flap and envelope flap. The covers are similarly blind tooled and stamped with a
+      border consisting of fillets defining a panel with a central lozenge stamp with impression of a floral stamp on each side on the vertical axis. Impression of the same stamp in each corner
+      of the panel. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> قال ابو بكر محمد بن زكريا الرازي دعاني ما وجدت عليه فصول بقراط من الاختلاط وعدم النظم والتقصير به عن ذكري جوامع الطبّ كلّها مع ما مال اليه علمه من سهوله
+      تعلق علم الفصول بالنفس الى ان اذكر جوامع الصناعة وعلمها على طريق الفصول … فصول في الاسطقسات [2أ] الاسطقسات هي الاشيا المفردات</note>
+   <note type="explicit" script="Arab"> قد ذكرنا الكثير ممّا حضرنا من جمل صناعة الطبّ وجوامعه وفيما ذكرنا من ذلك وارشدنا اليه كفاية وبلاغ ولواهب العقل الحمد بلا نهاية كما هو اهله تم الكتاب بحمد
+      الله وعونه</note>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+      <temporal>9th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+      <temporal>10th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Hippocrates</namePart>
+      </name>
+      <titleInfo>
+         <title>Aphorisms</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1076</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Sezgin, F. GAS, III, 284</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Ullmann, M. Die Medizin, p. 134</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Kitāb al-Murshid aw al-Fuṣūl maʻa nuṣūṣ ṭibbīyah mukhtārah li-Abī Bakr … al-Rāzī. Taqdīm wa-taḥqīq … Albīr Zakī Iskandar, Majallat Maʻhad al-makhṭūṭāt al-ʻArabīyah
+         (Revue de l'Institut des manuscrits arabes), 7.1 (May 1961), 3-125</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 243B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/243b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5307875</recordOrigin>
+   </recordInfo>
+</mods>

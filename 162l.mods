@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Hadīyat al-muhtadī fī ʻilm al-handasah wa-al-masāḥah wa-ramy al-khamīrah wa-ḥafr al-lughm</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>هدية المهتدي في علم الهندسة والمساحة ورمي الخميرة وحفر اللغم</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Muhtadī</namePart>
+      <namePart type="given">ʻUthmān</namePart>
+      <namePart type="date">16th or 18th cent.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated>[18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>170 leaves : paper, ill. ; 236 × 163 (150 × 80) mm. bound to 235 × 168 mm.</extent>
+   </physicalDescription>
+   <abstract>Manual with illustrations on geometry, the throwing of missiles and the planting of mines, written by an interpreter in the Castle of Bulghār in 960 H. / 1553 (the 9 of 960 is overwritten
+      by a later hand). In a ms. in Dār al-Kutub (Cairo), this text is presented as a translation from French and another European language, and the date associated with the name is 1160 H.
+      / 1747 (see D. King, Survey, H43). For a description of the content, see D. King, Fihris, Pt II, 6/4/48</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note type="physicalDetails">21 long lines per page. Diagrams and figures in the margin. Written in medium large naskh in black ink with use of red; black ink and pencil for the illustrations.
+      European glazed paper with watermark. Pagination in pencil using Arabic numerals between brackets in the middle of the upper margin. Foliation in pencil using Western numerals</note>
+   <note>Collation: Paper ; fol. 170 ; 17¹⁰ ; the quires are numbered using the abbreviation "k" and Arabic numerals ; catchword on the verso of each leaf</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1904, from the books of Amīn ibn Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers made of paper on paper pasteboards. Rebacked. Disbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الحمد لله الذي علم للانسان ما لم يعلم والصلاة والسلام على محمد الذي هو مدينى العلم والحكم وعلى اله واصحابه الذين هم كالنجوم في الظلم وبعد فلما رايت بعض
+      الرسالات الهندسية صنفها المتقدمون</note>
+   <note type="explicit" script="Arab"> والغاما كبيرة تحت بروجه اي بروج العدو لرميها وافادها وامثال ذلك وليكون هذا القدر كافيا لافادة غرضنا في ترتيب هذه الرسالة وقد وقع فيها تطويل وتكرير واظهار
+      كثير في موقع … الواقف بها تحقيقها من غير تبديل المقال بالمآل وهو غاية رجاي وهذا من فضل ربي وهو هداني الى سبيله وقد تمت هذه النسخة</note>
+   <subject authority="lcsh">
+      <topic>Military fireworks</topic>
+      <geographic>Islamic countries</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geometry</topic>
+      <geographic>Islamic countries</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1056</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, S N II, 665</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>King, D. Survey (1986), H43</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>King, D. Fihris (1981-1986), Part II, 6/4/48</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 162L</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/162l.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4730366</recordOrigin>
+   </recordInfo>
+</mods>

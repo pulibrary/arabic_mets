@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Sharḥ al-ʻarshīyah … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Iṣfahānī</namePart>
+      <namePart type="given">Muḥammad Ismāʻīl ibn al-Sumayʻ</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">اصفهاني</namePart>
+      <namePart type="given">محمد اسماعيل بن السميع</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 20th century</genre>
+   <originInfo>
+      <dateCreated>[19--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1999</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 362,i leaves : paper ; 214 × 170 (156 × 104) mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of three treatises</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">16 long lines per page. Written in shikastah nastaʻlīq in black ink with use of red. Light cream glazed wove paper. Frame-ruled. Catchword on the verso of each
+      leaf. On fol. 1a: Table of contents ; ownership statement dated Ramaḍān 1360 ; no. "371" in Arabic script (repeated on a label pasted on the upper cover). Title on the fore-edge of the
+      text block. Foliation in pencil using Western numerals</note>
+   <note type="contents">1. fol. 3b-92b: Sharḥ al-ʻarshīyah / Mullā Ismāʻīl Iṣfahānī [Muḥammad Ismāʻīl ibn al-Sumayʻ al-Iṣfahānī]</note>
+   <note type="contents">2. fol. 95b-356b: Sharḥ Ḥikmat al-ishrāq / Mullā Ṣadrā [Muḥammad ibn Ibrāhīm Ṣadr al-Dīn Shīrāzī, d. 1641]</note>
+   <note type="contents">3. fol. 357a-361a: al-Maqālah al-ʻUjālah fī al-qaws wa-al-hālah / Abū Muḥammad Saʻd Allāh [Muḥammad Saʻd Allāh]</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards, with on the upper and lower covers a blind-tooled outer frame consisting of two double fillets. Marbled-paper pastedown and fly
+      leaf. Fol. 361b gold sprinkled</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣadr al-Dīn Shīrāzī</namePart>
+         <namePart type="given">Muḥammad ibn Ibrāhīm</namePart>
+         <namePart type="date">d. 1641</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Ḥikmah al-ʻarshīyah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Suhrawardī</namePart>
+         <namePart type="given">Yaḥyá ibn Ḥabash</namePart>
+         <namePart type="date">1152 or 3-1191</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥikmat al-ishrāq</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Quṭb al-Shīrāzī</namePart>
+         <namePart type="given">Maḥmūd ibn Masʻūd</namePart>
+         <namePart type="date">1236 or 7-1310 or 11</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Ḥkmat al-ishrāq</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <geographic>Iran</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shīʻah</topic>
+      <topic>Doctrines</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ishrāqīyah</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Rainbow</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 307, 312, 664</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣadr al-Dīn Shīrāzī</namePart>
+         <namePart type="given">Muḥammad ibn Ibrāhīm</namePart>
+         <namePart type="date">d. 1641</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ Ḥikmat al-ishrāq</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Muḥammad Saʻd Allāh</namePart>
+         <namePart type="termsOfAddress">al-Muftī</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Maqālah al-ʻUjālah fī al-qaws wa-al-hālah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 34</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns34.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4790656</recordOrigin>
+   </recordInfo>
+</mods>

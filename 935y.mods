@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <nonSort>al-</nonSort>
+      <title>Mukhṭār min Rawḍ al-azhār lil-shaykh Ṣalāḥ al-Dīn al-Kutubī Kitāb al-Ḥuṣn al-ṣarīḥ fī miʼat malīḥ</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Kutubī</namePart>
+      <namePart type="given">Muḥammad ibn Shākir</namePart>
+      <namePart type="date">d. 1363</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">كتبي</namePart>
+      <namePart type="given">محمد بن شاكر</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - Turkey - Malaṭyah - 14th century</genre>
+   <genre>Manuscripts, Arabic - Turkey - Malaṭyah - 15th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Malaṭyah</placeTerm>
+      </place>
+      <!--<dateCreated>[1371-1452]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1371</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1452</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>84 leaves: paper ; 163 × 125 (120-125 x 93-98) mm. bound to 168 × 136 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of two compilations of verses of poetry</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">On fol. 1a-3a: Short verses of poetry; title (al-Mukhṭār); ownership statements; reading statements. On fol. 59a-b: Inscriptions and short texts. On fol. 60a:
+      Title page (al-Ḥuṣn al-ṣarīḥ); ownership statements. On fol. 84b: Several inscriptions. Fol. 1-2 are later fly-leaves (glazed (European?) paper). Foliation in pencil using Western
+      numerals</note>
+   <note type="contents">1. fol. 1b-58b: al-Mukhṭār min Rawḍ al-azhār lil-shaykh Ṣalāḥ al-Dīn al-Kutubī</note>
+   <note type="contents">2. fol. 60a-84a: Kitāb al-Ḥuṣn al-ṣarīḥ fī miʼat malīḥ / [Khalīl ibn Aybak al-Ṣafadī]</note>
+   <note type="origin">According to the colophons, the first text was copied in Shaʻbān 856 (fol. 58b) and the second text in Malaṭyah in Rabīʻ al-Awwal 773 by Ḥamīd ibn Maḥmūd ibn Aḥmad al-Khwārizmī
+      (fol. 83a)</note>
+   <note type="provenance">Ownership statements and reading statements on fol. 1a-3a, 60a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Arabic poetry</topic>
+      <genre>14th century</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4245, 4247</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṣafadī</namePart>
+         <namePart type="given">Khalīl ibn Aybak</namePart>
+         <namePart type="date">ca. 1297-1363</namePart>
+      </name>
+      <titleInfo script="Latn">
+         <title>Ḥusn al-ṣarīḥ fī miʼat malīḥ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 935Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/935y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4793746</recordOrigin>
+   </recordInfo>
+</mods>

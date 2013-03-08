@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" usage="primary" supplied="yes">
+      <title>Treatise on charms and talismans</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <genre>Manuscripts, Arabic - Iran - 15th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Iran?]</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1483</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>26 leaves : paper, ill. ; 245 × 177 (170 × 125) mm. bound to 270 × 180 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on charms and talismans using verses of the Qurʾān, incomplete at the beginning</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">21 long lines per page. Written in black ink with use of red mainly for diagrams and charts. Marginal notes in a later hand; catchwords on the verso of each leaf.
+      Thick oriental glazed paper; no chain line visible; thick vertical laid line visible. The pages have been trimmed so that parts of the marginalia and catchwords are cut off. Modern foliation
+      in pencil using Western numerals. Excellent condition. The edges of the final leaf have been repaired (with loss of text of a later note)</note>
+   <note>Contains magic script (fol. 26b) and a long note on the campaigns of Shāh Sulṭān Ḥusayn (fol. 26b)</note>
+   <note type="origin">Copied by Ḥājjī ibn Jamāl al-Kātib al-Kāshī on 17 Rajab 888 (colophon, fol. 26b)</note>
+   <note type="bindingInfo">Brown stiffened leather</note>
+   <note type="acquisition">Purchase; Sam Fogg; 2006; AM2006-94</note>
+   <note type="incipit" script="Arab"> في سقف جديد في الماء فانه يغور من حينه ووقته ويطرد لمن احسن عمله في كل وقت \\</note>
+   <note type="explicit" script="Arab"> والامتزاج السابع ترسم في اليد في ساعة المشترى ويدخل على من يخافه فانه يامن شره ومقضى حواجه خ ك ع لا ط ى وهذا اخر ما وجدنا من كلام الشيخ في هذا المعنى وكذلك
+      التقديم والتاخير في السورة والايات فكذلك وجدناه في الاصل المنقول منه النسخة ومكتوب عليها نظيرهذه الاشارة فليعلم ذلك</note>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Talismans</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>Use</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Third Series no. 591</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3s591.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4634473</recordOrigin>
+   </recordInfo>
+</mods>

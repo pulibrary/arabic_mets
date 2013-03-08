@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb al-Majisṭī</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب المجسطي</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Farghānī</namePart>
+      <namePart type="date">fl. 861</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">فرغاني</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1658</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>116 leaves : paper ; 147 × 104 (103 × 68) mm. bound to 147 × 115 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on astronomy in thirty chapters. The volume also contains portions of a work on astronomy by Kushyār ibn Labbān (Maqālah 3, bāb 9-11 and 3)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note>The name of the author appears in the opening of the text as Aḥmad ibn Muḥammad ibn Kathīr al-Farghānī (fol. 2b)</note>
+   <note>The title also appears on the lower edge (hardly legible)</note>
+   <note type="physicalDetails">11 long lines per page. Written in medium small naskh in black ink, with red for headings, numbers and overlining. Glazed European paper with watermark. A few
+      corrections in the margin. On fol. 1a: inscription "L135 (Ga.II.29)". On the pastedown on the upper cover: Arabic number "139"</note>
+   <note>Collation: Paper, fol. 116 ; 1¹⁰ (-1 with no loss of text) 2-11¹⁰ 12⁶ (+1) ; quires numbered using Arabic numerals (quire 3 and 4 only, fol. 20a and 30a) ; catchword on the verso of
+      each leaf</note>
+   <note type="origin">Copied by Khalīl ibn Aḥmad al-Tūnisī in 22 Dhū al-Ḥijjah 1068 (colophon, fol. 116b, with the seal of the copyist)</note>
+   <note type="contents">1. fol. 2a-96a : Kitāb al-Majisṭī / Farghānī</note>
+   <note type="contents">2. fol. 96b-116b : [Excerpts from al-Zīj al-jāmiʻ] / Kūshyār, d. ca. 961 (Maqālah 3, Bāb 9 : Fī ʻilm al-hayʾah ; Bāb 10 : Fī al-ṭarīq ilá masāḥat al-arḍ
+      ; Bāb 11 : Fī maqādīr al-abʻād wa-al-ajrām ; Bāb 3 : Fī ṣifat azmān mā bayna al-kusūfāt)</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1904</note>
+   <note type="bindingInfo">Covers and envelope flap made of brown leather over paper pasteboards. The covers are similarly decorated, with a central blind-stamped mandorla and a border of two
+      double blind fillets. The envelope flap has the same border and a blind stamped roundel on the point. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">بسم … هذا كتاب الفه احمد بن محمد بن كثير الفرغاني الحاسب في جوامع علم النجوم واصول الهيئةِ وحركات الاشخاص السماوية وهي ثلاثون فصلا الفصل الاول
+      في سني العرب و العجم … الفصل الثاني في ان السماء</note>
+   <note type="explicit" script="Arab">والاخر في الناحية الجنوبية فقد بينا من كشوف الشمس والقمر ما فيه كفاية ان شآء الله تعالي تم الكتاب</note>
+   <subject authority="lcsh">
+      <topic>Astronomy, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 967</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, GI, 221/1</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 393/1</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Sezgin, GAS, 150/1</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 135L</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/135l.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4706293</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb Targhīb al-rāʾiḍ fī ʻilm al-farāʾiḍ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب ترغيب الرائض في علم الفرائض</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn al-Hāʾim</namePart>
+      <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+      <namePart type="date">d. 1412</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن الهائم</namePart>
+      <namePart type="given">احمد بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Manuscripts, Arabic - Palestine - Jerusalem - 14th century</genre>
+   <genre>Autographs (manuscripts) - Palestine - Jerusalem - 14th century</genre>
+   <genre>Waqf - Books</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Jerusalem</placeTerm>
+      </place>
+      <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="inferred">1398</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>109 leaves : paper ; 180 × 137 (126 × 97) mm. bound to 185 × 153 mm.</extent>
+   </physicalDescription>
+   <abstract>Autograph copy of a treatise on the laws of inheritance, comprising an introduction defining the science of inheritance, five chapters and a conclusion</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note>The title also appears in the beginning of the text (fol. 1b, l. 14), and the name of the author in the colophon (fol. 107b)</note>
+   <note type="physicalDetails">17 long lines per page. Written in black ink with some use of red for headings and for the punctuation in the passages in rhymed prose (see fol. 1b, 14a). Light
+      cream paper with horizontal laid lines visible. Vertical chain lines visible on some leaves. Some passages have been crossed out (see fol. 54b, 76b-77a). Very few notes in the margin (see
+      fol. 49b). Several inscriptions on fol. 109b. Inscription "503" on the upper cover (corresponding to Brill's catalogue). Modern foliation in pencil using Western numerals</note>
+   <note>Collation: Paper ; fol. 109 ; 1⁸2¹⁰ (+1, f. 9) 3¹⁰ 4-11¹⁰ ; quires numbered using Arabic ordinals (starts on fol. 60a, "sābiʻah" ; traces on fol. 40a, partly cut off) ; catchword on
+      the verso of each leaf</note>
+   <note type="origin">Autograph, Jerusalem ("al-Quds al-sharīf") on 29 Jumādá al-Ākhirah 800 H. [March 1398] (colophon, fol. 107b)</note>
+   <note type="provenance">Several ownership statements on fol. 1a, the earliest dated legible reading Dhū al-Ḥijjah 911 H. [April-May 1506]. Waqf statement on fol. 108b-109a, signed Muḥammad
+      ibn ʻAbd Allāh al-Ḥanafī […] al-Dayrī, mentioning the author as still living. Reading statement on fol. 107b-108a (signed ʻAlī ibn al-Ḥasan from Sarmīn) and fol. 109a (signed al-Mamlūk
+      ʻAbd al-Raḥmān ibn Muḥammad ibn Ismaʻīl ibn al-Qalqashandī). Acquired from Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers made of marbled paper pasted on brown leather over pasteboards. Blue thread (to attach a now missing envelope flap?). Inscription on the pastedown
+      of the lower cover (originally upper cover). Disbound. The binding has been placed up side down at a time earlier than the inscription "503" mentioned in the physical description</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … رب … برحمتك الحمد لله الذى جعل العلم اخلق ما تخلق به مخلوق وانفس ما تنافس به المتنافسون … اما بعد فالغرض في هذا الكتاب بيان فضل علم الفرايض
+      وبيان فضل</note>
+   <note type="explicit" script="Arab"> وقد كانت كل امة تجرى من دلك على عادتها وكانت العرب فى جاهليتها يتوارثون بالحلت(؟) وال[…] كما يتوارثون بالانسان طلبا للتواصل به انتهى فهذا اخر ما يسر
+      الله تعالى ايراده في هذا الكتاب ولله الحمد اولا واخرا ظاهرا وباطنا سبحانك … الحمد لله الذى هدانا لهذا وما كنا لنهتدى لو لا ان هدانا الله وصلي الله على سيدنا محمد خير خلقه واله وصحبته
+      وسلم</note>
+   <subject authority="lcsh">
+      <topic>Inheritance and succession (Islamic law)</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1876</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, II, 125/4</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SII, 155/4</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 924H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/924h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4707990</recordOrigin>
+   </recordInfo>
+</mods>

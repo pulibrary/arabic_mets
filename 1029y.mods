@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Maṣāriʻ al-muṣāriʻ. Kitāb Uthūlūjiyā Arisṭūṭālīs … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart>Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart>طوسي، نصير الدين محمد بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1621</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>196, i leaves : paper ; 192 × 122 (110-130 × 55-70) mm. bound to 194 × 132 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of five texts on arithmetics, language and philosophy</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">6 to 19 lines per page. Written in naskh and nastaʻlīq in black ink. Fol. 1-14: light cream paper with laid and chain lines visible. From fol. 15 on: light cream
+      paper with laid lines visible. Several inscriptions on fol 196a. Foliation in pencil using Western numerals</note>
+   <note type="origin">Text 4 copied on 17 Rabīʻ al-Thānī 1030 (colophon, fol. 108a) ; text 5 copied on 14 Ṣafar 1030 (colophon, fol. 195a)</note>
+   <note type="provenance">Seal on fol. 7b, 108a and 195a (with ownership statements). Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="contents">1. fol. 1b-7b: [Treatise on arithmetics]</note>
+   <note type="contents">2. fol. 8b-12b: Risālat al-waḍʻ / ʻAḍud al-Dīn al-Ījī</note>
+   <note type="contents">3. fol. 13a-14a: [Risālah fī taḥqīq maʻná al-ḥarf] / [Jurjānī]</note>
+   <note type="contents">4. fol. 16b-108a: Maṣāriʻ al-muṣāriʻ / Naṣīr al-Dīn al-Ṭūsī</note>
+   <note type="contents">5. fol. 111a-195a: Kitāb Uthūlūjiyā / Arisṭūṭālīs</note>
+   <note type="bindingInfo">Upper and lower covers, fore-edge flap and envelope flap made of light brown leather over pasteboards. Outer frame with a chain running pattern. Marbled paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mathematics, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Philosophy, Ancient</topic>
+      <topic>Translations into Arabic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 2990, 3034, 3421, 4842</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf, 1340-1413</namePart>
+      </name>
+      <titleInfo>
+         <title>Taḥqīq maʻná al-ḥarf</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad, d. 1355?</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālat al-waḍʻ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>[Treatise on arithmetics]</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Kitāb Uthūlūjiyā Arisṭāṭālīs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1029Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1029y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4795081</recordOrigin>
+   </recordInfo>
+</mods>

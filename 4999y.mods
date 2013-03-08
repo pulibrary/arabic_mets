@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Sunan; Kitāb al-Marāsil … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="given">Abū Dāʼūd Sulaymān ibn al-Ashʻath al-Sijistānī</namePart>
+      <namePart type="date">817 or 18-889</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="given">ابو داود سليمان بن الاشعث السجستاني</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 12th century</genre>
+   <originInfo>
+      <!-- <dateCreated>[119-?]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1190</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1199</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>iii, 243, iii leaves : paper ; 265 × 190 (205 × 137) mm. bound to 273 × 203 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of ḥadīths and letters by Abū Dāʼūd Sulaymān al-Sijistānī</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">41 lines per page. Written in Maghribī(?) script in black ink with larger script for headings. Glazed light cream paper with horizontal laid lines visible. Collation
+      notes. Marginal notes. Some pages are carefully mended. Title on the lower edge of the text block (hardly egible). Catchword on the verso of each leaf. Foliation in pencil using Western
+      numerals</note>
+   <note type="origin">In the colophon of Text 1 (fol. 222a), it is stated that the copy was completed on Friday 25 Ramaḍān 589. The only other date in the ms. is 1241 H., the date
+      of a collation by Aḥmad ibn Saʻīd (fol. 222a)</note>
+   <note type="contents">1. fol. 1a: [Table of contents of the ms.]</note>
+   <note type="contents">2. fol. 1b- 222a: Sunan / Abū Dāʼūd al-Sijistānī</note>
+   <note type="contents">3. fol. 222b-223a: Risālah / Abū Dāʼūd al-Sijistānī</note>
+   <note type="contents">4. fol. 224a-238b: Kitāb al-Marāsil / Abū Dāʼūd al-Sijistānī</note>
+   <note type="contents">5. fol. 239a-243b: Tasmiyat shuyūkh Abī Dāʼūd … al-Sijistānī / [al-Ḥusayn ibn Muḥammad al-Jayyānī]</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Lower and upper covers and envelope flap made of brown leather with a similar blind and gold tooled decoration, with a central roundel and an elaborate outer frame
+      made of several fillets and running patterns. Rebound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Abū Dāʼūd Sulaymān ibn al-Ashʻath al-Sijistānī</namePart>
+         <namePart type="date">817 or 18-889</namePart>
+      </name>
+      <titleInfo>
+         <title>Sunan</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Criticism, interpretation, etc.</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Texts</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <topic>Authorities</topic>
+      <genre>Biography</genre>
+      <genre>Dictionaries</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith scholars</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Biography</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Muslim scholars</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Biography</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 596, 597, 755, 4646</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Manṣūr, Ziyād M. (ed.). Tasmīyat shuyūkh Abī Dāwūd (2004), Juzʼ 1, p. 68-71</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Abū Dāʼūd Sulaymān ibn al-Ashʻath al-Sijistānī</namePart>
+         <namePart type="date">817 or 18-889</namePart>
+      </name>
+      <titleInfo>
+         <title>Marāsil</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Abū Dāʼūd Sulaymān ibn al-Ashʻath al-Sijistānī</namePart>
+         <namePart type="date">817 or 18-889</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālat Abī Dāʼūd Sulaymān ibn al-Ashʻath al-Sijistānī rawāhā Abū Jaʻfar Aḥmad ibn ʻĪsá ibn Māhān al-Hamadānī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jayyānī</namePart>
+         <namePart type="given">al-Ḥusayn ibn Muḥammad</namePart>
+         <namePart type="date">1035-1105?</namePart>
+      </name>
+      <titleInfo>
+         <title>Tasmiyat shuyūkh Abī Dāʼūd Sulaymān ibn al-Ashʻath al-Sijistānī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4999Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4999y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4803861</recordOrigin>
+   </recordInfo>
+</mods>

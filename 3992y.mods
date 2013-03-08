@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <nonSort>al-</nonSort>
+      <title>Mūjiz al-ḥāwī li-taḥrīr al-fatāwī … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Ibn Fahd</namePart>
+      <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+      <namePart type="date">1356 or 7-1437 or 8</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ابن فهد</namePart>
+      <namePart type="given">احمد بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1419</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>166 leaves : paper ; 175 × 135 (112 × 82) mm. bound to 173 × 148 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several treatises on Shīʻī law</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">19 lines per page. Written in small naskh in black ink with use of red (with three dots underneath sīn). Catchword on the verso of each leaf. Light cream paper
+      with laid and chain lines visible. Seal on fol. 9b. Foliation in pencil using Western numerals</note>
+   <note type="origin">According to the colophon of Text 2, copied by Muḥammad ibn Abī Ṭālib ibn Ḥasan ibn Muḥammad ibn Rajab in Ramaḍān 822 (fol. 117b)</note>
+   <note type="provenance">Ownership statement dated 1323 H. on fol. 61a and 130a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Limp binding. Brown leather. Paper pastedowns</note>
+   <note type="contents">1. fol. 1b-60b: al-Mūjiz al-ḥāwī li-taḥrīr al-fatāwī / Aḥmad ibn Muḥammad ibn Fahd (d. 1437 or 8)</note>
+   <note type="contents">2. fol. 61b-117b: al-Muqaddimah al-farʻīyah fī fiqh al-Imāmīyah / Ibrāhīm ibn Layth al-Husaynī</note>
+   <note type="contents">3. fol. 118b-129b: [Ḥāshiyah ʻalá Ghāyat al-ijāzah li-Ibn Fahd al-Ḥillī]</note>
+   <note type="contents">4. fol. 130a-165b: Kitāb al-Jumal wa-al-ʻuqūd / Muḥammad ibn al-Ḥasan al-Ṭūsī (d. 1067?)</note>
+   <note type="contents">5. fol. 165b-166b: Ghāyat al-ījāz li-khāʼif al-iʻwāz / Aḥmad ibn Muḥammad ibn Fahd (d. 1437 or 8)</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn Fahd</namePart>
+         <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+         <namePart type="date">1356 or 7-1437 or 8</namePart>
+      </name>
+      <titleInfo>
+         <title>Ghāyat al-ijāzah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fatwas</topic>
+      <topic>Methodology</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shīʻah</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shiites</topic>
+      <topic>Customs and practices</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 1571, 1704, 1706, 1711</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ḥusaynī</namePart>
+         <namePart type="given">Ibrāhīm ibn Layth</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Muqaddimah al-farʻīyah fī fiqh al-Imāmīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṭūsī</namePart>
+         <namePart type="given">Muḥammad ibn al-Ḥasan</namePart>
+         <namePart type="date">995-1067?</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Jumal wa-al-ʻuqūd</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn Fahd</namePart>
+         <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+         <namePart type="date">1356 or 7-1437 or 8</namePart>
+      </name>
+      <titleInfo>
+         <title>Ghāyat al-ījāz li-khāʼif al-iʻwāz</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ḥāshiyah ʻalá Ghāyat al-ijāzah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 3992Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3992y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4861404</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ota" altRepGroup="1" supplied="yes">
+      <title>Menazil ül-hac</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ota" altRepGroup="1" supplied="yes" usage="primary">
+      <title>منازل الحج</title>
+   </titleInfo>
+   <genre>Manuscripts, Turkish - 18th century</genre>
+   <genre>Headpieces (Layout features) - Islamic countries - 18th century</genre>
+   <originInfo>
+      <dateCreated>[17--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1799</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ota</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 37, ii leaves : paper ; 184 × 118 (124 × 74) mm. bound to 192 × 124 mm.</extent>
+   </physicalDescription>
+   
+   <abstract>An elegant copy of a travel guidebook for pilgrims to Mekka. Starting in the Balkans, it includes information on various stops on the way and places to visit there, as well as a
+      practical guide for the pilgrimage itself</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by the cataloger from a modern inscription in pencil on the inside of upper cover</note>
+   <note type="physicalDetails">13 lines per page. Written in a medium-sized naskh in black ink with use of red ink and gold circles and foliage motifs for rubrication. The text is written inside
+      a gold leaf frame outlined in black ink, with sections also separated with lines in gold leaf. Fol. 1b has an illuminated headpiece in embossed gold leaf with blue, pink and yellow watercolors.
+      Catchwords on the verso of each leaf. Glazed European paper. Some water damage towards the end of the ms</note>
+   <note type="bindingInfo">New half leather binding with cream marbled paper on covers and red leather on spine and cover corners. Endleaves in cream paper</note>
+   <note type="incipit" script="Arab"> منزل ككيوزه ساعت 5 قصبهء ككيزه غلط مشهور اولوب اصلى كپك پازى ايمش قصبهء مزبوره ده ايكى جامع شريف وار</note>
+   <note type="explicit" script="Arab"> عفو اولنه تمت بو قدرجه عقلمز ايرديكى قدرجه نحرير اولندى قصوريمز</note>
+   <subject authority="lcsh">
+      <topic>Muslim pilgrims and pilgrimages</topic>
+      <geographic>Saudi Arabia</geographic>
+      <geographic>Mecca</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Balkan Peninsula</geographic>
+      <topic>Description and travel</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Turkey</geographic>
+      <topic>Description and travel</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Mecca (Saudi Arabia)</geographic>
+      <topic>Description and travel</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Medina (Saudi Arabia)</geographic>
+      <topic>Description and travel</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Turkish</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Third Series no. 238</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3s238.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5333333</recordOrigin>
+   </recordInfo>
+</mods>

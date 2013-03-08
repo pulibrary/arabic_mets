@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Arbaʻīnīyāt</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>اربعينيات</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Qummī</namePart>
+      <namePart type="given">Muḥammad ibn Mufīd</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">قمي</namePart>
+      <namePart type="given">محمد بن مفيد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <genre>Manuscripts, Arabic - Iran - Iṣfahān - 18th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Iṣfahān</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1791</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 154, ii leaves : paper ; 213 × 157 (135 × 92) mm. bound to 215 × 170 mm.</extent>
+   </physicalDescription>
+   <abstract>A collection of ten treatises on various subjects compiled by the author, Saʻīd Qummī (d. ca. 1102/1690), with a preface</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from rubric on fol. 1b</note>
+   <note type="physicalDetails">Physical description: 15 lines per page. Written in medium small naskh in black ink with use of red for headings and entries. Wove paper. At the beginning and
+      the end of the copy are two fly-leaves of another type of wove paper. Table of contents on fol. (ii)b. Note on fol. (i)a mentioning that the Sharḥ Ḥadīth al-Ghamāmah by the author was
+      seen as Risālah 11 in 1391 H. Note on fol. (ii)a, mentioning that the copy of the mentioned Risālah 11 moved to a private library. First folio torn in half</note>
+   <note type="contents">1. fol. 1b-3a: [Preface]. -- Mach, R. and E. Ormsby. Handlist, no. 55a</note>
+   <note type="contents">2. fol. 3a-11a: al-Risālah al-ūlá wa-hiya Risālat rūḥ al-ṣalāh lil-hadiyah ilá ḥaḍrat al-ustādh fī al-ʻulūm al-ilāhīyah mawlānā Muḥammad Muḥsin aʻlá
+      Allāh darajatah. -- Mach, R. and E. Ormsby. Handlist, no. 55j</note>
+   <note type="contents">3. fol. 11b-16b: al-Risālah al-thāniyah fī ḥaqīqat al-ikhtilāf al-wāqiʻ fī al-qirāʼāt al-sabʻ ishāratan wa-bishāratan [completed in Iṣfahān, 1098 H.]. --
+      Mach, R. and E. Ormsby. Handlist, no. 55f</note>
+   <note type="contents">4. fol. 17a-42b: al-Risālah al-thālithah Fawāʾid Riḍāwīyah ʻalá al-mansūb ilayhi alf thanāʼ wa-alf taḥiyah [completed on 14 Rabīʻ I 1099]. -- Mach, R. and
+      E. Ormsby. Handlist, no. 55d</note>
+   <note type="contents">5. fol. 42b-66a: al-Risālah al-rābiʻah wa-hiya al-musammāh bi-Mirqāt al-asrār fī bayān rabṭ al-ḥādith bi-al-qadīm wa-ḥudūth al-ʻālam [completed in Qum,
+      10 Dhū al-Qaʻdah 1084, at the age of 35]. -- Mach, R. and E. Ormsby. Handlist, no. 55h</note>
+   <note type="contents">6. fol. 66b-72a: al-Risālah al-khāmisah wa-hiya Risālat al-nafaḥāt al-ilāhīyah wa-al-khawāṭir al-ilhāmīyah [completed in Muḥarram 1084]. -- Mach, R. and E.
+      Ormsby. Handlist, no. 55i</note>
+   <note type="contents">7. fol. 72b-83a: al-Risālah al-sādisah Risālat al-anwār al-qudsīyah fī taḥqīq al-hayūlá wa-al-ṣūrah wa-al-nafs wa-fawāʼid ākhar [completed in Iṣfahān,
+      1099 H.]. -- Mach, R. and E. Ormsby. Handlist, no. 55b</note>
+   <note type="contents">8. fol. 83b-90a: al-Risālah al-sābiʻah Risālat al-maqṣad al-asná fī taḥqīq māhīyat al-ḥarakah wa-wujūdihā [completed in iṣfahān, Jumādá II 1089]. --
+      Mach, R. and E. Ormsby. Handlist, no. 55g</note>
+   <note type="contents">9. fol. 90b-99b: al-Risālah al-thāminah Risālat al-ḥadīqah al-wardīyah fī al-sawāniḥ al-miʻrājīyah [completed Iṣfahān, 19 Jumādá II 1099]. -- Mach, R.
+      and E. Ormsby. Handlist, no. 55e</note>
+   <note type="contents">10. fol. 99b-102a: al-Risālah al-tāsiʻah Tarjamat Risālat ustādhinā al-ḥakīm al-ilāhī mawlānā RajabʻAlī wa-la-nusammahā bi-al-Burhān al-qāṭiʻ wa-al-nūr
+      al-sāṭiʻ (Tarjamat Risālat Rajab ʻAlī [Tabrīzī]) [completed 3 Muḥarram 1100]. -- Mach, R. and E. Ormsby. Handlist, no. 55c</note>
+   <note type="contents">11. fol. 102b-152b: al-Risālah al-ʻāshirah Risālat al-ṭalāʾiʻ wa-al-bawāriq fī taḥqīq anna li-kull ḥaqīqah min al-ḥaqāʻiq al-imkānīyah ṣūrah wa-anna
+      aḥsanahā al-ṣūrah al-insānīyah. -- Mach, R. and E. Ormsby. Handlist, no. 55k</note>
+   <note type="origin"> According to colophon, copied by al-Tabrīzī(?) Muḥammad, known as Muḥsin, in the middle of Ṣafar 1206 [1791] in Dār al-Ṣalṭanah Iṣfahān, on his way back from Khurasān
+      (fol. 152b). A later date might however be considered</note>
+   <note type="incipit" script="Arab"> بسم الله الرحمن الرحيم وبه الاستعانة فى التتميم الحمد لمن لا يحوم حول مشرع غيوبه ومهم شهوده … [2ب] … وبعد فالعبد الملتجى الى عتبة ارباب التوحيد محمد
+      المدعو بسعيد يقول انى عند ارتياضى فى اربعين</note>
+   <subject authority="lcsh">
+      <topic>Shiʻah</topic>
+      <topic>Doctrines</topic>
+      <topic>History</topic>
+      <temporal>17th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic Philosophy</topic>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic Philosophy</topic>
+      <geographic>Iran</geographic>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Movement (Philosophy)</topic>
+      <topic>Islamic philosophy</topic>
+      <temporal>17th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Creation (Islam)</topic>
+      <topic>History of doctrines</topic>
+      <temporal>17th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prayer (Islam)</topic>
+      <topic>History of doctrines</topic>
+      <temporal>17th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 55-55k</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Rūḥ al-ṣalāh</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ishārāt wa-al-bishārāt</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Fawāʾid al-Riḍāwīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Mirqāt al-asrār fī bayān rabṭ al-ḥādith bi-al-qadīm wa-ḥudūth al-ʻālam</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Nafaḥāt al-ilāhīyah wa-al-khawāṭir al-ilhāmīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Anwār al-qudsīyah fī taḥqīq al-hayūlá wa-al-ṣūrah wa-al-nafs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Maqṣad al-asná fī taḥqīq māhīyat al-ḥarakah wa-wujūdihā</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ḥadīqah al-wardīyah fī al-sawāniḥ al-miʻrājīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+
+      <titleInfo>
+         <title>Burhān al-qāṭiʻ wa-al-nūr al-sāṭiʻ</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 1888</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns1888.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5416862</recordOrigin>
+   </recordInfo>
+</mods>

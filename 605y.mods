@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <title>Risālah fī al-mabādiʼ allatī bihā qiwām al-ajsām wa-al-aʻrāḍ … etc.</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" supplied="yes">
+      <title>رسالة في المبادئ التي بها قوام الاجسام والاعراض</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">Fārābī</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="given">فارابي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1642</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 156, i leaves : paper ; 190 × 125 (116 × 70) mm. bound to 194 × 130 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts on philosophy and kalām</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">14 lines per page. Written in medium small nastaʻlīq in black ink with use of red. Dark cream paper with pulp and laid lines visible. Catchword on the verso of
+      each leaf. Table of contents on fol. 1a. Several inscriptions on the first fly-leaf (fol. (i)a), with one ownership statement, the inscription "Raqm 41" in Arabic script and the inscription
+      "98" in Roman script</note>
+   <note type="origin">Copied by Muḥammad Mahdī ibn Muḥammad Amīn (colophon text 1, fol. 51a) in 1052 H. (colophon text 2, fol. 65b), Shaʻbān 1052 H. (colophon text 3, fol. 91b), end of Shaʻbān 1052
+      (colophon text 16, fol. 153a)</note>
+   <note type="contents">1. fol. 1b-51a: Risālah li-Abī Naṣr al-Fārābī fī al-mabādiʼ / Fārābī.</note>
+   <note type="contents">2. fol. 51a-65b: Min Taʻlīqāt Abī Naṣr al-Fārābī / Fārābī</note>
+   <note type="contents">3. fol. 65b-91b: Maqālah li-Abī Naṣr al-Fārābī fī al-jamʻ bayna al-raʼyayn alladhayna humā li-Arisṭūṭālīs wa-Aflāṭūn al-ilāhī / Fārābī</note>
+   <note type="contents">4. fol. 91b-99a: Maqālah fī al-ʻaql / lil-Ḥakīm al-fāḍil al-kāmil Abī Naṣr al-Fārābī</note>
+   <note type="contents">5. fol. 99b-102a: Risālah fī bayān aghrād mā baʻda al-ṭabīʻah / lil-Ḥakīm al-fāḍil Abī Naṣr al-Fārābī</note>
+   <note type="contents">6. fol. 102b-113b: Risālah lil-Shaykh al-Raʼīs Abī ʻAlī al-Ḥusayn ibn ʻAbd Allāh Sīnā fī taʻrīf raʼy al-muḥaṣṣal alladhī khatamat bihi ruʼyat al-aqdamīn fī jawhar al-ajsām al-samāwīyah wa-al-ʻibārah ʻan madhhabihim al-muḥaqqah ʻindahum bi-miqdār iṭṭilāʻihi ʻalá maʼkhadhatihim / Ibn Sīnā</note>
+   <note type="contents">7. fol. 114a: [Several short excerpts on Aristoteles, philosophy and medicine]</note>
+   <note type="contents">8. fol. 114b-118b: Mukhtaṣar Kitāb al-faylasūf Arisṭūṭālīs wa-huwa sabʻah abwāb [fī al-nafs] / Aristoteles</note>
+   <note type="contents">9. fol. 118b-121a: Maqālah li-Iskandar al-Afrīdūsī fī al-ʻaql ʻalá raʼy al-ḥakīm Arisṭūṭālīs / Alexander of Aphrodisias</note>
+   <note type="contents">10. fol. 121a-127b: Maqālah li-Iskandar al-Afrīdūsī  fī al-qawl ʻalá mabādiʼ al-kull ʻalá raʼy Arisṭāṭālīs / Alexander of Aphrodisias</note>
+   <note type="contents">11. fol. 127b-130b: Maqālat Abī Sulaymān al-Sijzī fī anna al-ajrām al-ʻulwīyah dhawāt nafs nāṭiqah / Muḥammad al-Sijistānī</note>
+   <note type="contents">12. fol. 130b-133b: Maqālat Abī Sulaymān Muḥammad ibn Ṭāhir al-Sijistānī fī al-muḥarrik al-awwal / Muḥammad al-Sijistānī</note>
+   <note type="contents">13. fol. 134a-135a: Maqālah min kalām Arisṭūṭālīs fī al-ruʼyā / Aristoteles</note>
+   <note type="contents">14. fol. 135a-140b: Masāʼil ṭabīʻīyah li-Arisṭūṭālīs al-faylasūf wa-hiya al-musammāt Mā bālu / Aristoteles</note>
+   <note type="contents">15. fol. 141a-143a: Ādāb Arisṭāṭālīs katabahā fī ṣaḥīfah wa-kāna yuʻallimuhā al-Iskandar / Aristoteles</note>
+   <note type="contents">16. fol. 143b-153a: Maqālah Abī Sulaymān Muḥammad ibn Ṭāhir ibn Bahrām al-Sijzī fī al-kamāl al-khāṣṣ bi-nawʻ al-insān / Muḥammad al-Sijistānī. [fol. 145b: Blank]</note>
+   <note type="contents">17. fol. 153a-155a: Risālah ʻan baʻḍ al-ḥukamāʼ fī al-ajwibah ʻan hādhihi al-masāʼil [only one question on the nature of fire, and its answer]</note>
+   <note type="contents">18. fol. 155a-b: Taʻlīq ʻan al-Shaykh Abī al-Faraj ibn al-Ṭayyib / Abū al-Faraj</note>
+   <note type="bindingInfo">Golden brown leather over pasteboards for upper and lower covers. Both covers are similarly blind-tooled with fillets and small circular stamps</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 2477, 2986, 2987, 2992, 2993, 2997, 2998, 2999, 3000, 3001, 3003, 3004, 3005, 3019, 3022, 3154</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Muʼallafāt al-Fārābī (1975), no. 10, 37, 89</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Essai de bibliographie avicennienne (1950), no. 53</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Philosophy in the Renaissance of Islam (1986), no. 1, 2, 3, 4</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Fārābī</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title>Taʻlīqāt. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title>Ajrām al-ʻulwīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Aristotle</namePart>
+      </name>
+      <titleInfo>
+         <title>De anima. Arabic. Abridgments</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Aristotle</namePart>
+      </name>
+      <titleInfo>
+         <title>Fī al-ruʼyā. Arabic. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Alexander</namePart>
+         <namePart type="termsOfAddress">of Aphrodisias</namePart>
+      </name>
+      <titleInfo>
+         <title>De intellectu. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Alexander</namePart>
+         <namePart type="termsOfAddress">of Aphrodisias</namePart>
+      </name>
+      <titleInfo>
+         <title>Mabādiʼ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sijistānī</namePart>
+         <namePart type="given">Muḥammad ibn Ṭāhir</namePart>
+         <namePart type="date">10th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Abū al-Faraj ʻAbd Allāh ibn al-Ṭayyib</namePart>
+         <namePart type="date">d. 1043</namePart>
+      </name>
+      <titleInfo>
+         <title>Taʻlīq</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 605Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/605y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4946713</recordOrigin>
+   </recordInfo>
+</mods>

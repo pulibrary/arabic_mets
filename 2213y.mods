@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+      <nonSort>al-</nonSort>
+      <title>Jamʻ bayna al-Ṣaḥīḥayn</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" supplied="yes">
+      <title>الجمع بين الصحيحين</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ḥumaydī</namePart>
+      <namePart type="given">Muḥammad ibn Fattūḥ</namePart>
+      <namePart type="date">d. 1095</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">حميدي</namePart>
+      <namePart type="given">محمد بن فتوح</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <originInfo>
+      <dateCreated>[12--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1200</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1299</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>138 leaves : paper ; 260 × 180 (177 × 120) mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of traditions, compiled from the Ṣaḥīḥ of Muslim and al-Bukhārī. Incomplete at the beginning and the end</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger (following R. Mach, Yahuda)</note>
+   <note>The name of the author appears in the numbering of the quires as al-Ḥumaydī (see fol. 117a)</note>
+   <note>The copy begins with the last ḥadīths transmitted through Ibn ʻUmar, followed by the ḥadīths transmitted through Abū Ḥamzah (fol. 1a). It comprises the ḥadīths transmitted through
+      ʻAbd Allāh ibn ʻAbbās (see fol. 59a), Abū ʻAbd al-Raḥmān ʻAbd Allāh ibn ʻUmar ibn al-Khaṭṭāb (fol. 70b), and the ḥadīths transmitted by Muslim through Companions of the Prophet
+      such as ʻAbd al-Muṭallib ibn Rabīʻah (fol. 136a)</note>
+   <note type="physicalDetails">17 lines per page. Written in medium small naskh in black ink ; headings in a larger script. The text is vocalized. Light cream paper with laid lines visible (chain
+      lines hardly visible on some leaves). Collation notes. Audition statements on some folio (see fol. 92b, 105b, 117b, 125b). Audition and collation statement signed by ʻAlī ibn Aḥmad al-Yūnīnī
+      (fol. 1b and 119b; collated with a copy read in front of Ibn al-Ṣalāḥ). Some leaves are missing (see between fol. 8-9, 16-17, 24-25, 26-27, 36-37, 43-44, 45-46, 47-48, 50-51, 54-55,
+      59-60, 63-64, 70-71, 80-81, 86-87, 115-116, 125-126, 126-127). The quires are numbered in the form "al-rābiʻah ʻashrah min al-thānī min al-Ḥumaydī", see fol. 117a). Catchword on the
+      verso of each leaf. Foliation in pencil using Western numerals</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Unbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> هذا واطوعنا بعده اللهمّ انت الصاحب فى السفر والخليفة فى الاهل اللهمّ اى أعوذ بك من وعثاء السفر</note>
+   <note type="explicit" script="Arab"> وكانت عليك حُلّة وعليه حلّة فمسح رأسى وقال اللهمّ بارك فيه يا بن</note>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Texts</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 594</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 338 (3/3)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 578 (3/3)</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bukhārī</namePart>
+         <namePart type="given">Muḥammad ibn Ismāʻīl</namePart>
+         <namePart type="date">810-870</namePart>
+      </name>
+      <titleInfo>
+         <title>Jāmiʻ al-ṣaḥīḥ. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Muslim ibn al-Ḥajjāj al-Qushayrī</namePart>
+         <namePart type="date">ca. 821-875</namePart>
+      </name>
+      <titleInfo>
+         <title>Jāmiʻ al-ṣaḥīḥ. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 2213Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/2213y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4733523</recordOrigin>
+   </recordInfo>
+</mods>

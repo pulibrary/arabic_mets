@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Shams al-maʻārif wa-laṭāʾif al-ʻawārif</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>شمس المعارف ولطائف العوارف</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Būnī</namePart>
+      <namePart type="given">Aḥmad ibn ʻAlī</namePart>
+      <namePart type="date">d. 1225</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart>بوني</namePart>
+      <namePart type="given">احمد بن علي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1468</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>133 leaves : paper, ill. ; 179 × 132 (115 × 90) mm. bound to 182 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Short recension of an encyclopaedia of occult sciences, with tables, magical squares and talismans, divided into unnumbered chapters (faṣl). Several lacunae</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from colophon (fol. 132a)</note>
+   <note type="physicalDetails">17 lines per page. Written in medium small naskh in black ink with use of red for headings and tables. On some fol., vocalization in brown ink (see fol. 85b-98b).
+      Oriental glazed paper with no chain or laid lines visible. Notes in the margin. According to the catchwords, some leaves are missing (see between fol. 32 and 33). Seal on upper cover and
+      on fol. 1a. Foliation in pencil using Western numerals. "104Y" noted in red pencil and "104Y" on a label on the upper cover. Same label on the spine. "ELS no. 258 [next line,
+      in Arabic] Shams al-maʻārif wa-laṭāʾif al-ʻawārif [next line in Western numerals] 873" on a label pasted on the upper cover and on the pastedown of the lower cover</note>
+   <note>The first leaf (originally fol. 1) has been pasted on the back of the upper cover</note>
+   <note type="origin">Copied on Tuesday 14 Muḥarram 873 (colophon, fol. 132a)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Cloth over paper pasteboard (only the lower cover is extant)</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> قال الشيخ الامام العالم العلامة القدوة المحقق محيي الدين ابو العباس احمد بن الشيخ الاجل المقرى الى الحسن على يوسف الردسى البونى رح[…] الحمد لله الدى اطلع
+      شمس المعرفه من عيب الغيب حياة للبصاير ونورا للابصار</note>
+   <note type="explicit" script="Arab"> من كل العوايق إنك انت الخلّاق الرزّاق اللهم كما رضيت وقدّرت حتّى لا يحجب تعجيل ما اخرت ولا تاخير ما عجلت وصلى الله على سيدنا محمد واله وصحبه وسلم تسليما
+      كثيرا ابدا</note>
+   <subject authority="lcsh">
+      <topic>Divination</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astrology, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Occultism, Islamic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 5202</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 497 (5/3)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 910 (6/3)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Ullmann, M. Die Natur- und Geheimwissenschaften, p. 390-391</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Fahd, T. Divination, p. 230-231</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 258Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/258y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4717760</recordOrigin>
+   </recordInfo>
+</mods>

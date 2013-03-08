@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Taqdimat al-ʻilāj; Awdiyah al-adwiyah; Rumūz al-minhāj wa-kunūz al-ʻilāj … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Tiflīsī</namePart>
+      <namePart type="given">Ḥubaysh ibn Ibrāhīm</namePart>
+      <namePart type="date">d. ca. 1203</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">تفليسي</namePart>
+      <namePart type="given">حبيش بن ابراهيم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - Iran - Tabrīz - 14th century</genre>
+   <genre>Manuscripts, Arabic - Iran - Ardabīl - 14th century</genre>
+   <genre>Manuscripts, Arabic - Iran - Rayy - 14th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Tabrīz, Ardabīl and Rayy</placeTerm>
+      </place>
+      <!-- <dateCreated>[1337-1339]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1337</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="inferred">1339</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 361, iii leaves: paper, ill. ; 155 × 110 (115 × 75) mm. bound to 165 × 118 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of treatises on medicine</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Writing is parallel to spine. 19 lines per page. Written in medium small naskh in black ink with use of red. Contains tables. The text has been collated (see collation
+      statements on fol. 148b, 173a, 268a, 361b). Dark cream glazed paper with laid lines visible. Foliation in pencil using Western numerals</note>
+   <note type="contents">1. fol. 1a-b: [Inscriptions]</note>
+   <note type="contents">2. fol. 2a: [Table of contents]</note>
+   <note type="contents">3. fol. 2b-68a: Kitāb Tadqdimat al-ʻilāj / al-Ḥusayn al-Tiflīsī [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">4. fol. 69b-148b: Awdiyat al-adwiyah / al-Ḥusayn al-Tiflīsī [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">5. fol. 150b-173a: Rumūz al-minhāj wa-kunūz al-ʻilāj / Abū al-Ḥusayn [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">6. fol. 174b-180b: al-Risālah al-mutaʻārifah bi-asmāʼ [al-adwiyah] al-mutarādifah / Abū al-Ḥusayn [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">7. fol. 182b-185b: [Tables]</note>
+   <note type="contents">8. fol. 189b-259b: Lubāb al-asbāb / al-Ḥusayn al-Tiflīsī [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">9. fol. 261b-264b: Fī Sharḥ baʻḍ al-masāʼil li-asbāb wa-ʻalāmāt muntakhabah min al-Qānūn / Abū al-Ḥusayn al-Tiflīsī [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">10. fol. 264b-268a: [Treatise on compound drugs] / Abū al-Ḥusayn al-Tiflīsī [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">11. fol. 271b-354b: Kitāb Taḥṣīl al-ṣiḥḥah bi-al-asbāb al-sittah / Abū al-Ḥusayn al-Tiflīsī [Ḥubaysh ibn Ibrāhīm al-Tiflīsī]</note>
+   <note type="contents">12. fol. 358a-361b: Ikhtiṣār Fuṣūl Buqrāṭ</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Blue and brown marbled paper over paper pasteboards. Spine of brown leather with gold painted motifs</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title>Qānūn fī al-ṭibb</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+      <temporal>12th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1108</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo supplied="yes"> 
+         <title>Treatise on compound drugs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Rumūz al-minhāj wa-kunūz al-ʻilāj</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālah al-mutaʻārifah bi-asmāʼihā al-mutarādifah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Lubāb al-asbāb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Taḥṣīl al-ṣiḥḥah bi-al-asbāb al-sittah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Ikhtiṣār Fuṣūl Buqrāṭ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Fī sharḥ baʻḍ al-masāʼil li-asbāb wa-ʻalāmāt muntakhabah min al-Qānūn</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Awdiyat al-adwiyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 569H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/569h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4792177</recordOrigin>
+   </recordInfo>
+</mods>

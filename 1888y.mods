@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Ghawr al-dawr</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>غور الدور</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">Ghazzālī</namePart>
+      <namePart type="date">1058-1111</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="given">غزالي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <originInfo>
+      <dateCreated>[between 12--? and 14--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1200</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1499</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>4 leaves : paper ; 190 × 135 (135 × 105) mm.</extent>
+   </physicalDescription>
+   <abstract>Two unbound bi-folios with a copy of the Ghāyat al-ghawr, on divorce</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from fol. 1a</note>
+   <note type="physicalDetails">Physical description: 18 lines per page. Written in casual medium small naskh in black ink ; almost entirely undotted. Dark cream paper, with regular laid lines
+      and pulp visible. Catchword on the verso of each leaf. Modern foliation in pencil using Western numerals (omits the first fol.)</note>
+   <note type="origin">The copy is not dated. R. Mach dates it to the 6th century H</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> قال الشيخ الامام حجة الاسلام ابو حامد محمد بن محمد الغزالى الطوسى رحمه الله الحمد لله ذى الفضل والنعم والطول والكرم … اما بعد فانى لما دخلت بغداد سنة
+      اربع وثمانين واربعماية</note>
+   <subject authority="lcsh">
+      <topic>Divorce (Islamic law)</topic>
+      <topic>History</topic>
+      <temporal>11th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Divorce (Islamic law)</topic>
+      <topic>History</topic>
+      <temporal>12th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 1400</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Bouyges, M. Essai de chronologie des œuvres de al-Ghazali (Algazel), no. 15</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 425/53</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1888Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1888y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5464564</recordOrigin>
+   </recordInfo>
+</mods>

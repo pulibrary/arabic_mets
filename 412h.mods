@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Sharḥ Miftāḥ al-Sakkākī</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>شرح مفتاح السكاكي</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Quṭb al-Shīrāzī</namePart>
+      <namePart type="given">Maḥmūd ibn Masʻūd</namePart>
+      <namePart type="date">1236 or 7-1310 or 11</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">قطب الشيرازي</namePart>
+      <namePart type="given">محمود بن مسعود</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - Iraq - Najaf - 14th century</genre>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Slipcases - Islamic empire</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[Najaf]</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1326</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 170, i leaves: paper ; 245 × 175 (200 × 130) mm. bound to 250 × 185 mm.</extent>
+   </physicalDescription>
+   <abstract>Commentary on the third part of Miftāḥ al-ʻulūm by Sirāj al-Dīn Yūsuf ibn Abī Bakr al-Sakkākī (d. 626-1229), on rhetoric (al-maʻānī wa-al-bayān)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from tail of text block. The title appears in various forms by several hands on fol. 2a: "al-Juzʼ al-awwal min Sharḥ Miʻyār al-ʻulūm", "Miṣbāḥ fī al-maʻānī
+      wa-al-bayān lil-ʻAllāmah al-Shīrāzī … ʻalá matn … al-Sakkākī"</note>
+   <note type="incipit" script="Arab">الحمد لله الذى خصّص نوع الانسان بالنطق والفصاحة وشرّفه … اما بعد فانّ احوج خلق الله اليه محمود بن مسعود بن مصلح</note>
+   <note type="explicit" script="Arab">هو القلوب لا الابصار وهذا موضع من علم المعانى كثيرة محاسنه وافرة لطايفه والحمد لله والصلوة على محمد واله والسلم تم الجزان فى هذا المجلد</note>
+   <note type="physicalDetails">Physical description: 31 lines per page. Written in medium large thick round naskh in black ink, with the text commented in red. Thick cream paper with pulp visible.
+      Fol. 2 consists of a modern sheet of blue paper with mention of the title, pasted on the recto of the original fol. The blue sheet has been torn, revealing the inscriptions on the original
+      recto, including titles and ownership statements. Inscriptions in several hands on fol. 1a-b and 170b, including verses of poetry and a gift statement (fol. 1a). Modern pagination in pencil
+      using Western numerals</note>
+   <note>According to the numbering of the quires and to the catchword, two quires missing between fol. 10 and 11 (see the "4" on fol. 11a)</note>
+   <note>Inscription in black ink using Western numerals on the pastedown of the upper cover: "77" (corresponds to Brill's list. See Houtsma, M. Th. Catalogue d'une collection de manuscrits arabes
+      et turcs, no. 412)</note>
+   <note type="physicalDetails">Collation: Paper, fol. i, 170, i ; i (modern free endpaper) 1-4¹⁰ 5⁸ 6-16¹⁰ 17¹⁰ (+2, at the end of the quire) i (modern free endpaper) ; catchword on the verso
+      of each leaf ; the quires are numbered (see fol. 11a, p. 23)</note>
+   <note type="origin">Copy completed in Shaʻbān 726 [July-Aug. 1326] by Yūsuf ibn al-Ḥasan ibn Muḥammad al-…? al-…? in al-Mashhad al-muqaddas al-Murtaḍawī [Najaf] (colophon, fol. 170a)</note>
+   <note type="provenance">Reading statement dated Wednesday 24 Dhū al-Qaʻdah 1247 [April 25, 1832] on fol. 170a. Several ownership statements on fol. 2a. Acquired by Robert Garrett from Brill,
+      Leyden, 1900</note>
+   <note type="bindingInfo">Burgundy leather over cardboards for upper and lower covers, fore-edge flap and envelope flap. The covers have a border consisting of a roll in silver. Yellow paper
+      pastedowns and free endpaper. Slip-case in burgundy and green leather with the same roll. The fore-edge flap of the case is lost. It was apparently extant when Houtsma wrote his description
+      (see mention of the title "Miftāḥ al-mutaʻallim", which probably appeared on the flap). Hitti also mentions that the case bears a title</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sakkākī</namePart>
+         <namePart type="given">Yūsuf ibn Abī Bakr</namePart>
+         <namePart type="date">b. 1160</namePart>
+      </name>
+      <titleInfo>
+         <title>Miftāḥ al-ʻulūm. Qism 3</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Rhetoric</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 518</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 294 (16/1. cmt. 6) ; SI 515 (16/1. cmt. 1b)</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sakkākī</namePart>
+         <namePart type="given">Yūsuf ibn Abī Bakr</namePart>
+         <namePart type="date">b. 1160</namePart>
+      </name>
+      <titleInfo>
+         <title>Miftāḥ al-ʻulūm. Qism 3</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 412H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/412h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5221796</recordOrigin>
+   </recordInfo>
+</mods>

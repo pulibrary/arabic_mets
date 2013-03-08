@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kharīdat al-ʻajāʾib wa-farīdat al-gharāʾib</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>خريدة العجائب وفريدة الغرائب</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Ibn al-Wardī</namePart>
+      <namePart type="given">Zayn al-Dīn ʻUmar ibn al-Muẓaffar</namePart>
+      <namePart type="date">d. 1349</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>a Manuscripts, Arabic - 17th century</genre>
+   <genre>Manuscript maps - Mediterranean Region - 17th century</genre>
+   <genre>Maps - Mediterranean Region - 17th century</genre>
+   <genre>World maps - 17th century</genre>
+   <genre>Headpieces (layout features) - Islamic countries - 17th century</genre>
+   <genre>Illuminated manuscripts - Islamic countries - 17th century</genre>
+   <originInfo>
+      <dateCreated>[16--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1600</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1699</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 187, i leaves : paper, ill. ; 208 × 135 (152 × 75) mm. bound to 20 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Fifteenth century Arabic cosmography, ascribed to Ibn al-Wardi (fl. ca. 822/1419). On the disputed authorship, see Sellheim, R. Materialen zur arabischen Literaturgeschichte, t.
+      I, no. 49</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a, later hand)</note>
+   <note type="physicalDetails">Physical description: 19 lines per page. Written in small naskh in black ink with use of red (gold on fol.1b-2a). The text is vocalized. Some yāʾ for alif maqṣūrah.
+      The text is framed within a border in gold outlined in black. European paper with watermark. Occasional marginal annotation. Title on tail of text block (hardly legible)</note>
+   <note>Chiefly quinions. Catchword on the verso of each leaf</note>
+   <note>Decoration: Illuminated scalloped mandorla, executed in gold, blue, and colors on fol 1a. Illuminated headpiece with basmalah in gold on fol. 1b</note>
+   <note>Illustration 1: Mappa mundi on fol. 3b-4a, circular, executed in gold, blue, green, red, and gold</note>
+   <note>Illustration 2 : Map of the Kaʻbah surrounded by the miḥrāb for different regions on fol. 43b</note>
+   <note type="origin">The illuminations suggest the 11th/17th cent</note>
+   <note type="provenance">Ownership statement in the name of Ismāʻīl, qāḍī in Baghdād on fol. 1a, with seal. Another erased ownership statement with seal on the same fol. Erased seal on
+      fol. 29b. Acquired from Murād Bey Bārūdī (Beirut), 1925</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards. Central gold stamped scalloped mandorla, with floral motif left plain. The outer border consists of blind and gold tooled fillets
+      and guilloche. Rebacked</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … قل لا يعلم من في السموات والارض الغيب الا الله الحمد لله غافر الذنب قابل التوب شديد العقاب عالم الغيب … [2أ] … وبعد فان خالق الخلق والبرية ومن
+      له الارادة والمشيئة قد ميز الملوك</note>
+   <note type="explicit" script="Arab"> وهذه خاتمة الارجوزه وما حوت من حكم عزيزه والحمد لله على تمامها حمدا يصوع المسك فى ختامها</note>
+   <subject authority="lcsh">
+      <topic>Cosmography</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geography, Arab</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Qiblah</topic>
+      <genre>Charts, diagrams, etc</genre>
+      <genre>Specimens</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 770</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, II, 131/8 ; SII</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Sellheim, R. Materialen zur arabischen Literaturgeschichte. Teil I (1976), no. 49</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 267B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/267b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5514233</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Hidāyat al-sāʾil ilá maʻrifat al-rubʻ al-kāmil</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>هداية السائل الى معرفة الربع الكامل</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Sibṭ al-Māridīnī</namePart>
+      <namePart type="given">Badr al-Dīn Muḥammad ibn Muḥammad</namePart>
+      <namePart type="date">b. 1423</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">سبط المارديني</namePart>
+      <namePart type="given">بدر الدين محمد بن محمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 16th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1585</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>11 leaves : paper ; 205 × 147 (150 × 110) mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise describing a quadrant called "al-rubʻ al-kāmil", comprising an introduction and fifteen chapters (bāb). On fol. 1a is a chart explaining the influence of the rainbow in
+      association with the signs of the zodiac</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from preamble of text (fol. 1b)</note>
+   <note type="physicalDetails">Physical description: 16 lines per page. Written in careful medium large naskh in black ink with use of red ; text is partially vocalized. Loose leaves and
+      bifolia ; stained with water</note>
+   <note type="origin">According to note at the end of the text, copied in 993 H. [1585] (fol. 11b)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … الحمد لله الذى رسم على صفحات مصنوعاته قواطع الدلايل … وبعد فهذه رسالة لخصت فيها محاسن الرسايل وخصصتها بالاهم مما يتعلق بالربع الكامل</note>
+   <note type="explicit" script="Arab"> لبعده يحصل الغرض فيها وفى هذا القدر كفاية لمن وفقه الله تعالى والحمد لله وحده وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليما كثيرا امين</note>
+   <subject authority="lcsh">
+      <topic>Quadrants (astronomical instruments)</topic>
+      <topic>History</topic>
+      <geographic>Islamic empire</geographic>
+      <temporal>15th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astronomy, Arab</topic>
+      <topic>History</topic>
+      <temporal>14th century</temporal>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Predictive astrology</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Rainbow</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4936</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>King, D. Fihrist al-makhṭūṭāt al-ʻilmīyah (1981-1986), vol. 2, p. 448, 4/4/12 (5)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1865Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1865y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5537819</recordOrigin>
+   </recordInfo>
+</mods>

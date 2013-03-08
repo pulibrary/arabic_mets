@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb al-akhlāq al-musammá bi-Tazkiyat al-arwāḥ ʻan mawāniʻ al-aflāḥ</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب الاخلاق المسمى بتزكية الارواح عن موانع الافلاح</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="given">ʻAbd al-Razzāq al-Qāshānī</namePart>
+      <namePart type="date">d. 1330?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="given">عبد الرزاق القاشاني</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="3">
+      <namePart type="family">Sijistānī</namePart>
+      <namePart type="given">ʻAbd al-Razzāq Abū al-Ghanāʾim</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="3">
+      <namePart type="family">سجستاني</namePart>
+      <namePart type="given">عبد الرزاق ابو الغنائم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="4">
+      <namePart type="family">Shaṭṭī</namePart>
+      <namePart type="given">ʻAbd al-Salām</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">fmo</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="4">
+      <namePart type="family">شطي</namePart>
+      <namePart type="given">عبد السلام</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Manuscripts, Arabic - Iraq - Irbil - 14th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Irbil</placeTerm>
+      </place>
+      <!-- <dateCreated>[1345 or 1346]</dateCreated>-->
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1345</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="inferred">1346</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 113, i leaves: paper ; 145 × 110 (105 × 75) mm. bound to 145 × 115 mm.</extent>
+   </physicalDescription>
+   <abstract>Careful copy of a treatise on ethics (ʻilm al-akhlāq), based on Naṣīr al-Dīn al-Ṭūsī (see fol. 4, l. 5), comprising an introduction, three maqālāt, and a khātimah (see
+      fol. 5a, l. 8), discussing the various kinds of vice and the way to avoid them, together with a discussion of the various virtues to be attained. Name of author supplied according to GAL
+      (not mentioned in Kashf al-ẓunūn)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from fol. 2a</note>
+   <note type="physicalDetails">13 lines per page. Written in medium small naskh in black ink (faded to brown), with use of red for headings, re-inking, and text-stops.
+      Some words are re-written by a later hand in black ink. Diagram on fol. 77a. Soft cream paper, hardly translucid, with pulp visible ; laid lines visible on some leaves. Fol. 1 and 113 are
+      later additions. Occasional marginal annotations by a later hand. The text has been collated. Inscriptions on fol. 112b-113b. Wear, some leaves hardly legible</note>
+   <note type="origin">According to colophon, copied for himself by Aḥmad ibn ʻAbd al-Raḥmān ibn ʻAbd al-Qāhir ibn ʻAbd al-Raḥmān ibn al-Ḥasan ibn al-Shahrazūrī in Irbil, 746 H. (fol. 112a).
+      Collation statement in the name of ʻAbd al-Salām Ibn Shaṭṭī … al-Ḥanbalī al-Qādirī, in the Jāmiʻ al-Umawī on fol. 113b</note>
+   <note type="provenance">Several ownership statements on fol. 2a, in the name of Abū Bakr ibn Rustam al-Shirwānī(?) (repeated); of Muḥammad ibn Isḥāq ibn Aḥmad al-Abarqūhī, dated Damascus,
+      Jumādá al---? -68 (see al-Dawʾ al-lāmiʻ, vol. 7, p. 132, no. 316) ; of Muḥammad al-Ḥbātī(?), dated Jumādá II 48 ; of Aḥmad ibn ʻAbd al-Raḥmān al-Shahrazūrī ; of ʻAbd al-Salām
+      Ibn al-marḥūm al-shaykh ʻAbd al-Raḥmān Ibn al-marḥūm al-shaykh Muṣṭafá Ibn al-marḥūm al-shaykh Maḥmūd al-Shaṭṭī al-Ḥanbalī al-Qādirī al-Dimashqī, dated 1280 H. [1863
+      or 4] ; impression of a large oval stamp in the name of Muḥammad al-Ḥusaynī Ibn al-ʻAṭṭār(?), "khādim al-fiqh wa-al-āthār", dated 1200 H. Several ownership statements on fol. 1a:
+      one in the name of Muḥammad ibn Saʻīd al-Nawawī ; one partially erased in the name of Muḥammad Ṣādiq ---?, dated 126(?)8 H. Acquired by Robert Garrett from the books of Murād Bey
+      al-Bārūdī, Beirut, 1925</note>
+   <note type="provenance">Brown paper over paper pasteboards for upper and lower covers. Blind stamped central mandorla and outer border consisting of fillets</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الهم لك الحمد(؟) على ---؟ من ذاتك ومن كل من خصصت بالتبيين لانك انت الملك الحق المبين الباعث لنا منك اليك والمعين … [3ب] وبعد فاني طالما تشوقت الى ارتقاء
+      مدارج الملكوت واعتلا معارج الجبروت</note>
+   <note type="explicit" script="Arab"> ويقرآ سبحانه بلسان ديموميته وينشى عن سلطان [---] ان قيموميته كل من عليها فان ويبقى وجهك [---] الجلالة والاكرام والحمد لله رب العالمين</note>
+   <subject authority="lcsh">
+      <topic>Islamic ethics</topic>
+      <temporal>14th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <topic>Ethics</topic>
+      <temporal>14th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1936</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SII, 281/17 ; SN II, 281/17</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Kâtip Çelebi. Kashf al-ẓunūn (ed. Fluegel), vol. II, p. 286</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 181B</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/181b.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5320812</recordOrigin>
+   </recordInfo>
+</mods>

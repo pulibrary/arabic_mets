@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Kitāb Ismāʻ al-ṣumm fī ithbāt al-sharaf min qibal al-umm … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Ḍarīr</namePart>
+      <namePart type="given">Muḥammad ibn ʻAbd al-Raḥmān</namePart>
+      <namePart type="date">1339-1404 or 5</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ضرير</namePart>
+      <namePart type="given">محمد بن عبد الرحمن</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>[17--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1799</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>vii, 46, vii leaves : paper ; 273 × 188 (210 × 140 to 203 × 148) mm. bound to 278 × 202 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of four texts</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title provided by cataloger</note>
+   <note type="physicalDetails">30 to 31 lines per page. Written in a medium small Maghibī script in black ink (faded to brown) with larger script for the headings. European glazed paper with
+      watermark (see fol. 12). Frame-ruled. Catchword on the verso of each leaf. Pagination using Western numerals on the center of the upper margin. Foliation in pencil using Western numerals.
+      Worm eaten (with loss of text, especially on the last 5 leaves)</note>
+   <note type="contents">1. fol. 1a-11a: Kitāb Ismāʻ al-ṣumm fī ithbāt al-sharaf min qibal al-umm / Muḥammad ibn Abī Zayd al-Marrākushī al-Ḍarīr</note>
+   <note type="contents">2. 12a-14b: Anwār al-sarāʼir wa-sarāʼir al-anwār / Tāj al-Dīn [Aḥmad ibn Muḥammad] al-Sharīshī</note>
+   <note type="contents">3. 14b-15a: [Excerpts] / al- Imām al-Sanūsī [Muḥammad ibn Yūsuf?]</note>
+   <note type="contents">4. fol. 15b-24a: [Selections] / Abū al-Ḥasan al-Shādhilī</note>
+   <note type="contents">5. fol. 24a-45b: [Shifāʼ al-sāʼil li-tahdhīb al-masāʼil] / Ibn Khaldūn</note>
+   <note type="contents">6. fol. 46: [Blank]</note>
+   <note type="origin">R. Mach and E. Ormsby date this ms. from the 12th cent. H</note>
+   <note type="bindingInfo">Re-used modern bookbinding with the reproduction of an Islamic pattern on the upper cover and of a picture of amphoras on the lower cover. Modern paper pastedowns
+      and fly leaves</note>
+   <subject authority="lcsh">
+      <topic>Sufism</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shādhilīyah</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Malikites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. and E. Ormsby. Handlist (New Series), 38, 365, 452, 1368</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sanūsī</namePart>
+         <namePart type="given">Muḥammad ibn Yūsuf</namePart>
+         <namePart type="date">ca. 1427-ca. 1490</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Ibn Khaldūn</namePart>
+         <namePart type="date">1332-1406</namePart>
+      </name>
+      <titleInfo>
+         <title>Shifāʼ al-sāʼil li-tahdhīb al-masāʼil</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Shādhilī</namePart>
+         <namePart type="given">Abū al-Ḥasan ʻAlī ibn ʻAbd Allāh</namePart>
+         <namePart type="date">ca. 1196-1258</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sharīshī al-Salawī</namePart>
+         <namePart type="given">Aḥmad ibn Muḥammad</namePart>
+         <namePart type="date">1185 or 6-1243 or 4</namePart>
+      </name>
+      <titleInfo>
+         <title>Anwār al-sarāʼir wa-sarāʼir al-anwār</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, New Series no. 2138</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/ns2138.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4789929</recordOrigin>
+   </recordInfo>
+</mods>

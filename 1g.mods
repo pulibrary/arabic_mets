@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Majmūʻah fī al-ṭibb</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>مجموعة في الطب</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart>Galen</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="given">Ḥunayn ibn Isḥāq al-ʻIbādī</namePart>
+      <namePart type="date">809?-873</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 12th century</genre>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated>[1176-1726]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1176</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="inferred">1726</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 377, ii leaves: paper ; 255 × 165 (180 × 120) mm. bound to 255 × 175 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several treatises on medicine, translated into Arabic by Ḥunayn ibn Isḥāq. The ms. contains two main parts: the first text which is a later addition and texts 2-10,
+      all written by the same hand. There seems to be two parts in this last section, the first called "al-Jawāmiʻ" (texts 2-6, see colophon, fol. 244b) and the last four texts</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from inscription on the lower edge of the text block</note>
+   <note type="physicalDetails">21 lines per page. The first text is written in nastaʻlīq in black ink with use of red for the headings on European glazed paper with watermark. From text 2 on:
+      written in careful and professional vocalized medium large naskh in black ink (faded to brown) on light cream glazed paper with horizontal laid lines visible ; frame-ruled. Marginal notes
+      (mostly ḥāshiyah from the author, copied by the same hand, see fol. 42b, 53a). Smaller leaves are inserted between the ms. leaves, with inscriptions by the same hand as the main text
+      (mostly ḥāshiyah from the author, see between fol. 51 and 52; 112-113; 211-212). On fol. 1a: Obliterated seal. On fol. 41a (i.e., fol. 1a of the original ms.): Table of contents; several
+      ownership statements, one dated 623 H., one dated 8 Muharram 902 H. in Dār al-Islām Qusṭanṭinīyah; one signed Kamāl al-Dīn al-mutaṭabbib al-Mūsawī. On fol. 377a: Seal with waqf
+      inscription signed Dāmādzādah Fayḍ Allāh Afandī, dated 1174 H. On fol. 377b: Ownership statements. The quires are numbered using Arabic numerals in the form "7 min 3" (often cut off
+      due to the trimming of the leaves, but still visible on some quires, see fol. 96a, 126a, 136a, 146a, 156a). Signs in the upper corner and lower corner of the opposite leaf marking the
+      middle of the quire (see fol. 130-131; 220-221). Foliation in pencil using Western numerals</note>
+   <note type ="origin">Copied by ʻUthmān ibn ʻAlī ibn Muḥammad al-Samarqandī in 572 H. (colophon of text 6, fol. 244b), except the first text, copied for Dāmādzādah by Muḥammad Amīn al-Ḥasanī ibn
+      ʻAbd Allāh al-Tūqātī in Dhū al-Qaʻdah 1138 H. (colophon, fol. 40a)</note>
+   <note type="provenance">Acquired by Ananikian from Egypt, 1924</note>
+   <note type="bindingInfo">Dark brown leather over pasteboards. Upper and lower covers have a simple outer frame made of single fillets</note>
+   <note type="contents">1. fol. 1a-40a: Kitāb Jālīnūs al-maʻrūf bi-al-Ṣināʻah al-ṣaghīrah / Galen</note>
+   <note type="contents">2. fol. 41a-58b: Kitāb Jālīnūs fī al-buḥrān / Galen</note>
+   <note type="contents">3. fol. 59b-68a: Kitāb Jālīnūs fī ayyām al-buḥrān / Galen</note>
+   <note type="contents">4. fol. 69b-83a: Kitāb Jālīnūs fī aṣnāf al-ḥummayāt / Galen</note>
+   <note type="contents">5. fol. 83b-84a: [Blank]</note>
+   <note type="contents">6. fol. 84b-197b: Jumal min jawāmiʻ Kitāb Jālīnūs fī al-ḥīlat lil-burʼ / Galen</note>
+   <note type="contents">7. fol. 198a: [Blank]</note>
+   <note type="contents">8. fol. 198b-244b: Kitāb Jālīnūs fī tadbīr al-aṣiḥḥā / Galen</note>
+   <note type="contents">9. fol. 245a-262a: Kitāb Jālīnūs fī firaq al-ṭibb / Galen</note>
+   <note type="contents">10. fol. 262b-263a: [Blank]</note>
+   <note type="contents">11. fol. 263b-278b: Kitāb Jālīnūs fī al-nabḍ ilá Ṭūtharun lil-mutaʻallimīn / Galen</note>
+   <note type="contents">12. fol. 279a-281a: [Blank]</note>
+   <note type="contents">13. fol. 281b-342b: Kitāb Jālīnūs ilá Aghlūqun fī shifāʼ al-amrāḍ / Galen</note>
+   <note type="contents">14. fol. 343a: [Blank]</note>
+   <note type="contents">15. fol. 343b-377b: Kitāb Jālīnūs fī al-Usṭuqusāt ʻalá raʼy Buqrāṭ / Galen</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Medicine, Greek and Roman</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 1075</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Walzer, R. Codex Princetonianus Arabicus 1075, in Bulletin of the History of Medicine XXVIII (1954), 550-552</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Galen. Über die Arten der Fieber in der arabischen Version des Ḥunain ibn Isḥāq. Edition und Übersetzung von Matthias Werhard. Inaugural-Dissertation Ludwig-Maximilians-Universität.
+         Munich, 2004, xxxiv-xxxv</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>Technē iatrikē. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De crisibus libri tres. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De diebus decretoriis. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De differentiis febrium. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>Therapeutikē methodos. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De sanitate tuenda. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De sectis. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De pulsibus libellus ad tirones. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>On the therapeutic method. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo type="uniform">
+         <title>De elementis secundum Hippocratem. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1G</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1g.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4808744</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Qurʻat al-khulafāʾ al-ʻAbbāsīyah umarāʾ al-muʾminīn</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary">
+      <title>قرعة الخلفاء العباسية امراء المؤمنين</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <genre>Illuminated manuscripts - 18th century</genre>
+   <originInfo>
+      <dateCreated>[between 17--? and 1835]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="inferred">1835</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>38 leaves : paper, ill. ; 294 × 210 (250 × 176) mm. bound to 294 × 210 mm.</extent>
+   </physicalDescription>
+   <abstract>A work on fortune-telling containing several astronomical and magic circles and charts</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page</note>
+   <note type="physicalDetails">21 lines per page in two or four columns. Written in medium large naskh in black and red ink, with color (mainly red and blue) for the astronomical and magical
+      circles. Frame made of two lines in red ink troughout. Fol. 36b probably written by another hand. Glazed European paper with watermark (see fol. 12-13). Several ownership statements on
+      fol. 1a (the earliest dated reading 1250 H. [1834/5]). According to the catchwords, some leaves are missing (see between fol. 3b and 4a, with a mention in Latin in the upper margin of fol.
+      4a: "Hic desunt duo folia, cf. ms 550, fol. 8 vo seqq. [-](?). L."). Modern foliation in pencil using Western numerals. Pagination in pencil using Arabic numerals from fol. 16b on (i.e.,
+      the first page after the charts)</note>
+   <note>Contains 24 pages of "circles" (dāʻirah), starting with the "Dawāʾir al-suʾāl li-ikhrāj al-ḍamīr wa-al-ḥarf" and the "Dāʾirah li-jamʻ al-ḥurūf wa-maʻrifat al-manāzil", and
+      ending with the "Dāʾirat al-mudun", followed by rhapsodomantic poems attributed to various authors</note>
+   <note>There is no colophon in the manuscript</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers made of brown leather over paper pasteboards, with the same blind stamped central medallion and an outer frame of blind fillets. Disbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> هذه دواير السوآل لاخراج الضمير والحرف</note>
+   <note type="explicit" script="Arab"> وعنده مفتاح الغيب لا يعلمها الا هو ويعلم ما في البرد والحر وما تسقط من ورقة الا يعلمها ولا حية في ظلمات الارض ولا رطب ولا يابس الا في كتاب مبين</note>
+   <subject authority="lcsh">
+      <topic>Fortune-telling</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 965</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 551H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/551h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4706042</recordOrigin>
+   </recordInfo>
+</mods>

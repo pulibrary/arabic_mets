@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Fawāʼid min kalām Burhān al-Dīn al-Fazārī. Qaṣīdah fī madḥ al-nabī … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Ibn al-Firkāḥ</namePart>
+      <namePart type="given">Ibrāhīm ibn ʻAbd al-Raḥmān</namePart>
+      <namePart type="date">1262-1329</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic 14th century</genre>
+   <originInfo>
+      <dateCreated>[13--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1300</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1399</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>49 leaves: paper ; 178 × 128 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts on religious matters</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Written in several scripts (see record of each individual text). Some of the texts have been collated (see collation note on fol. 16a). Foliation in pencil using
+      Western numerals (upper cover is fol. 1; this record follows the existing foliation). Graffitis and inscriptions on the covers. Inscription "52" in Arabic numerals on fol. 2 and lower cover</note>
+   <note type="origin">The only text dated is Qirāʼat Warsh, dated 741 (or 751?) H</note>
+   <note type="provenance">Ownership statements on fol. 2a, 17b, 19a, 29a, 39b, 40a, 41a (dated 1026 and 1033 H.), 50b. Audition statements (samāʻ) on fol. 29a, 39a-b and 40b. Acquired from
+      Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Paper with cloth spine (damaged)</note>
+   <note type="contents">1. fol. 2a-15a: Fawāʼid min kalām Burhān al-Dīn al-Fazārī / Ibrāhīm ibn ʻAbd al-Raḥmān ibn al-Firkaḥ</note>
+   <note type="contents">2. fol. 15a-16a: [Qaṣīdah fī madḥ al-nabī] / Muḥammad ibn ʻAlī ibn al-Zamlakānī</note>
+   <note type="contents">3. fol. 16a-18b: [Several short texts]</note>
+   <note type="contents">4. fol. 19a-28b: Bānat Suʻād mukhammasah</note>
+   <note type="contents">5. fol. 29a-40b [Collection of ḥadīths] / Aḥmad ibn al-Ḥusayn al-Lahabī</note>
+   <note type="contents">6. fol. 41a-50b: Qirāʼat Warsh / Muḥammad ibn Shuraysh al-Ruʻaynī</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Muḥammad</namePart>
+         <namePart type="termsOfAddress">Prophet</namePart>
+         <namePart type="date">d. 632</namePart>
+      </name>
+      <genre>Poetry</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Warsh al-Miṣrī</namePart>
+         <namePart type="given">ʻUthmān ibn Saʻīd</namePart>
+         <namePart type="date">728 or 9-812 or 13</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>Readings</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <genre>Texts</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 193, 761, 1449, 4033, 4166</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Lahabī</namePart>
+         <namePart type="given">Aḥmad ibn al-Ḥusayn</namePart>
+         <namePart type="date">10th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Collection of ḥadīths</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Zamlakānī</namePart>
+         <namePart type="given">Muḥammad ibn ʻAlī</namePart>
+         <namePart type="date">1268 or 9-1326 or 7</namePart>
+      </name>
+      <titleInfo>
+         <title>Qaṣīdah fī madḥ al-nabī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ruʻaynī</namePart>
+         <namePart type="given">Muḥammad ibn Shurayḥ</namePart>
+         <namePart type="date">1001 or 2-1083 or 4</namePart>
+      </name>
+      <titleInfo>
+         <title>Qirāʼat Warsh</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Takhmīs Bānat Suʻād</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1381Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1381y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4777851</recordOrigin>
+   </recordInfo>
+</mods>

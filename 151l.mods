@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb al-Malḥamah al-mukhbirah</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1" usage="primary">
+      <title>كتاب الملحمة المخبرة</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1744</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 40 leaves : paper ; 220 × 158 (152 × 115) mm. bound to 220 × 165 mm.</extent>
+   </physicalDescription>
+   <abstract>Treatise on astral magic, dealing with the days of the week, the beginning of the year, and natural phenomena such as thunder, eclipses, etc. in conjunction with astral revolutions.
+      A text with the same title and similar content is attributed to Hermes Trismegistus in Princeton University Library, Islamic Manuscripts, Garrett no. 547H</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from rubric (fol. 1a)</note>
+   <note type="physicalDetails">17 long lines per page. Written in medium small naskh in black ink with red for over-lining and headings. European glazed paper with watermark. Catchword on the
+      verso of each folio. Foliation in pencil using Western numerals. On a modern label on the lower cover, inscription in Roman characters: "T.G. 6"</note>
+   <note>The copy contains two texts with the same title, with no further indication. The second text is incomplete at end</note>
+   <note>Collation: Paper ; fol. 41 ; i (blank) + 39 + i (blank)</note>
+   <note type="origin">Copied in Muḥarram 1157 by Muḥammad ibn Shaykh ʻAbd al-Jamīl (colophon text or part 1, fol. 30a)</note>
+   <note type="contents">1. fol. 1a-30a : Kitāb al-Malḥamah al-mukhbirah</note>
+   <note type="contents">2. fol. 30b-39b : Kitāb al-Malḥamah</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1904, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers of red leather over paper pasteboards, with a similar blind-tooled outerframe made of a guilloche and several fillets. Doublure of brown and
+      beige embossed paper with a floral motif. Repaired</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">Incipit (fol. 1a): بسم … الحَمد للّه يب العالمين والصلوة والتسليم علي قاءيد الغر(؟) المحجلينَ(؟) محمد واله وصحبه الطيبين الطاهرين اما بعد قال دانيال عليه
+      السَّلام احببت ان ابين للناس طريق واضح في الاخبار الايام والشهور العربية فقلت يوم السبت ان دخل فيه المحرم</note>
+   <note type="explicit" script="Arab">Explicit (fol. 30a): وتزيد علي المجموع خمست يصير المجموع خمسه وعشرين نقول كانت الشمس بالحمل والقمر قد طلع من الاسد ودخل في السنبله والله اعلم تمت</note>
+   <note type="incipit" script="Arab">Incipit (fol. 30b): كتاب الملحمه مرويت عن دانيال عليه السلام فاول ما نقول علي كسوف الشمس نيسان قال دانيال عليه السلام اذا انكسفت الشمس في عشر الاول من شهر
+      نيسان بالشمسية في ناحية المشرق</note>
+   <note type="explicit" script="Arab">Explicit (fol. 39b): \\ الشمال وناحيت دمشق خوف وفتن ويكون بناحيت القبله رخص وطذا يكون علي ناحيت</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn">
+         <namePart type="given">Daniel (Biblical figure)</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Predictive astrology</topic>
+      <geographic>Islamic Empire</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astrology, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hermetism</topic>
+      <geographic>Islamic countries</geographic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 961</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Ullmann, M. Die Natur- und Geheimwissenschaften, p. 293</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Hermes</namePart>
+         <namePart type="given">Trismegistus</namePart>
+      </name>
+      <titleInfo>
+         <title>Malḥamat Dāniyāl</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 151L</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/151l.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4822780</recordOrigin>
+   </recordInfo>
+</mods>

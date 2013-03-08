@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1" supplied="yes">
+      <title>Kullīyāt-i Saudā</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1" supplied="yes">
+      <title>كليات سودا</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="family">Saudā</namePart>
+      <namePart type="given">Mirzā Muḥammad Rafīʻ</namePart>
+      <namePart type="date">1713-1781</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart>سودا</namePart>
+      <namePart type="given">مرزا محمد رفيع</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Urdu - India - 19th century</genre>
+   <genre>Manuscripts, Persian - India - 19th century</genre>
+   <genre>Illuminated manuscripts - India - 19th century</genre>
+   <genre>Miniatures (paintings) - India - 19th century</genre>
+   <genre>Illuminations (visual works) - India - 19th century</genre>
+   <genre>Headpieces (layout features) - India - 19th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">[India]</placeTerm>
+      </place>
+      <dateCreated>[18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language><language>
+      <languageTerm type="code" authority="iso639-2b">urd</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 455, ii leaves : paper, col. ill. ; 367 × 217 (262 × 150) mm. bound to 370 × 225 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of poems arranged in five sections by genre, including qaṣīdahs, ghazals, mathnawī, and quatrains, some pieces in Persian</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Physical description: 13 lines per page separated in two columns at hemistich by two vertical ruled lines in red ink. Text is framed in red, gold, and black ruled
+      lines. Outer frame in black. Titles in red in panels defined by a red ruled line</note>
+   <note type="physicalDetails">Decoration: Contains ten miniatures representing among others ʻAlī, and princes on fol. 4b, 19b, 37a, 55b, 58b, 84b, 213a, 286b, 311a, 334b</note>
+   <note type="physicalDetails">Decoration: The two first pages of the text (fol. 1b-2a) are elaborately illuminated, with floral decor in gold on the margin ; text written in clouds left plain
+      on a gold ground. Illuminated headpiece in gold and colors with a floral motif on fol. 1b. The beginning of each section is decorated in a similar way (fol. 105b-106a; 178b-179a; 194b --
+      headpiece only; 361b-362a; 416a). Illuminated cartouche with basmalah on fol. 111b</note>
+   <note>Chiefly quaternions</note>
+   <note type="origin">Probably India, 19th cent</note>
+   
+   <note type="provenance">Large rectangular stamp on fol. 1a (300 × 250 mm.) with inscription reading: " … al-dawlah kawkab al-mulk Sayyid ʻAlījānān Khān Bahādur Darakhshān sitārah-i
+      jang 1269 (?)" (repeated at the end of each part, fol.103b, 177a, 178a, 194a, 361a, 455b). Acquired from Quaritch, London, 1900. Bookplate of Robert Garrett on pastedown of upper cover</note>
+   <note type="bindingInfo">Dark green leather with silver tooling and stamping. Marbled paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … هو آجب … فى البعث ومنقيت حضرت رسالت بناه وخباب امير المومنين عليه الصلواة والسلام</note>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Urdu</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Moghadam, M. et al. Garrett coll., 183</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Narang, G. C. The Princeton Manuscript of Kullīyāt-e Saudā. Journal of the American Oriental Society, Vol. 93, No. 4. (Oct.-Dec., 1973), p. 539-542</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 83G</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/83g.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5576513</recordOrigin>
+   </recordInfo>
+</mods>

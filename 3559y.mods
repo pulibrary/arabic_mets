@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" usage="primary" supplied="yes">
+      <title>Fuṣūl Abuqrāṭ. Faṣl fī qaḍāyā Buqrāṭ fī al-ʻalāmāt al-dāllah ʻalá al-mawt … etc.</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <genre>Manuscripts, Persian - 13th century</genre>
+   <genre>Manuscripts, Arabic - Turkey - Erzincan - 13th century</genre>
+   <genre>Manuscripts, Persian - Turkey - Erzincan - 13th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Erzincan</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1281</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>ii, 183, iii leaves: paper ; 112 × 158 (80 × 130) mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts on medicine, physics, and philosophy in Arabic and Persian. Rosa Kuhne Brabant gives a complete description of this ms. in her edition of the Kitāb al-Durī
+      (al-Qantara 10 (1989), p. 315-316)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger, from title of two first texts</note>
+   <note type="physicalDetails">Physical description: Writing is parallel to spine. 19 lines per page. Written in medium small naskh in black ink with use of red. Dark cream paper, soft, with
+      laid and chain lines and pulp visible. European paper fly-leaves. Marginal annotations by later hands (partly cut off due to the trimming of the pages). Some leaves are misplaced (see beginning
+      of the fourth maqālah of Fuṣūl Abuqrāṭ on fol. 15a). Fol. 63 consists of two leaves pasted on one other, with inscriptions visible on the pasted side of the leaves. Pagination using
+      Arabic numerals (starts with "3" on fol. 1). Inscriptions on the recto and verso of the first flyleaf. Inscription mentioning Aḥmad al-Ḥusaynī on fol. 116a</note>
+   <note>Spine label (horizontal, partly wanting) with title, the extant part reading: "ṭibb wa-al-nujūm"</note>
+   <note type="origin">The name of the copyist, place and date of copy appear in the colophon of item 13 (fol. 141b): copied by Ayyūb (or Abū?) …? in Arzinjān [Erzincan] in the Madrasat al-…?
+      in …? (fol. 141b). The copy of item 5 is dated middle of Ṣafar 680 [1281] (fol. 57a)</note>
+   <note type="provenance">Impression of a small square stamp (10 mm.) throughout (see fol. 9b, 63b, 283b, etc.). Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="contents">1. fol. 1a-20b: Fuṣūl Abuqrāṭ [aceph.]. -- Mach, R. Yahuda, 4773</note>
+   <note type="contents">2. fol. 21a-23a: Faṣl fī qaḍāyā Buqrāṭ fī al-ʻalāmāt al-dāllah ʻalá al-mawt. -- Mach, R. Yahuda, 4774</note>
+   <note type="contents">3. fol. 23a-24b: Faṣl fī al-buḥrān. -- Mach, R. Yahuda, 4781</note>
+   <note type="contents">4. fol. 25a: [Short excerpt on death attributed to Aristotle, beginning with: "al-amwāt awlād al-amrāḍ", and a short text on a question of grammar, entitled "Takmilah
+      fī al-naḥw", written by another hand]</note>
+   <note type="contents">5. fol. 25b-57a: [al-Qānūnchah fī al-ṭibb / al-Jaghmīnī] -- Mach, R. Yahuda, 4777</note>
+   <note type="contents">6. fol. 57a: Duʻā Jibrīl [later hand]</note>
+   <note type="contents">6. fol. 57b-62a: al-Qawl fī al-ajnās al-ʻasharah min Kitāb al-Najāt / [Avicenna]. -- Mach, R. Yahuda, 3021</note>
+   <note type="contents">7. fol. 62a-63a: al-Māʾ al-ikhtiyār [Excerpt from al-Qānūn fī al-ṭibb] / [Avicenna]</note>
+   <note type="contents">8. fol. 63b-88a: al-Masāʾil / Abū Sahl Saʻd [Saʻīd] ibn ʻAbd al-ʻAzīz al-Nīlī -- Mach, R. Yahuda, 4776</note>
+   <note type="contents">9. fol. 88b-105a: [Sī faṣl / Naṣīr al-Dīn Ṭūsī]</note>
+   <note type="contents">10. fol. 105b-108a: Min Maqālat Fakhr al-Dīn al-Rāzī. -- In Persian</note>
+   <note type="contents">11. fol. 108b-109a: [Short text] / ʻUbayd ibn ʻAbd Allāh al-ʻAjlī(?)</note>
+   <note type="contents">12. fol. 109b-113a: Qawl fī al-raʻd wa-al-burw min Kitāb al-Mulakhkhaṣ / [al-Jaghmīnī] -- Mach, R. Yahuda, 4874</note>
+   <note type="contents">13. fol. 113b-141b: [Treatise in ten chapters on astronomy, with diagrams]. -- In Persian</note>
+   <note type="contents">14. fol. 142a-144a: al-Qawl fī al-jibāl wa-al-maʻādin min Kitāb al-Mulakhkhaṣ / al-Jaghmīnī -- Mach, R. Yahuda, 4874</note>
+   <note type="contents">15. fol. 144b-146a: Min maqālat al-Shaykh al-ḥakīm Abī al-Majd Majdūd al-Sanāʾī. -- In Persian</note>
+   <note type="contents">16. fol. 146b-157b: [Risālah fī ḥudūd al-ashyāʾ wa-rusūmihā] / Ibn Sīnā. -- Mach, R. Yahuda, 3012</note>
+   <note type="contents">17. fol. 158a: [Definition of al-istiqrāʾ, beginning with: "huwa ithbāt al-ḥukm al-kullī bi-wāsiṭati thubūtihi fī baʻḍ al-afrād")]</note>
+   <note type="contents">18. fol. 158b-161a: Qawl fī maʻrifat quwá al-nafs min Kitāb al-Najāt / [Avicenna]. -- Mach, R. Yahuda, 3021</note>
+   <note type="contents">19. fol. 161a-162a: [Fāʾidah on astronomical questions regarding the seasons and on air]</note>
+   <note type="contents">19. fol. 162b-181a: Kitāb al-Tanqīḥāt. -- Mach, R. Yahuda, 3042</note>
+   <note type="contents">20. fol. 181a-181b: [Short sayings attributed to wise men and shaykhs]</note>
+   <note type="contents">21. fol. 182a-183b: al-Qism al-thānī fīmā yaḥdathu ʻalá wajh al-arḍ wa-taḥtahā [incomplete at end]</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Medicine, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Physics</topic>
+      <topic>History</topic>
+      <geographic>Islamic empire</geographic>
+      <genre>Sources</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astronomy, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 3012, 3021, 3042, 4773, 4774, 4776, 4777, 4781, 4874</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Kuhne Brabant, R. El Kitab al-dury, prototipo árabe de la 'Capsula Eburnea' y representante más genuino de la tradición de los 'Secreta Hippocratis' (II), Al-qantara: Revista de
+         estudios árabes, vol. 10, fasc. 2 (1989), p. 315-316</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ṭūsī</namePart>
+         <namePart type="given">Naṣīr al-Dīn Muḥammad ibn Muḥammad</namePart>
+         <namePart type="date">1201-1274</namePart>
+      </name>
+      <titleInfo>
+         <title>Sī faṣl</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jighmīnī</namePart>
+         <namePart type="given">Maḥmūd ibn Muḥammad</namePart>
+         <namePart type="date">d. 1221?</namePart>
+      </name>
+      <titleInfo>
+         <title>Mulakhkhaṣ fī al-hayʾah. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jighmīnī</namePart>
+         <namePart type="given">Maḥmūd ibn Muḥammad</namePart>
+         <namePart type="date">d. 1221?</namePart>
+      </name>
+      <titleInfo>
+         <title>Qānūnchah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Rāzī</namePart>
+         <namePart type="given">Fakhr al-Dīn Muḥammad ibn ʻUmar</namePart>
+         <namePart type="date">1149 or 50-1210</namePart>
+      </name>
+      <titleInfo>
+         <title>Min Maqālat Fakhr al-Dīn al-Rāzī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sanāʾī al-Ghaznavī</namePart>
+         <namePart type="given">Abū al-Majd Majdūd ibn Ādam</namePart>
+         <namePart type="date">d. ca. 1150</namePart>
+      </name>
+      <titleInfo>
+         <title>Min maqālat al-Shaykh al-ḥakīm Abī al-Majd Majdūd al-Sanāʾī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Nīlī</namePart>
+         <namePart type="given">Saʻīd ibn ʻAbd al-ʻAzīz</namePart>
+         <namePart type="date">964 or 5-1029 or 30</namePart>
+      </name>
+      <titleInfo>
+         <nonSort>al-</nonSort>
+         <title>Masāʾil</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Hippocrates</namePart>
+      </name>
+      <titleInfo>
+         <title>Aphorisms. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Hippocrates</namePart>
+      </name>
+      <titleInfo>
+         <title>Capsula eburnea. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Faṣl fī al-buḥrān</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Fīmā yaḥdathu ʻalá wajh al-arḍ wa-taḥtahā</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Tanqīḥāt</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo supplied="yes">
+         <title>Treatise on astronomy</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 3559Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3559y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5433217</recordOrigin>
+   </recordInfo>
+</mods>

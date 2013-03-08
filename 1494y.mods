@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="per" altRepGroup="1">
+      <title>Dīvān-i Mawlānā Kamāl</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="per" altRepGroup="1">
+      <title>ديوان مولانا كمال</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="per" altRepGroup="2">
+      <namePart type="given">Kamāl Khujandī</namePart>
+      <namePart type="date">d. ca. 1400</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="per" altRepGroup="2">
+      <namePart type="given">كمال خجندي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Persian - 16th century</genre>
+   <genre>Headpieces (layout features) - Islamic Empire - 16th century</genre>
+   <genre>Illuminated manuscripts - Islamic Empire - 16th century</genre>
+   <originInfo>
+      <dateCaptured>[1572 or 1686]</dateCaptured>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1572</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="inferred">1686</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 256, i leaves : paper ; 190 × 120 (127 × 71) mm. bound to 192 × 130 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of poems in Persian</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from the illuminated opening (fol. 1b)</note>
+   <note type="physicalDetails">12 lines per page, in two columns with central headpieces, written in nastaʻlīq using black ink. Gold, black and blue fillets form the outer frame; a single red
+      fillet divides the columns. Thin dark cream paper with laid lines visible. On fol. 1b: illuminated headpiece. On fol. i(a): label with mention in Arabic "raqm 309" ; inscription in Arabic
+      script "Sayyid ʻAlī Kitāb al-miʻrāj"</note>
+   <note type="origin">Copied in Muḥarram 980 or 1098 by Yādkār(?) ibn Muḥammad ibn Niẓām (colophon, fol. 254a)</note>
+   <note type="physicalDetails">Collation: Paper ; fol. i (endpaper, with inscription and labels) + 254 + i (endpaper)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Upper and lower covers, fore-edge flap and envelope flap made of red leather over paper pasteboard. The upper and lower covers are similarly tooled and gold painted,
+      with a central mandorla linked to the outer frame by an horizontal and a vertical fillet, and gold painted corner pieces. The envelope flap has a similar decoration. The doublure of the
+      upper and lower covers has a tooled and painted decoration with a central mandorla and corner pieces in orange, green and gold. The doublure of the envelope flap has a similar decoration</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> از پدهنت بوىى آمد بگلستانها کردند پر از نكهت گلها همه دامانها با رشته همه چاکى شد دوخته وين طرفه كز رشته زلف تست اين چاک گريبانها</note>
+   <note type="explicit" script="Arab"> خال در ملک جمالش نه مکست از سر زلف كاندرين ملک چو طاوس نگارست مکس</note>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1494Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1494y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4730625</recordOrigin>
+   </recordInfo>
+</mods>

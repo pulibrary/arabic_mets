@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <nonSort>al-</nonSort>
+      <title>Mawrid al-ṣāfī [fī] sharḥ al-Kāfī</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>المورد الصافي [في] شرح الكافي</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn Walī</namePart>
+      <namePart type="given">Khalīl</namePart>
+      <namePart type="date">17th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن ولي</namePart>
+      <namePart type="given">خليل</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 17th century</genre>
+   <genre>Autographs (manuscripts) - Islamic countries - 17th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1692</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 50, i leaves : paper ; 192 × 133 (134 × 80) mm. bound to 192 × 142 mm.</extent>
+   </physicalDescription>
+   <abstract>Autograph copy of a commentary on al-Kāfī fī ʻilmay al-ʻarūḍ wa-al-qawāfī by Aḥmad ibn ʻAbbād al-Qināʾī (al-Khawwās, d. 858/1454)</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from beginning of text (fol. 1b)</note>
+   <note type="physicalDetails">21 lines per page. Written in medium small naskh in black and red ink. European glazed paper. Occasional notes on the margins (mostly corrections). Catchword on
+      the verso of each leaf. Fol. 49: blank. On fol. 48b: note dated 1125 H. [1713]</note>
+   <note>On fol. (i)a: Inscription in red pencil using Arabic numerals, reading "295"</note>
+   <note type="origin">Copied in a clean copy ("min al-sawād ilá al-bayāḍ") by Khalīl ibn Walī ibn Jaʻfar al-Ḥanafī on Wednesday 9 Shaʻbān 1103 (colophon, fol. 48b)</note>
+   <note type="provenance">Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Blue marbled paper over paper pasteboards for upper and lower covers, and envelope flap. Brown leather spine, fore-edge flap and edges. Orange paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> بسم … وصلى الله … الحمد لله وكفى وسلام على عباده الذين اصطفى وبعد فيقول العبد الفقير … خليل بن ولي بن جعفر الحنفى غفر الله … هذا شرح لطيف لمتن الكافي
+      في علمي العروض والقوافى للعلامة … القنائى الشافعى … يُبيّن معَانيها وتحل مباينه مفيداً للاداني والاعالي</note>
+   <note type="explicit" script="Arab"> حتى تستوى والشاذي الاذي والربع جمع رباع وهو الذي يلقى ثنيته(؟) والسّحق الذي يسحق العداوي يبعده وهذا هو الذي ذكرناه هنا اخر ما اردنا ايراده فى هذا المولف
+      والله تعالى الهادي الى الصوّاب واليه المرجع والماب</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Khawwāṣ</namePart>
+         <namePart type="given">Aḥmad ibn ʻAbbād</namePart>
+         <namePart type="date">1378?-1454</namePart>
+      </name>
+      <titleInfo>
+         <title>Kāfī fī al-ʻarūḍ wa-al-qawāfī</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Versification</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 3848</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, II, 27 (15/1, cmt. 2)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SII, 22 (15/1, cmt. 2)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 713Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess"
+                    xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/713y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4730727</recordOrigin>
+   </recordInfo>
+</mods>

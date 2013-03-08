@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4"
+   xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Risālah ilá al-Bīrūnī ; Kitāb al-Mubāḥathāt … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="given">Avicenna</namePart>
+      <namePart type="date">980-1037</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 13th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1279</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 311, i leaves : paper ; 240 × 160 (175 × 115) mm. bound to 242 × 170 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of philosophical texts, mainly from Avicenna and al-Fārābī</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">23 lines per page. Written by one hand in a very clear medium small naskh in black ink with use of red. Dark cream paper with laid (and chain?, see fol. 302) lines
+      visible. Collation notes (collation statements, see fol. 2b, 70Ab, 125a, 130a, where it is stated that this was copied from a copy by Mawlānā Khusraw Shāhī). The copyist is commenting
+      on his exemplar (see fol. 12b). Foliation using Arabic numerals in the middle of the upper margin. Foliation in pencil using Western numerals in the left corner of the lower margin. The
+      quires are numbered (see fol. 16a); catchword on the verso of each leaf. Fol. 143 is a later replacement. Some leaves are mended, with the text missing often re-written on the repair. From
+      fol. 181 on, hole in each leaf (the text missing is re-written on the repair up to fol. 269, from there on, loss of text)</note>
+   <note type="origin">Copied in Shawwāl 677 according to colophons (fol. 12b and 175v)</note>
+   <note type="provenance">Ownership statement on fol. 3a. Ownership stamp of ʻAlī ibn Muḥammad Riḍā ibn Mūsá ibn Jaʻfar Kāshif al-Ghiṭāʼ (1850-1931) in violet ink dated 1334 [1915 or
+      16] on several leaves. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Red leather over paper pasteboards with a blind-tooled outer frame</note>
+   <note type="contents">1. fol. 1a: [Table of contents]</note>
+   <note type="contents">2. fol. 1b-2b: [al-]Khuṭab wa-al-taḥmīdāt / Avicenna</note>
+   <note type="contents">2. fol. 1b-2b: [al-]Khuṭab wa-al-taḥmīdāt / Avicenna</note>
+   <note type="contents">3. fol 3b-12b: Risālah ilá Abī Rayḥān Muḥammad al-Bīrūnī / Avicenna</note>
+   <note type="contents">4. fol. 13b-17a: Maqālah fī khaṭaʼ man qāla inna shayʼan huwa jawhar wa-ʻaraḍ maʻan / Avicenna</note>
+   <note type="contents">5. fol. 17b-68a: Kitāb al-Mubāḥathāt / Avicenna</note>
+   <note type="contents">6. fol. 68b-70Ab: Ajwibah ʻan ʻashr masāʼil / Avicenna</note>
+   <note type="contents">7. fol. 70Ab-71a: Risālah fī al-radd ʻalá man qāla inna al-insān talāshā wa-faniya / Aflāṭūn</note>
+   <note type="contents">8. fol. 71b-89b: Iḥṣāʼ al-ʻulūm / Fārābī</note>
+   <note type="contents">9. fol. 90b-93a: Maqālah fī qawānīn ṣināʻat al-shuʻarāʼ / Fārābī</note>
+   <note type="contents">10. fol. 93b-125a: al-Kitāb fī mabādiʼ ārāʼ ahl al-madīnah al-fāḍilah / Fārābī</note>
+   <note type="contents">11. fol. 125b-130a: Tafsīr li-baʻḍ suwar kalām Allāh / Avicenna</note>
+   <note type="contents">11a. fol. 125b-128a: Tafsīr sūrat al-Ikhlāṣ / Avicenna</note>
+   <note type="contents">11b. fol. 128a-129b: Tafsīr sūrat al-Falaq / Avicenna</note>
+   <note type="contents">11c. fol. 129b-130a: Tafsīr sūrat al-Nās / Avicenna</note>
+   <note type="contents">12. fol. 130b-142a: Kitāb Taḥqīr al-ladhdhāt / Fakhr al-Dīn al-Rāzī</note>
+   <note type="contents">13. fol. 142b-149a: Risālat al-Firdaws / Avicenna</note>
+   <note type="contents">14. fol. 149b-156a: al-Siyāsah / Avicenna</note>
+   <note type="contents">15. fol. 156b-158b: Risālat al-arzāq / Avicenna</note>
+   <note type="contents">16. fol. 159a-160a: Risālah fī īḍāḥ barāhīn mustanbaṭah fī masāʼil ʻawīṣah / Avicenna</note>
+   <note type="contents">17. fol. 160b-175b: Kitāb Mukhtaṣar Anūlūṭīqā al-ūlá / Fārābī</note>
+   <note type="contents">18. fol. 176a-177a: Risālah fī ḥarakat al-kull / Alexander of Aphrodisias</note>
+   <note type="contents">19. fol. 177b-266a: Taʻlīqāt / Avicenna</note>
+   <note type="contents">20. fol. 266b-270a: Kitāb fī ibṭāl aḥkām al-nujūm / Fārābī</note>
+   <note type="contents">21. fol. 270b-293b: Kitāb fī al-ārāʼ al-ṭabīʻīyah allatī taqūl bihā al-ḥukamāʼ / Pseudo-Plutarchus</note>
+   <note type="contents">22. fol. 294a-295a: al-Maqālah fī al-jihah allatī yaṣiḥḥu ʻalayhā al-qawl fī aḥkām al-nujūm / Fārābī</note>
+   <note type="contents">23. fol. 295b-305a: Risālah ilá al-Iskandar fī al-ʻālam wa-al-makhlūqāt [De mundo] / Pseudo-Aristotle</note>
+   <note type="contents">24. fol. 305b-310b: Sharḥ Waṣāyā Fūthāghūras al-faylasūf</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Āl Kāshif al-Ghiṭāʼ, ʻAlī</namePart>
+      </name>
+      <topic>Library</topic>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran. Selections</title>
+      </titleInfo>
+      <genre>Commentaries</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic philosophy</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 431, 435, 437, 2486, 2950, 2984, 2989, 2994, 2995, 2996, 3002, 3009, 3010, 3011, 3013, 3014, 3016, 3017, 3018, 3020, 3156, 3867</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Kritzeck, J. "Avicenniana. Une majmuʻa philosophique à Princeton", MIDEO 3 (1956), p. 375-380</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Reisman, D. The Making of the Avicennan Tradition (2002), p. 67</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Avicenna</namePart>
+         <namePart type="date">980-1037</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Pseudo Aristotele</namePart>
+      </name>
+      <titleInfo>
+         <title>De mundo. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Proclus</namePart>
+         <namePart type="date">ca. 410-485</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah li-Aflāṭun fī al-radd ʻalá man qāla inna al-insān talāshā wa-faniya</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Alexander</namePart>
+         <namePart type="termsOfAddress">of Aphrodisias</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī ḥarakat al-kull</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Fārābī</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Rāzī</namePart>
+         <namePart type="given">Fakhr al-Dīn Muḥammad ibn ʻUmar</namePart>
+         <namePart type="date">1149 or 50-1210</namePart>
+      </name>
+      <titleInfo>
+         <title>Taḥqīr al-ladhdhāt</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Peri tōn areskontōn philosophois physikōn dogmatōn. Arabic</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Sharḥ al-Waṣīyah al-dhahabīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 308Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/308y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4782526</recordOrigin>
+   </recordInfo>
+</mods>

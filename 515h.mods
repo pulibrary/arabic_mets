@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara">
+      <title>Kitāb Unmūzaj [sic] al-ʻulūm … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Balawī</namePart>
+      <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+      <namePart type="date">d. 1163 or 4</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">بلوي</namePart>
+      <namePart type="given">محمد بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 19th century</genre>
+   <genre>Manuscripts, Turkish - 19th century</genre>
+   <originInfo>
+      <dateCreated>[18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1800</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language><language>
+      <languageTerm type="code" authority="iso639-2b">ota</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>182 leaves : paper, ill. ; 203 × 139 mm. bound to 204 × 15 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts on the classification of sciences and astronomy, with tables and figures</abstract>
+   <note>Ms. codex</note>
+   <note type="physicalDetails">Number of lines per page varies, as does the written surface (see individual records). Written in black ink with use of red, yellow and green. There are three
+      main scripts in the volume: fol. 2b-75b (text 1); fol. 76a-77b, and fol. 78a-169b. European glazed paper. Table of contents on fol. 1b. Ownership statement signed al-Sayyid Aḥmad Rifʻat
+      on fol. 1a. Ownership statements in Turkish dated from the 13th c. H. [19th c.] on fol. 181b. Foliation using Arabic numerals (starting on fol. 2). Modern foliation in pencil using Western
+      numerals (with two fol. 178)</note>
+   <note>Illustrations: Dāʼirah (fol. 82a, 82b, 95b, 96b, 97b, 98b, 99a, 107b, 116a, 129a, 148bis b, 150b); quadrants (fol. 119a, 129a, 129b)</note>
+   <note type="physicalDetails">Contains also in the margins, at the end of the main texts, and on small pieces of paper placed between the leaves, excerpts from several other texts, such as
+      al-Kulliyāt by Abū al-Baqāʼ (Kaffawī, Ayyūb ibn Mūsá, d. 1682 or 3), al-Taʻrīfāt by al-Munāwī (d. 1621), Anwār al-tanzīl by ʻAbd Allāh ibn ʻUmar al-Bayḍawī (d. 1286?), Bustān
+      al-ʻĀrifīn by Abū Layth al-Samarqandī (d. 983?), al-Tawḍīḥ by Ṣadr al-sharīʻah (ʻUbayd Allāh al-Maḥbūbī, d. 1346 or 7), al-Talwīḥ by Masʻūd ibn ʻUmar al-Taftāzānī (d.
+      1389?), the Zīj of Ibn al-Shāṭir (d. 1375), excerpts from untitled texts signed al-Khayālī, al-Ḥaddādī, al-Tūqātī, and from unsigned texts entitled Jāmiʻ ikhtilāf al-madhāhib,
+      Gharāʼib al-Qurʼān, Kitāb Rashaḥāt ʻayn al-ḥayāh, Risālat Ḥall dāʼirat al-muʻaddil, Risālat ʻIlm al-ḥikmah, etc</note>
+   <note type="contents">1. fol. 2b-75b : Kitāb Unmūdhaj al-ʻulūm / [Muḥammad ibn Aḥmad] al-Ṭarsūsī [al-Balawī] (d. 1163 or 4)</note>
+   <note type="contents">2. fol. 76a-81b : al-Sharḥ fī al-dāʼirah al-hindīyah li-mawlānā Ṣadr al-sharīʻah / Ḥusayn al-Ḥusaynī al-Khalkhālī (d. 1605)</note>
+   <note type="contents">3. fol. 82a-83a : [Excerpts from a text by al-Sayyid ʻAlī al-Jaghmūnī and from the Risālat muʻaddil al-nahār by al-Salīmī, with two figures]</note>
+   <note type="contents">4. fol. 83b-88a : Risālah mukhtaṣarah fī asmāʼ al-rusūm al-marsūmah ʻalá al-ālah al-musammāh bi-al-usṭurlāb al-shamālī</note>
+   <note type="contents">5. fol. 88b-94b : al-Risālah fī al-usṭurlāb / ʻAbd al-Ḥalīm al-Qayṣarī [Söilemzādeh]</note>
+   <note type="contents">6. fol. 95a-99b : Tashrīḥ al-aflāk / Bahāʼ al-Dīn Muḥammad al-ʻĀmilī (d. 1621)</note>
+   <note type="contents">7. fol. 100a-102a : [Short excerpts from several texts, in Arabic and Turkish]</note>
+   <note type="contents">8. fol. 102b-105a : Rūznāmah / Darendeli</note>
+   <note type="contents">9. fol. 105b-107a : Rūznāmah / Qāḍīʹzādah, Mūsá ibn Muḥammad (d. ca. 1436)</note>
+   <note type="contents">10. fol. 107b : Awwal al-burūj min Risālat al-Rubʻ al-mujayyab [with a figure] / ʻAlī al-Jaghmūnī(?)</note>
+   <note type="contents">11. fol. 108a-131b : Naḍrat al-lubāb fī sharḥ Bahjat al-albāb / Muḥammad ibn ʻAlī al-Ḥumaydī (d. 1765 or 6)</note>
+   <note type="contents">12. fol. 131b-132a : al-Risālah fī rubʻ al-dāʼirah fī jānib al-muqanṭarāt. Bāb 21 / Muḥammad ibn Kātib Sinān (d. 1523?)</note>
+   <note type="contents">13. fol. 132a : [Portion of a text on the lunar mansions] / al-Waḥdatī</note>
+   <note type="contents">14. fol. 132b-135b : Tuḥfat al-mukhtaṣarāt fī maʻrifat al-qiblah wa-awqāt al-ṣalawāt / Muḥammad Sibṭ al-Māridīnī (b. 1423)</note>
+   <note type="contents">15. fol. 136a-139a : Risālah fī al-ʻamal bi-al-rubʻ al-marsūm ʻalay-hā al-muqanṭarāt / Shihāb al-Dīn Aḥmad ibn al-Majdī (d. 1447)</note>
+   <note type="contents">16. fol. 139a-143a : Risālat al-Kurah / Muḥammad ibn ʻAlī al-Ḥumaydī (d. 1765 or 6)</note>
+   <note type="contents">17. fol. 143b-146a : Ḥāshīyah ʻalá Sharḥ al-Mulakhkhaṣ / ʻAbd al-Karīm al-Niẓāmī (15th cent.)</note>
+   <note type="contents">18. fol. 146b-165b : al-Kitāb fī sharḥ al-Mulakhkhaṣ li-Jighmīnī / Mūsá ibn Muḥammad Qāḍīʹzādah (d. ca. 1436)</note>
+   <note type="contents">19. fol. 166a-169b : [Risālah fī al-ʻamal bi-al-asṭurlāb] / Ḥaydar ibn ʻAbd al-Raḥmān al-Jazarī</note>
+   <note type="contents">20. fol. 170a-181a : [Blank]</note>
+   <note type="contents">21. fol. 181b : [Inscriptions in Turkish]</note>
+   <note type="contents">22. fol. 182 : [Blank]</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, from the books of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers made of marbled paper with leaf motifs pasted on leather over paper pasteboards. Similar to Princeton University Library, Islamic manuscripts,
+      Garrett no. 15L. Rebacked</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject>
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jighmīnī</namePart>
+         <namePart type="given">Maḥmūd ibn Muḥammad</namePart>
+         <namePart type="date">d. 1221?</namePart>
+      </name>
+      <titleInfo>
+         <title>Mulakhkhaṣ fī al-hayʼah</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astronomical instruments</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Astronomy, Arab</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Classification of sciences</topic>
+      <temporal>12th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prayer</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Qiblah</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Time measurements</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Turkish</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Kaffawī</namePart>
+         <namePart type="given">Ayyūb ibn Mūsá</namePart>
+         <namePart type="date">1618 or 19-1682 or 3</namePart>
+      </name>
+      <titleInfo>
+         <title>Kulliyāt. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Munāwī</namePart>
+         <namePart type="given">ʻAbd al-Raʼūf ibn Tāj al-ʻĀrifīn</namePart>
+         <namePart type="date">d. 1621</namePart>
+      </name>
+      <titleInfo>
+         <title>Tawqīf ʻalá muhimmāt al-taʻārif. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Bayḍāwī</namePart>
+         <namePart type="given">ʻAbd Allāh ibn ʻUmar</namePart>
+         <namePart type="date">d. 1286?</namePart>
+      </name>
+      <titleInfo>
+         <title>Anwār al-tanzīl. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Abū al-Layth al-Samarqandī</namePart>
+         <namePart type="given">Naṣr ibn Muḥammad</namePart>
+         <namePart type="date">d. 983?</namePart>
+      </name>
+      <titleInfo>
+         <title>Bustān al-ʻārifīn. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Maḥbūbī</namePart>
+         <namePart type="given">ʻUbayd Allāh ibn Masʻūd</namePart>
+         <namePart type="date">d. 1346 or 7</namePart>
+      </name>
+      <titleInfo>
+         <title>Tawḍīḥ. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Taftāzānī</namePart>
+         <namePart type="given">Masʻūd ibn ʻUmar</namePart>
+         <namePart type="date">1322-1389?</namePart>
+      </name>
+      <titleInfo>
+         <title>Talwīḥ. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Shāṭir</namePart>
+         <namePart type="given">ʻAlī ibn Ibrāhīm</namePart>
+         <namePart type="date">1304-1375</namePart>
+      </name>
+      <titleInfo>
+         <title>Zīj</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Salīmī</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālat muʻaddil al-nahār. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jaghmūnī</namePart>
+         <namePart type="given">ʻAlī</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālat al-Rubʻ al-mujayyab. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Waḥdatī</namePart>
+      </name>
+      <titleInfo supplied="yes">
+         <title>On the lunar mansions. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Sibṭ al-Māridīnī</namePart>
+         <namePart type="given">Badr al-Dīn Muḥammad ibn Muḥammad</namePart>
+         <namePart type="date">b. 1423</namePart>
+      </name>
+      <titleInfo>
+         <title>Tuḥfat al-mukhtaṣarāt fī maʻrifat al-qiblah wa-awqāt al-ṣalawāt</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">ʻĀmilī</namePart>
+         <namePart type="given">Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+         <namePart type="date">1547-1621</namePart>
+      </name>
+      <titleInfo>
+         <title>Tashrīḥ al-aflāk</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Khalkhālī</namePart>
+         <namePart type="given">Ḥusayn al-Ḥusaynī</namePart>
+         <namePart type="date">d. 1605</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ al-dāʼirah al-Hindīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qāḍīʹzādah</namePart>
+         <namePart type="given">Mūsá ibn Muḥammad</namePart>
+         <namePart type="date">d. ca. 1436</namePart>
+      </name>
+      <titleInfo>
+         <title>Rūznāmah-yi Qāḍīʹzādah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Darendelī</namePart>
+      </name>
+      <titleInfo>
+         <title>Rūznāmah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ḥumaydī</namePart>
+         <namePart type="given">Muḥammad ibn ʻAlī</namePart>
+         <namePart type="date">d. 1765 or 6</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālat al-Kurah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Muwaqqit</namePart>
+         <namePart type="given">Muḥammad ibn Kātib Sinān</namePart>
+      </name>
+      <titleInfo>
+         <title>Mūḍiḥ al-awqāt</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Suwaylamʹzādah</namePart>
+         <namePart type="given">ʻAbd al-Ḥalīm</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī al-usṭurlāb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn al-Majdī</namePart>
+         <namePart type="given">Aḥmad ibn Rajab</namePart>
+         <namePart type="date">1366-1447</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī al-ʻamal bi-al-rubʻ al-marsūm ʻalay-hā al-muqanṭarāt</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jazarī</namePart>
+         <namePart type="given">Ḥaydar ibn ʻAbd al-Raḥmān</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī al-ʻamal bi-al-asṭurlāb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ḥumaydī</namePart>
+         <namePart type="given">Muḥammad ibn ʻAlī</namePart>
+      </name>
+      <titleInfo>
+         <title>Naḍrat al-lubāb fī sharḥ Bahjat al-albāb</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Qāḍīʹzādah</namePart>
+         <namePart type="given">Mūsá ibn Muḥammad</namePart>
+         <namePart type="date">d. ca. 1436</namePart>
+      </name>
+      <titleInfo>
+         <title>Sharḥ al-Jighmīnī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Niẓāmī</namePart>
+         <namePart type="given">ʻAbd al-Karīm</namePart>
+         <namePart type="date">15th cent</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥāshīyah ʻalá Sharḥ al-Mulakhkhaṣ</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālah fī asmāʼ rusūm al-asṭurlāb wa-baʻḍ aʻmālihā</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 515H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/515h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4845911</recordOrigin>
+   </recordInfo>
+</mods>

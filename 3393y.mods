@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Majmūʻ min al-rasāʾil</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>مجموع من الرسائل</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Ibn Quṭlūbughā</namePart>
+      <namePart type="given">al-Qāsim ibn ʻAbd Allāh</namePart>
+      <namePart type="date">1399 or 1400-1474 or 5</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">ابن قطلوبغا</namePart>
+      <namePart type="given">القاسم بن عبد الله</namePart>
+
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated>[between 17--? and 1879]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1879</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>123 leaves: paper ; 203 × 160 (150 × 80) mm. bound to 203 × 160 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several works by Ibn Quṭlūbughā, mainly short questions regarding ritual or purity matters</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from table of contents on fol. 1a</note>
+   <note type="physicalDetails">Physical description: 29 lines per page. Written in medium small naskh in black ink, with use of red for headings and re-inking. Light cream European paper; glossy.
+      Fol. 1 is apparently a later replacement. Yellow thread page markers to indicate beginning of text. Title on tail of text block. Modern foliation in pencil using Western numerals (one fol.
+      between fol. 36 and 37: blank) ; another modern foliation using Arabic numerals (this record follows the latter)</note>
+   <note>Inscription in Arabic script on a handmade label pasted on the upper cover: "Rasāʾil 23 [in black ink] SH 150 [in red pencil, repeated on a label pasted on pastedown of the upper cover]</note>
+   <note type="contents">1. fol. 1a: Fihrist mā fī hādhā al-majmūʻ min al-rasāʾil taʾlīf al-Shaykh Qāsim ibn Quṭlūbughā</note>
+   <note type="contents">2. fol. 1b-16a: Rafʻ al-ishtibāh ʻan masʾalah al-miyāh / Ibn Quṭlūbughā</note>
+   <note type="contents">3. fol. 16a-22a: Risālah fīhi ajwibat baʻḍ masāʾil waqaʻat / Ibn Quṭlūbughā</note>
+   <note type="contents">4. fol. 22a-26a: Aḥkām al-faʾrah idhā waqaʻat fī al-zayt wa-naḥwih / Ibn Quṭlūbughā</note>
+   <note type="contents">5. fol. 26a-28b: Aḥkām al-ṣalāh ʻalá al-jināzah fī al-masjid / Ibn Quṭlūbughā</note>
+   <note type="contents">6. fol. 28b-33a: Fī al-tarāwiḥ wa-al-witr / Ibn Quṭlūbughā</note>
+   <note type="contents">7. fol. 33a-35b: al-Fawāʾiḍ al-jallah fī masʾalat ishtibāh al-qiblah / Ibn Quṭlūbughā</note>
+   <note type="contents">8. fol. 35b-37b: Aḥkām al-qahqahah / Ibn Quṭlūbughā</note>
+   <note type="contents">9. fol. 37b-41a: al-Aṣl fī bayān al-faṣl wa-al-waṣl / Ibn Quṭlūbughā</note>
+   <note type="contents">10. fol. 41a-45b: al-Usūs fī kayfīyat al-julūs / Ibn Quṭlūbughā</note>
+   <note type="contents">11. fol. 45b-48a: Taḥrīr al-aqwāl fī ṣawm al-sitt min Shawwāl / Ibn Quṭlūbughā</note>
+   <note type="contents">12. fol. 48a-51a: Risālah fī qaḍāʾ al-qāḍī / Ibn Quṭlūbughā</note>
+   <note type="contents">13. fol. 51a-52a: [Fatwā fī al-ʻiddah] / Ibn Quṭlūbughā</note>
+   <note type="contents">14. fol. 52a-53a: Masʾalah fī ḥaṭṭ al-thaman wa-al-ibrāʾ minhu / Ibn Quṭlūbughā</note>
+   <note type="contents">15. fol. 53a-57b: Masāʾil al-shuyūʻ / Ibn Quṭlūbughā</note>
+   <note type="contents">16. fol. 57b-63b: Aḥkām al-tazkiyah wa-al-shahādah / Ibn Quṭlūbughā</note>
+   <note type="contents">17. fol. 63b-68a: Masāʾil al-tazkiyah min al-Muntaqá / Ibn Quṭlūbughā</note>
+   <note type="contents">18. fol. 68a-74a: al-Qawl al-qāʾim fī bayān taʾthīr ḥukm al-ḥākim / Ibn Quṭlūbughā</note>
+   <note type="contents">19. fol. 74a-84a: Mā yunqaḍ min al-qaḍāʾ / Ibn Quṭlūbughā</note>
+   <note type="contents">20. fol. 84a-88a: Taḥrīr al-aqwāl fī masʾalat al-istibdāl / Ibn Quṭlūbughā</note>
+   <note type="contents">21. fol. 88a-93a: Masʾalah fī al-waqf wa-ishtirāṭ al-naẓar lil-arshad fa-al-arshad / Ibn Quṭlūbughā</note>
+   <note type="contents">22. fol. 93a-108a: Ṣūrat suʾāl / Ibn Quṭlūbughā</note>
+   <note type="contents">23. fol. 108a-114b: Fī ḥafar al-murabbaʻāt / Ibn Quṭlūbughā</note>
+   <note type="contents">24. fol. 114b-120b: Ḥukm al-khulʻ wa-ḥukm al-Ḥanbalī fīhi / Ibn Quṭlūbughā</note>
+   <note type="contents">25. fol. 120b-123a: Taʻrīf al-mustarshid fī ḥukm al-ghirās fī al-masjid / Ibn Quṭlūbughā</note>
+   <note type="provenance">Several ownership statements on fol. 1a, including one in the name of Muṣṭafá ibn al-marḥūm al-shaykh Muḥammad Ṣādiq Efendi najal al-ʻallāmah al-humām ʻAmrī
+      Zade al-shaykh Muḥammad Saʻdī Aq--? al-Ḥanafī al-Dimashqī, dated end of Muḥarram 1296 [Jan. 1879], with mention of price (alternate line in black and red). Acquired from Abraham Shalom
+      Yahuda, 1942</note>
+   <note type="bindingInfo">Red leather over paper for upper and lower covers. Both covers are similarly tooled with a central square gilt knot-work pattern developing into a single fillet, and
+      a border consisting of blind tooled and gold painted fillets. Purple paper pastedowns. Rebacked</note>
+   <note type="additionalForm">Microfilm negative available for reproduction</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hanafites</topic>
+      <temporal>15th century</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 1105, 1106, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1741, 1742, 1743, 1744, 1745, 1746, 1827</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 3393Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3393y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5332498</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4"
+    xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <typeOfResource manuscript="yes">text</typeOfResource>
+    <titleInfo script="Latn" lang="ara" altRepGroup="1" supplied="yes">
+        <title>Kitāb al-asʼilah al-sabʻah ; Shadd al-athwāb fī sadd al-abwāb … etc.</title>
+    </titleInfo>
+    <titleInfo script="Arab" lang="ara" altRepGroup="1" supplied="yes">
+        <title>كتاب الاسئلة السبعة ؛ شد الاثواب في سد الابواب</title>
+    </titleInfo>
+    <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+        <namePart type="given">Suyūṭī</namePart>
+        <namePart type="date">1445-1505</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+        </role>
+    </name>
+    <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+        <namePart type="given">سيوطي</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+        </role>
+    </name>
+    <genre>Manuscripts, Arabic - 18th century</genre>
+    <originInfo>
+        <!-- <dateCreated>[between 1715 and 1722]</dateCreated>-->
+        <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1715</dateCreated>
+        <dateCreated encoding="w3cdtf" qualifier="approximate">1722</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+    </language>
+    <physicalDescription>
+        <extent>ii, 122, ii leaves: paper ; 220 × 160 (160 × 105) mm. bound to 220 × 160 mm.</extent>
+    </physicalDescription>
+    <abstract>Collection of fifteen short treatises by al-Suyūṭī</abstract>
+    <note>Ms. codex</note>
+    <note type="titleSrc">Title provided by cataloger</note>
+    <note type="physicalDetails">17 lines per page (Text 9: 25 lines per page). Written in medium small naskh(?) in black ink with use of red. Dark cream glazed European paper with watermark.
+        Fol. 115-122 on a clearer glazed European paper with watermark, apparently from another hand. Foliation in black ink using Arabic numerals. Table of contents on fol. IIa. Inscription in
+        Arabic script on a label pasted on the upper cover: "Mujammaʻ 6". Inscription in Arabic script on a label pasted on the pastedown of the upper cover: "504/2 Ḥāʼ"</note>
+    <note type="origin">Copied by Khulūṣ Darwīsh Ḥasan ibn ʻAlī ibn Muḥammad ibn Muḥarram ibn Ḥasan Faqīh ibn Zafar Faqīh al-Junaydī(?) al-Ḥanafī al-Khilwatī al-Ṭūpkhānūʼī (fol. 5b, 6a, 13a,
+        26a, 28b, 33a, 36a, 38b, 43b, 64a, 71a, 94b, 102a, 114b). Copy of Text 1 completed on Yawm al-Jumʻah(?) 21 Muḥarram 1127 [January 27, 1715] (colophon, fol. 5b). Copy of Text 2 completed
+        on Yawm al-Aḥad(?) 23 Muḥarram 1127 [January 29, 1715] (colophon, fol. 13a). Copy of Texts 3 and 4 completed on 6 Ṣafar 1127 [February 11, 1715] (colophons, fol. 26a and 28b). Copy of
+        Text 5 completed on 8 Ṣafar 1127 [February 13, 1715] (colophon, fol. 33a). Copy of Texts 6 and 7 completed on 9 Ṣafar 1127 [February 14, 1715] (colophons, fol. 36a and 38b). Copy of Text
+        8 completed on 22 Shaʻbān 1132 [June 29, 1720] (colophon, fol. 43b). Copy of Text 9 completed on 6 Shawwāl 1134 [July 20, 1722] (colophon, fol. 54a). Copy of Text 10 started on Wednesday
+        [10 Muḥarram] ("yawm ʻĀshūrá") 1127 [January 16, 1715] (title page, fol. 55a) and completed on 14 Muḥarram 1127 [January 20, 1715] (colophon, fol. 64a). Copy of Text 11 completed 26
+        Dhū al-Ḥijjah 1126 [January 2, 1715] (colophon, fol. 71a). Copy of Text 12 completed on Wednesday [10 Muḥarram] ("yawm ʻĀshūrá") 1127 [January 16, 1715] (colophon, fol. 94b). Copy
+        of Text 13 completed on 17 Muḥarram 1127 [January 23, 1715] (colophon, fol. 102a). Copy of Text 14 completed on 20 Muḥarram 1127 [January 26, 1715] (colophon, fol. 114b). Often, the day
+        of the week mentioned in the colophons does not seem to correspond to the date given</note>
+    <note type="physicalDetails">Collation: Paper, fol. ii, 122, ii ; ii (endleaves on glazed European paper with watermark, with table of contents on fol. IIa) + 1-4¹⁰ 5¹⁴ 6-11¹⁰ 12⁸ + ii ; catchword
+        on the verso of each leaf</note>
+    <note type="bindingInfo">Marbled paper pasted on stiffened brown leather for upper and lower covers. Yellow paper pastedowns</note>
+    <note type="contents">1. fol. I: [Blank]</note>
+    <note type="contents">2. fol. IIa: [Table of contents]</note>
+    <note type="contents">3. fol. 1a-5b (Text 1): Kitāb al-asʼilah al-sabʻah fī aḥwāl al-mawtá wa-al-jawāb ʻanhā / lil-Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">4. fol. 6a-13a (Text 2): Kitāb Shadd al-athwāb fī sadd al-abwāb / li-Khātimat al-ḥuffāẓ wa-al-mudaqqiqīn Jalāl al-ḥaqq wa-al-millah wa-al-dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">5. fol. 13b: [Blank]</note>
+    <note type="contents">6. fol. 14a-26a (Text 3): Kitāb Qaṭf al-azhār al-mutanāthirah fī al-akhbār al-mutawātirah / lil-ʻAllāmah khātim al-ḥuffāẓ Jalāl al-ḥaqq wa-al-sharīʻah wa-al-dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">7. fol. 26b: [Blank]</note>
+    <note type="contents">8. fol. 27a-28b (Text 4): Arbaʻūn ḥadīth fī al-aḥkām al-sharʻīyah wa-faḍāʼil al-aʻmāl wa-al-zuhd / jamaʻa al-ʻAllāmah khātim al-ḥuffāẓ Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī [Title in Table of contents: "Ḥadīth al-arbaʻīn fī aḥkām al-sharīʻah"]</note>
+    <note type="contents">9. fol. 29a-33a (Text 5): Kitāb Qawl al-faṣīḥ fī taʻyīn al-dhabīḥ / lil-Imām al-humām Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī</note>
+    <note type="contents">10. fol. 33b: [Blank]</note>
+    <note type="contents">11. fol. 34a-36a (Text 6): al-Ḥaẓẓ al-wāfir min al-maghnam fī istidrāk al-kāfir idhā aslama / lil-ʻAllāmah Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">12. fol. 36b: [Blank]</note>
+    <note type="contents">13. fol. 37a-38b (Text 7): Kitāb al-Qudhādhah fī taḥqīq maḥall al-istiʻādhah / lil-ʻAllāmah khātimat al-ḥuffāẓ Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">14. fol. 39a-43b (Text 8): Kitāb Natījat al-fikr fī al-jahr bi-al-dhikr / li-Mawlānā khātimat al-ḥuffāẓ Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī</note>
+    <note type="contents">15. fol. 44a-54a (Text 9): Kitāb Tanwīr al-ḥalak fī imk[ān] ruʼyat al-nabī wa-al-malak / lil-Imām Khātim[--] Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyū[ṭī] [Title in Table of contents: "Kitāb al-Ḥalak fī imkān ruʼyat al-nabī wa-al-malak"]</note>
+    <note type="contents">16. fol. 54b: [Blank]</note>
+    <note type="contents">17. fol. 55a-64a (Text 10): al-Maqāmah al-sundusīyah fī īmān abaway khayr al-barīyah / li-Khātimat al-ḥuffāẓ Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">18. fol. 64b: [Blank]</note>
+    <note type="contents">19. fol. 65a-71a (Text 11): al-Maqāmah al-yāqūtīyah / taʼlīf khātimat al-ḥuffāẓ Jalāl al-Dīn Abū al-Faḍl ʻAbd al-Raḥmān al-Suyūṭī</note>
+    <note type="contents">20. fol. 71a-94b (Text 12): Kitāb al-Fawāʼid al-kāminah fī īmān al-sayyidah Āminah, wa-yusammá ayḍan al-Taʻẓīm wa-al-minnah fī anna abaway al-Nabī fī al-jannah / lil-ʻAllāmah Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī</note>
+    <note type="contents">21. fol. 95a-102a (Text 13): Kitāb Tanbiʼat al-ghabī fī tabriʼat Ibn ʻArabī al-maʻrūd bi-Shaykh al-akbar Muḥyī al-Dīn Muḥammad ibn ʻAlī al-ʻArabī al-Khātimī al-Ṭāʼī al-Andalusī al-Maghribī / taʼlīf Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">22. fol. 102b: [Blank]</note>
+    <note type="contents">23. fol. 103a-114b (Text 14): Kitāb al-Iʻlām fī ḥukm ʻĪsá ʻalayhi al-ṣalāh wa-al-salām / taʼlīf Jalāl al-Dīn al-Imām ʻAbd al-Raḥmān al-Suyūṭī al-Shāfiʻī</note>
+    <note type="contents">24. fol. 115a: [Blank]</note>
+    <note type="contents">25. fol. 115b-122a (Text 15): Risālat al-amānī fī uṣūl al-tahānī / lil-Jalāl al-Suyūṭī [Title in Table of contents: "Kitāb Wuṣūl al-amānī bi-uṣūl al-tahānī"]</note>
+    <note type="provenance">From the books of Aḥmad Najīb [19th cent.] (fol. IIa). Acquired from Abraham Shalom Yahuda, 1942</note>
+    <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+    <subject authority="lcsh">
+        <name type="personal" authority="naf" script="Latn" lang="ara">
+            <namePart type="given">Jesus Christ</namePart>
+        </name>
+        <topic>Islamic interpretations</topic>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal" authority="naf" script="Latn" lang="ara">
+            <namePart type="given">Ibn al-ʻArabī</namePart>
+            <namePart type="date">1165-1240</namePart>
+        </name>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Islam</topic>
+        <topic>Doctrines</topic>
+        <temporal>15th century</temporal>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Future life</topic>
+        <topic>Islam</topic>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Apparitions</topic>
+        <topic>Religious aspects</topic>
+        <topic>Islam</topic>
+        <genre>early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Visions</topic>
+        <topic>Religious aspects</topic>
+        <topic>Islam</topic>
+        <genre>early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Faith (Islam)</topic>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Manuscripts, Arabic</topic>
+        <geographic>New Jersey</geographic>
+        <geographic>Princeton</geographic>
+    </subject>
+    <relatedItem type="isReferencedBy">
+        <note>Mach, R. Yahuda, 122, 662, 725, 799, 1684, 2043, 2546, 2548, 2925, 4342, 4398, 4574, 4577, 4708, 5095</note>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <note>Iqbāl, A. al-Shirqāwī. Maktabat al-Jalāl al-Suyūṭī (1977), no. 28, 202, 209, 277, 345, 387, 500, 506, 509, 522, 566, , 637/23, 367/35, 668, 718</note>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <note>Shaybānī, M. Dalīl makhṭūṭāt al-Suyūṭī (1995), no. 61, 149, 190, 229, 236, 260, 338, 419, 443, 525, 539, 592</note>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Lumʻah fī ajwibat al-asʼilah al-sabʻah</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Shadd al-athwāb fī sadd al-abwāb</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Qaṭf al-azhār al-mutanāthirah fī al-akhbār al-mutawātirah</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Arbaʻūn ḥadīth fī qawāʻid al-aḥkām al-sharʻīyah wa-faḍāʼil al-aʻmāl</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Qawl al-faṣīḥ fī taʻyīn al-dhabīḥ</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ḥaẓẓ al-wāfir min al-maghnam fī istidrāk al-kāfir idhā aslam</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Qudhādhah fī taḥqīq maḥall al-istiʻādhah</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Natījat al-fikr fī al-jahr bi-al-dhikr</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Tanwīr al-ḥalak fī imkān ruʼyat al-nabī wa-al-malak</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Maqāmah al-sundusīyah</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Maqāmah al-yāqūtīyah</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fawāʼid al-kāminah fī īmān al-sayyidah Āminah</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Tanbiʼat al-ghabī fī tabriʼat Ibn ʻArabī</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Wuṣūl al-amānī bi-uṣūl al-tahānī</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Islamic Manuscripts Collection</title>
+        </titleInfo>
+        <location>
+            <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+        <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+        <holdingSimple>
+            <copyInformation>
+                <subLocation>mss</subLocation>
+                <shelfLocator>Islamic Manuscripts, Garrett no. 2889Y</shelfLocator>
+            </copyInformation>
+        </holdingSimple>
+    </location>
+    <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+    <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+    <recordInfo>
+        <recordContentSource authority="marcorg">PUL</recordContentSource>
+        <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/2889y.mods</recordIdentifier>
+        <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4991108</recordOrigin>
+    </recordInfo>
+</mods>

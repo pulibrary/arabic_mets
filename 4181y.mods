@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Kitāb al-Kāfī fī al-ʻaqd al-ṣāfī ; al-Qusṭās al-mustaqīm … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="given">Ghazzālī</namePart>
+      <namePart type="date">1058-1111</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="given">غزالي</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" altRepGroup="11" script="Latn" lang="ara">
+      <namePart type="family">Mawṣilī</namePart>
+      <namePart type="given">Ḥusayn ibn al-Mubārak</namePart>
+      <namePart type="date">d. 1341</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cll</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" altRepGroup="11" script="Arab" lang="ara">
+      <namePart type="family">موصلي</namePart>
+      <namePart type="given">حسين بن المبارك</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cll</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Manuscripts, Arabic - Syria - Damascus - 14th century</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Damascus</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1305</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 113, i leaves : paper ; 165 × 123 (140 × 100) mm. bound to 165 × 140 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several treatises, some fragmentary or defective, by al-Ghazzālī</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger, from the titles of the two first treatises in the volume</note>
+   <note type="physicalDetails">Physical description: 21 lines per page. Written in small naskh in black ink with use of red. Cream paper, glossy, hardly translucid, with chain lines and pulp
+      visible. Fol. I is a later added leaf with inscriptions, including a table of contents. Leaves missing between fol. II and III. Fol. 74, 77, 79-81, and 112 are later added leaves (European
+      paper), blank, except for a Fāʾidah on fol. 112a. A few leaves crudely repaired, with loss of text. Modern foliation in pencil using Western numerals (omits the first three folios, numbered
+      I-III). Foliation in black ink using Arabic numerals from "34" to "62"on fol. 21a-49a in the faulty modern foliation; from "13" to "33", on fol. 52a-72a; from "1" to "4" (not in order)
+      on fol. 73, 75-76, and 78; from "5" to "12" on fol. 82a-89a</note>
+   <note>Inscription in Arabic script on a label pasted on the upper cover: "SH 63"</note>
+   <note type="contents">1. fol. Ia: [Table of contents]</note>
+   <note type="contents">2. fol. IIa-b: Kitāb al-Kāfī fī al-ʻaqd al-ṣāfī [only first page] / al-Ghazzālī. -- Mach, R. Yahuda, no. 2219</note>
+   <note type="contents">3. fol. IIIa-16b: al-Qusṭās al-mustaqīm [aceph. ; first title: al-Qawl fī mīzān al-talāzum] / al-Ghazzālī</note>
+   <note type="contents">4. fol. 17a-20b: ʻAqīdat ahl al-sunnah [i.e. Kitāb Iḥyāʾ ʻulūm al-dīn. Kitāb qawāʻid al-ʻaqāʾid. Faṣl 1] / al-Ghazzālī. -- Mach, R. Yahuda, no. 2218</note>
+   <note type="contents">5. fol. 21a-49b: Kitāb Iljām al-ʻawāmm ʻan ʻilm al-kalām / al-Ghazzālī. -- Mach, R. Yahuda, no. 2387</note>
+   <note type="contents">6. fol. 51a-71b: Kitāb al-Munqidh min al-ḍalāl / al-Ghazzālī. -- Mach, R. Yahuda, no. 3025</note>
+   <note type="contents">7. fol. 73a-78b: al-Durrah al-fākhirah fī kashf ʻulūm al-ākhirah [fragments; fol. 74 and 77 blank] / al-Ghazzālī. -- Mach, R. Yahuda, no. 2531</note>
+   <note type="contents">8. fol. 82a-89b: Jawāhir al-Qurʾān [incomplete at beginning and end] / al-Ghazzālī. -- Mach, R. Yahuda, no. 2160</note>
+   <note type="contents">9. fol. 90a-111a: Kitāb Mishkāt al-anwār / al-Ghazzālī. -- Mach, R. Yahuda, no. 2668</note>
+   <note type="origin">According to colophon of last text, copied by Ḥusayn ibn Mubārak ibn al-thiqah al-Ṣīrafī al-Mawṣilī, Damascus, Khānqāh al-Qaṣāʻīn, on Friday 12 or 22 Jumādá al-Ākhir
+      704(?) (fol. 111a)</note>
+   <note type="provenance">On fol. Ia: Ownership statement in the name of Muḥammad Amīn al-Kazdī(?) ; reading statement ("naẓara fīhi") in the name of Ibrāhīm ibn Aḥmad. On fol. IIa:
+      Two ownership statements, one in the name of Muṣṭafá al-Kazdī(?), the other in the name of Muḥammad Salīm al-Ḥamzawī, dated 1274 H. [1857 or 8]. Reading statement in the name of
+      Yaḥyá ibn Ṣāliḥ on fol. 16b; repeated in a note dated 893 H. [1487 or 8], with the name reading: Yaḥyá ibn Aḥmad ibn Ṣāliḥ, on fol. 20b; repeated on fol. 49b, 71b, and 111b.
+      Reading statement in the name of sayyid Aḥmad Asmā Ibn …? al-Shāfiʻī al-Ṣaydāwī on fol. 20b (wrongly spelled). Reading statement in the name of Ibrāhīm ibn Muḥammad ibn Sharwīn
+      dated Ṣafar 914 [1508] on fol. 71b and Jumādá al-Ākhirah 914 on fol. 111b. Two reading statements on fol. 72a, in the name of Aḥmad ibn Yūsuf ibn al-Mallāḥ al-Shāfiʻī al-Ashʻarī
+      and of ʻAlī ibn al-ḥājj Salāmah al-Shaʻāṭin(?), dated 1064 [1653 or 4] respectively. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Brown leather over paper pasteboards for upper and lower covers, fore-edge flap and envelope-flap. Blind-tooled. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Doctrines</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Customs and practices</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sufism</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 2160, 2218, 2219, 2387, 2531, 2668, 3025</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="1" altRepGroup="12" script="Latn">
+         <title>Durrah al-fākhirah fī kashf ʻulūm al-Ākhirah. Fragments</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="3" altRepGroup="13" script="Latn">
+         <title>Kāfī fī al-ʻaqd al-ṣāfī. Fragments</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="5" altRepGroup="14" script="Latn">
+         <title>Qusṭās al-mustaqīm</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="7" altRepGroup="15" script="Latn">
+         <title>ʻAqīdat ahl al-sunnah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="9" altRepGroup="16" script="Latn">
+         <title>Iḥyāʾ ʻulūm al-dīn. Book 2, Faṣl 1</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="11" altRepGroup="17" script="Latn">
+         <title>Iljām al-ʻawāmm ʻan ʻilm al-kalām</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="13" altRepGroup="18" script="Latn">
+         <title>Munqidh min al-ḍalāl</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="15" altRepGroup="19" script="Latn">
+         <title>Jawāhir al-Qurʾān. Fragments</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo nameTitleGroup="17" altRepGroup="20" script="Latn">
+         <title>Mishkāt al-anwār</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 4181Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/4181y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5325028</recordOrigin>
+   </recordInfo>
+</mods>

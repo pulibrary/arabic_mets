@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Kitāb al-Farāʼid fī maḥāsin al-fawāʼid</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>كتاب الفرائد في محاسن الفوائد</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Minqār</namePart>
+      <namePart type="given">Ṭālib ibn ʻAbd al-Qādir</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart>منقار</namePart>
+      <namePart type="given">طالب بن عبد القادر</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1799</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>77 leaves : paper ; 208 × 150 (175 × 110 and 185 × 115) mm. bound to 208 × 160 mm.</extent>
+   </physicalDescription>
+   <abstract>A treatise in one hundred chapters (fāʼidah) on the magical properties of verses of the Qurʼān, sayings of the Prophet, and other texts, with instructions on how to write talismans
+      and amulets. The volume contains also a biographical essay on the wives of the Prophet, entitled Faṣl fī dhikr azwāj al-nabī, a section on mustache trimming, and several other short
+      texts</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from title page (fol. 1a)</note>
+   <note>The title on the title page is from a later hand. There is no mention of a title in the text itself. The name of the author appears at the beginning of the text (fol. 1b)</note>
+   <note>On the title page (fol. 1a), there is a table of contents mentioning titles of works which are said to be included in the ms, though most of these works are not</note>
+   <note type="physicalDetails">Number of lines per page varies (from 20 to 33). Written in black ink in a casual small to medium small naskh. Fol. 1 and 2a are modern replacements. Magical squares
+      and talismans (see fol. 47b-49a). Marginal notes. On fol. 1a : several ownership statements ; seal of Muḥammad Saʻīd al-Minqār. Foliation using Arabic numerals on fol. 1-56. Modern foliation
+      in pencil using Western numerals. The number "452" (corresponding to Brill's catalog) is written on the left upper corner of the upper cover</note>
+   <note type="origin">Copied on 1 Muḥarram 1214 ("fī ghurrat Muḥarram sanah 1214" [June 1799], colophon text 1, fol. 56a)</note>
+   <note type="contents">1. fol. 1a-56a : Kitāb al-Farāʼid fī maḥāsin al-fawāʼid / Ṭālib ibn ʻAbd al-Qādir al-Minqār</note>
+   <note type="contents">3. fol. 62b-66b : [Questions and answers on theological issues, starting with : "mā qawlu-kum raḍiya Allāhu ʻan-kum fī Iram dhāt al-ʻimād" (Qurʼān 89:6)]</note>
+   <note type="contents">5. fol. 75a-76a : Fāʼidah [on talismans?]</note>
+   <note type="contents">6. fol. 76b : Hādhihi ṣifat al-ism alladhī kāna maktūb ʻalá khātim Sulaymān</note>
+   <note type="contents">7. fol. 77a-b : [Inscriptions]</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900, from the books of Amīn ibn Ḥasan al-Hulwānī al-Madanī al-Ḥanafī (Medina)</note>
+   <note type="bindingInfo">Upper and lower covers made of black and red marbled paper over paper pasteboards (similar to Princeton University Library, Garrett no. 447H)</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab">Incipit text 1: الحمد لله الواحد القهار خالق الليل والنهار … اما بعد فيقول الفقير طالب … هذه فوايد جمعتها لامثالي الصغار وسميتها الفرايد [2ب] الفايدة
+      الاولى في فضل البسملة</note>
+   <note type="explicit" script="Arab">Explicit text 1: يا ارحم الراحمين ولا حول ولا قوة الا بالله العالى العظيم وصلى الله على سيدنا محمد واله وصحبته وسلم والحمد لله رب العالمين ورضي الله تعالى
+      عن كل الصحابة اجمعين</note>
+   <note type="incipit" script="Arab">Incipit text 2: فصل في ذكر ازواج النبي صلي … فقد اختلف العلماء في ترتيبهن واعدادهن وعدة من مات قبله</note>
+   <note type="explicit" script="Arab">Explicit text 2: وهي ان تدفعها للوالدين وقسم بماية الف وهي ان تدفعها لطالب العلم انتهى</note>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Talismans</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <topic>Use</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart>Muḥammad, Prophet, d. 632</namePart>
+      </name>
+      <topic>Family</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mustaches</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Beards</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islam</topic>
+      <topic>Customs and practices</topic>
+      <topic>Early works to 1800</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 946</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SII, 914</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 239H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/239h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4822276</recordOrigin>
+   </recordInfo>
+</mods>

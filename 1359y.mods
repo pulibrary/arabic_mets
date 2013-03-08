@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Fawāʼid fiqhīyah … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Sharīshī</namePart>
+      <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+      <namePart type="date">1294?-1368?</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">شريشي</namePart>
+      <namePart type="given">محمد بن احمد</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <genre>Waqf - Books</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1345</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 51 leaves: paper ; 189 × 132 (160 × 112) mm. bound to 188 × 143 mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of texts on fiqh and ḥadīth</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">Number of lines per page varies. Written in several scripts, mostly casual medium large naskh, in black ink. Dark cream paper with chain and laid lines visible.
+      Foliation in pencil using Western numerals, counting the first flyleaf as fol. 1</note>
+   <note type="origin">Text 3 (Faṣl al-munāzaʻah) was copied on 25 Rabīʻ al-Ākhar 746 (fol. 16a)</note>
+   <note type="contents">1. fol. 2a: [Table of contents]</note>
+   <note type="contents">2. fol. 3a: [Several inscriptions]</note>
+   <note type="contents">3. fol. 3b-8b: Fawāʼid fiqhīyah / Muḥammad ibn Aḥmad al-Sharīshī (d. 1368)</note>
+   <note type="contents">4. fol. 9a-12a: [Several short excerpts, quoting al-Shāmil, ʻAbd al-Wahhāb al-Subkī, the Ṣiḥaḥ of [Ismāʻīl ibn Ḥammād] al-Jawharī]</note>
+   <note type="contents">5. fol. 12b-14b: Alghāz / Abū Yūsuf [Muḥammad ibn al-Ḥasan al-Shaybānī (d. 804 or 5)]</note>
+   <note type="contents">6. fol. 15a: [Short quotation from Tāj al-Dīn [ʻAbd al-Wahhāb] al-Subkī]</note>
+   <note type="contents">7. fol. 16a-22a: Faṣl al-munāzaʻah fī taḥqīq kasr awāʼil al-afʻāl al-muḍāriʻah / Muḥammad ibn Yūnus Abū Zurʻah (d. 1348 or 9)</note>
+   <note type="contents">8. fol. 22b: [Inscriptions]</note>
+   <note type="contents">8. fol. 23a-29b: [Risālah fī al-ruwāt al-thiqāt. Selections] / Muḥammad ibn Aḥmad al-Dhahabī (d. 1348), abridgment by Muḥammad ibn Yūnus Abū Zurʻah (d. 1348
+      or 9)</note>
+   <note type="contents">9. fol. 30b-31b: [Inscriptions]</note>
+   <note type="contents">10. fol. 32a-41b: Asmāʼ al-ṣaḥābah alladhīna ittafaqa ʻalá al-ikhrāj lahum aṣḥāb al-kutub al-sittah</note>
+   <note type="contents">11. fol. 42a-52b: [Several paragraphs dealing mostly with legal matters, starting with a quotation from Sharaf al-Dīn al-Mursī (d. Rabīʻ al-Awwal 655/1257). Ibn ʻAqīl
+      is also quoted (fol. 49b)]</note>
+   <note type="provenance">Waqf (see note on fol. 4a, 12b, etc.). Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Brown leather over paper pasteboard (visible). The upper and lower covers are similarly blind tooled with a central square pattern and an outer frame consisting of
+      an s-shape running pattern and several fillets. Rebacked. Damaged</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Muḥammad</namePart>
+         <namePart type="termsOfAddress">Prophet</namePart>
+         <namePart type="date">d. 632</namePart>
+      </name>
+      <topic>Companions</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Arabic language</topic>
+      <topic>Grammar</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hadith</topic>
+      <topic>Authorities</topic>
+      <genre>Dictionaries</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Muslim scholars</topic>
+      <genre>Biography</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shafiites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 980, 1451, 3610, 4615, 4638</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Dhahabī</namePart>
+         <namePart type="given">Muḥammad ibn Aḥmad</namePart>
+         <namePart type="date">1274-1348</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī al-ruwāt al-thiqāt. Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Abū Zurʻah</namePart>
+         <namePart type="given">Muḥammad ibn Yūnus</namePart>
+         <namePart type="date">d. 1348 or 9</namePart>
+      </name>
+      <titleInfo>
+         <title>Faṣl al-munāzaʻah fī taḥqīq kasr awāʼil al-afʻāl al-muḍāriʻah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Mursī</namePart>
+         <namePart type="given">Muḥammad ibn ʻAbd Allāh</namePart>
+         <namePart type="date">d. 1257</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Shaybānī</namePart>
+         <namePart type="given">Muḥammad ibn al-Ḥasan</namePart>
+         <namePart type="date">ca. 750-804 or 5</namePart>
+      </name>
+      <titleInfo>
+         <title>Alghāz</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Asmāʼ al-ṣaḥābah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1359Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1359y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4854496</recordOrigin>
+   </recordInfo>
+</mods>

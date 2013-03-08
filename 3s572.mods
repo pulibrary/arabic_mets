@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="tur" altRepGroup="1">
+      <title>Lügat-i Halimî Çelebi</title>
+      <subTitle>bahr ül-garayib</subTitle>
+   </titleInfo>
+   <titleInfo script="Arab" lang="tur" altRepGroup="1">
+      <title>لغت حليمي چلبي</title>
+      <subTitle>بحر الغرايب</subTitle>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="tur" altRepGroup="2">
+      <namePart type="family">Ḥalīmī</namePart>
+      <namePart type="given">Luṭf Allāh ibn Yūsuf</namePart>
+      <namePart type="date">d. 1494 or 5</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="tur" altRepGroup="2">
+      <namePart type="family">حليمي</namePart>
+      <namePart type="given">لطف الله بن يوسف</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Turkish - 16th century</genre>
+   <originInfo>
+      <dateCreated>[between 15--? and 17--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="questionable">1500</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="questionable">1799</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ota</languageTerm>
+   </language><language>
+      <languageTerm type="code" authority="iso639-2b">per</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>84 leaves : paper ; 210 × 156 (150 × 135) mm. bound to 210 × 156 mm.</extent>
+   </physicalDescription>
+   <abstract>A Persian-Turkish literary dictionary</abstract>
+   
+   
+   <note>Ms. codex</note>
+   <note type="acquisition">Purchase : Adab Books, 11 Causewayside, Cambridge, CB3 9HD, England</note>
+   <note type="titleSrc">Title from fol. 1b</note>
+   <note type="physicalDetails">19 lines per page. Written in a casual medium small nastaʻlīq in black ink with use of red for headings and underlined words. Catchwords on the verso of each
+      leaf. Foliation in Arabic numerals in black ink. Glazed European paper. Some water damage around the edges of text block, and some insect damage around the spine. Ms. additions: a table
+      of numbers with their names in Persian with Turkish equivalents on fol. 1a; a list of additional words beginning with 'ya' after the end of text on fol. 84a; an inscription on inside of
+      lower cover stating that the copy is lacking two fol. Inscription on the lower edge of text block: "Lügat-i Halimî Çelebi, 132"</note>
+   <note type="bindingInfo">Olive paper over pasteboard on covers with brown leather on spine</note>
+   <note type="incipit" script="Arab">حمد بليغ وثناى بى دريغ … وبعد چنين ميكويد ضعيف وشكته بال ونحيف بر كشته حال</note>
+   <note type="explicit" script="Arab">اكرچه خانهء عمرم بهيده كرد بجور اساس عمر دى اندرامان حق بادا</note>
+   <subject authority="lcsh">
+      <topic>Persian language</topic>
+      <genre>Dictionaries</genre>
+      <topic>Turkish</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Turkish</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Persian</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Verzeichnis der Orientalischen Handschriften in Deutschland, XIII, 5 (198)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Third Series no. 572</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/3s572.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4253741</recordOrigin>
+   </recordInfo>
+</mods>

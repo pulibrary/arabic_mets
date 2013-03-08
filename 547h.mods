@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" usage="primary" supplied="yes">
+      <title>Collection of texts on occult sciences</title>
+   </titleInfo>
+   <genre>Manuscripts, Arabic - 18th century</genre>
+   <genre>Manuscripts, Arabic - 19th century</genre>
+   <originInfo>
+      <dateCreated>[between 17--? and 18--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1700</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1899</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>7 items.</extent>
+   </physicalDescription>
+   <abstract>Unbound collection of texts on occult sciences, in different hands and on papers from various provenance and format. See individual records for more details</abstract>
+   <note>Mss</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="contents">1. Item 1 : Risālah fī ʻilm al-zāyirjah al-ramlīyah ʻalá al-tamām wa-al-kamāl</note>
+   <note type="contents">2. Item 2 : al-Risālah al-mastūr li-inshirāḥ al-ṣudūr / ʻUmar Mīr al-Liwāʾ</note>
+   <note type="contents">3. Item 3 : al-Ḥāshiyah al-ikhtiṣārīyah al-ramlīyah al-falakīyah / ʻAlī ibn Ḥasan al-Jazāʾirlī</note>
+   <note type="contents">4. Item 4 : Risālah fī al-raml / Jaʻfar al-Ṣādiq</note>
+   <note type="contents">5. Item 5 : Risālah fī al-khātam al-miʾīnī ʻalá al-tamām wa-al-kamāl</note>
+   <note type="contents">6. Item 6 : Irsāl hawātif</note>
+   <note type="contents">7. Item 7 : Hādhā Kitāb al-Shiʻrah al-Yamānīyah wa-Malḥamat Dāniyāl / al-Ḥakīm Hirmis</note>
+   <note type="provenance">Acquired from Brill, Leyden, 1900</note>
+   <note type="bindingInfo">Unbound</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <topic>Divination</topic>
+      <topic>Religious aspects</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Occultism, Islamic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic magic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Hitti, P. Garrett coll., 929, 953, 954, 955, 956, 957, 958, 959, 960</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">Jaʻfar al-Ṣādiq</namePart>
+         <namePart type="date">702?-765 or 6</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah fī al-raml</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="given">ʻUmar Mīr al-Liwāʾ</namePart>
+      </name>
+      <titleInfo>
+         <title>Risālah al-mastūr li-inshirāḥ al-ṣudūr</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Jazāʾirlī</namePart>
+         <namePart type="given">ʻAlī ibn Ḥasan</namePart>
+      </name>
+      <titleInfo>
+         <title>Ḥāshiyah al-ikhtiṣārīyah al-ramlīyah al-falakīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Shiʻrá al-Yamānīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Irsāl hawātif</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālah fī al-khātam al-miʾīnī</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Risālah fī ʻilm al-zāyirjah al-ramlīyah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 547H</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/547h.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=5527364</recordOrigin>
+   </recordInfo>
+</mods>

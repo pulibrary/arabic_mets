@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" supplied="yes">
+      <title>Lamḥat al-mukhtaṭif fī al-farq bayna al-ṭalaq wa-al-ḥilf … etc.</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="1">
+      <namePart type="family">Ibn Taymīyah</namePart>
+      <namePart type="given">Aḥmad ibn ʻAbd al-Ḥalīm</namePart>
+      <namePart type="date">1263-1328</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="1">
+      <namePart type="family">ابن تيمية</namePart>
+      <namePart type="given">احمد بن عبد الحليم</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 15th century</genre>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1411</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>i, 98 leaves: paper ; 175 × 132 (135 × 103) mm.</extent>
+   </physicalDescription>
+   <abstract>Collection of several texts, mostly by Ibn Taymīyah</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title supplied by cataloger</note>
+   <note type="physicalDetails">19 lines per page. Written in medium small naskh in black ink. Catchword on the verso of each leaf. Dark cream glazed paper with laid and chain lines visible.
+      Fol. i is a fly-leaf with a modern label. On fol. 1a: Title of the first text followed by a table of contents by another hand (listing a few texts which are not in the actual state of the
+      ms.). In this table as in the numbering in red ink of the texts, some texts here distinguished are not considered separate (texts 6, 8, and 11 in the table of contents of this record).
+      On fol. 70a: Ownership statement and inscriptions. Foliation in pencil using Western numerals</note>
+   <note type="origin">Copied by Muḥammad ibn Muḥammad ibn Abī Shāmah al-M[-]lī al-Ḥanbalī in Shaʻbān 814 in the Madrasat Abī ʻUmar? [in Damascus?, cf. Sauvaget, Les monuments historiques de Damas,
+      no. 87] (see fol. 23a, 29b). However, if the Badr al-Dīn al-Ghazzī quoted on fol. 98a is Muḥammad ibn Muḥammad (1499-1577), this date might be incorrect</note>
+   <note type="provenance">Ownership statement on fol. 70a. Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Disbound. The sewing holes are visible</note>
+   <note type="contents">1. fol. 1a-5a: Lamḥat al-mukhtaṭif fī al-farq bayna al-ṭalaq wa-al-ḥilf / Ibn Taymīyah</note>
+   <note type="contents">2. fol. 5b-16a: Tafsīr al-Muʻawwidhatayn / Ibn Taymīyah</note>
+   <note type="contents">3. fol. 16b-23a: Tuḥfat al-ṭālib wa-minḥat al-rāghib</note>
+   <note type="contents">4. fol. 23b-29b: Qāʻidah fī al-amwāl al-sulṭānīyah / Ibn Taymīyah</note>
+   <note type="contents">5. fol. 30a-37a: Futyā fī al-raqʻatayn allatayn yuqāl fī-himā anna-humā sunnat al-jumʻah / Ibn Taymīyah</note>
+   <note type="contents">6. fol. 37a-37b: Masʼalah fī-mā yafʻaluhu baʻḍ al-khuṭabāʼ yawm al-jumʻah / [Ibn Taymīyah?]</note>
+   <note type="contents">7. fol. 38a-43b: Qāʻidah jalīlah fī taḥzīb al-Qurʼān wa-fī kam yuqraʼ wa-fī bayān miqdār al-ṣiyām wa-al-qiyām al-mashrūʻ / Ibn Taymīyah</note>
+   <note type="contents">8. fol. 43b-45b: Faṣl sūrat Ḥāʼ Mīm al-Sajdah / Ibn Taymīyah</note>
+   <note type="contents">9. fol. 46a-52b: Masāʼil fī al-ijārah wa-naqḍ baʻḍ al-munfaʻah wa-al-jawāʼiḥ wa-al-farq bayna al-jāʼiḥah fī al-thamar wa-al-zarʻ wa-ghayr dhālika / Ibn Taymīyah</note>
+   <note type="contents">10. fol. 53a-60a: Faṣl fīman awqaʻa al-ʻuqūd al-muḥarramah thumma tāba / Ibn Taymīyah</note>
+   <note type="contents">11. fol. 60a-62a: Faṣl fī iʻtibār al-nīyah fī al-nikāḥ / Ibn Taymīyah</note>
+   <note type="contents">12. fol. 62b-69b: Bayān al-hudá wa-al-ẓilāl fī amr al-hilāl / Ibn Taymīyah</note>
+   <note type="contents">13. fol. 70a-81b: Qāʻidah sharīfah fī tafsīr qawlihi a-fa-ghayr Allāh attakhidhu walīyan fāṭir al-samawāt wa-al-arḍ wa-huwa yuṭʻimu wa-lā yuṭʻamu / Ibn Taymīyah</note>
+   <note type="contents">14. fol. 82a-97b: Qāʻidah fī al-luʻb bi-al-shiṭranj / Ibn Taymīyah</note>
+   <note type="contents">15. fol. 98a: [Verses of poetry] / Badr al-Dīn al-Ghazzī</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <genre>Commentaries</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <titleInfo type="uniform">
+         <title>Koran</title>
+      </titleInfo>
+      <genre>Numerical division</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Chess</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hanbalites</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic law</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prayer</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ramadan</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Religious life</topic>
+      <topic>Islam</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 115, 423, 436, 455, 1518, 1519, 1520, 1521, 1522, 1730, 1823, 1824, 2039, 2981</note>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ghazzī</namePart>
+         <namePart type="given">Badr al-Dīn</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Ibn Taymīyah</namePart>
+         <namePart type="given">Aḥmad ibn ʻAbd al-Ḥalīm</namePart>
+         <namePart type="date">1263-1328</namePart>
+      </name>
+      <titleInfo>
+         <title>Selections</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Masʼalah fī-mā yafʻaluhu baʻḍ al-khuṭabāʼ yawm al-Jumʻah</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Tuḥfat al-ṭālib wa-minḥat al-rāghib</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection.</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1377Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1377y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4855296</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <titleInfo script="Latn" lang="ara" altRepGroup="1">
+      <title>Aṭbāq al-dhahab</title>
+   </titleInfo>
+   <titleInfo script="Arab" lang="ara" altRepGroup="1">
+      <title>اطباق الذهب</title>
+   </titleInfo>
+   <name type="personal" authority="naf" script="Latn" lang="ara" altRepGroup="2">
+      <namePart type="family">Iṣfahānī</namePart>
+      <namePart type="given">ʻAbd al-Muʼmin ibn Hibat Allāh</namePart>
+      <namePart type="date">d. 1203 or 4</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" script="Arab" lang="ara" altRepGroup="2">
+      <namePart type="family">اصفهاني</namePart>
+      <namePart type="given">عبد المؤمن بن هبة الله</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">ʻĀmilī</namePart>
+      <namePart type="given">Bahāʼ al-Dīn Muḥammad ibn Ḥusayn</namePart>
+      <namePart type="date">1547-1621</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Tabrīzī</namePart>
+      <namePart type="given">Muḥammad ibn Muḥibb ʻAlī</namePart>
+      <namePart type="date">17th cent</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" script="Latn" lang="ara">
+      <namePart type="family">Hamadhānī</namePart>
+      <namePart type="given">Muḥammad ibn ʻAbd al-Wahhāb</namePart>
+      <namePart type="date">d. 1885 or 6</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="code">fmo</roleTerm>
+      </role>
+   </name>
+   <genre>Manuscripts, Arabic - 14th century</genre>
+   <originInfo>
+      <dateCreated>[13--?]</dateCreated>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1300</dateCreated>
+      <dateCreated encoding="w3cdtf" qualifier="questionable">1399</dateCreated>
+   </originInfo><language>
+      <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>68 leaves : paper ; 152 × 115 (126 × 85) mm. bound to 155 × 120 mm.</extent>
+   </physicalDescription>
+   <abstract>Moral treatise, being an imitation of Abū al-Qāsim al-Zamakhsharī's Aṭwāq al-dhahab (GAL). Incomplete at end, comprising the text up to maqālah 98</abstract>
+   <note>Ms. codex</note>
+   <note type="titleSrc">Title from beginning of text (fol. 5b, l. 3)</note>
+   <note type="physicalDetails">13 lines per page. Written in medium large naskh in black ink with use of red for punctuation and re-inking of the headings. Dark cream paper with no lines visible.
+      Interlinear annotations (mostly Persian translation of the text). Fol. 1-2 and 67-68: fly-leaves (European glazed paper with watermark). Fol. 67-68: blank, except inscription on fol. 68b.
+      Fol. 3a seems to be a fly-leaf pasted on an original leaf. Foliation in pencil using Western numerals. On a piece of paper pasted on fol. 68b: Inscription with the mention of the title
+      and inscription "Raqm 24" in Arabic script</note>
+   <note type="origin">According to R. Mach, copied in the 8th cent. H</note>
+   <note>Collation: Paper ; first quire difficult to determine. From fol. 9a: 1-7⁸ + 2 (fol. 65-66); quires are numbered using Arabic ordinals (in the form "al-thānī", see fol. 9a) ; catchword
+      on the verso of each leaf</note>
+   <note type="provenance">Autograph dedication by Muḥammad Bahāʼ al-Dīn al-ʻĀmilī to Ṣadr al-Dīn Muḥammad al-Tabrīzī ; ownership statement by Muḥammad ibn ʻAbd al-Wahhāb al-Hamadānī
+      (fol. 3a). Acquired from Abraham Shalom Yahuda, 1942</note>
+   <note type="bindingInfo">Stiffened red leather with similar blind tooling on the upper and lower covers: single fillet frame enclosed in an outer frame made of fillets and a running s-shape
+      pattern. Paper pastedowns</note>
+   <note type="acquisition">Gift ; Robert Garrett, Class of 1897 ; 1942</note>
+   <note type="incipit" script="Arab"> الهمّ انّا نحمدك على ما اسبلت من جلابيب كرمك … [4أ] … وبعد فقد اشار اليّ ولي من اولياء الله مدة قلادة الرقاب</note>
+   <note type="explicit" script="Arab"> والاخرى امة مريدة فاجعل للحدّة […] لها قسمين وللامة قسماً فانّ لها فى كتاب</note>
+   <subject authority="lcsh">
+      <name type="personal" authority="naf" script="Latn" lang="ara">
+         <namePart type="family">Zamakhsharī</namePart>
+         <namePart type="given">Maḥmūd ibn ʻUmar</namePart>
+         <namePart type="date">1075-1144</namePart>
+      </name>
+      <titleInfo>
+         <title>Aṭwāq al-dhahab</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic sermons, Arabic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shīʻah</topic>
+      <genre>Sermons</genre>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Islamic literature, Arabic</topic>
+      <genre>Early works to 1800</genre>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manuscripts, Arabic</topic>
+      <geographic>New Jersey</geographic>
+      <geographic>Princeton</geographic>
+   </subject>
+   <relatedItem type="isReferencedBy">
+      <note>Mach, R. Yahuda, 4312</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, I, 292 (XVI/Nachahmungen. a)</note>
+   </relatedItem>
+   <relatedItem type="isReferencedBy">
+      <note>Brockelmann, C. GAL, SI, 512 (XVII/Nachahmungen. a)</note>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Islamic Manuscripts Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://arks.princeton.edu/ark:/88435/cj82k733w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation type="text">Princeton University Library. Department of Rare Books and Special Collections. Manuscripts Collection</physicalLocation>
+      <physicalLocation authority="marcorg" type="code">NjP</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>mss</subLocation>
+            <shelfLocator>Islamic Manuscripts, Garrett no. 1393Y</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html"/>
+   <accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html"/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordIdentifier>http://diglib.princeton.edu/mdata/pudl0032/1393y.mods</recordIdentifier>
+      <recordOrigin>http://catalog.princeton.edu/cgi-bin/Pwebrecon.cgi?BBID=4789774</recordOrigin>
+   </recordInfo>
+</mods>
